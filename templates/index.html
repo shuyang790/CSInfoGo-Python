@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+
+{# ======================================= #}
+
+{% block page_content %}
+        <div class="page-header">
+            <center>
+                <h1>CSInfoGle: 
+                    Hello, CSers!</h1><h4>
+                Input a name or university name/abbreviation, and magic happens!</h4>
+            </center>
+        </div>
+        <div class="container">
+            <center>
+            <div class="container" style="padding-top: 18px">
+                <form role="form" method="get" action="/home">
+                    <input type="text" class="form-control" name="keyword">
+                    <br />
+                    <button type="submit" class="btn btn-primary btn-lg">Search</button>
+                </form>
+            </div>
+            </center>
+        </div>
+{% endblock %}

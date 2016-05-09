@@ -1,13 +1,16 @@
 {% extends "base.html" %}
 
+{% block scripts %}
+
+{% endblock %}
 
 {# ======================================= #}
 
 {% block page_content %}
         <div class="page-header">
             <center>
-                <h1>CSInfoGle: 
-                    Hello, CSers!</h1><h4>
+                <h1>CSInfoGle:
+                    Hi, CSers!</h1><h4>
                 Input a name or university name/abbreviation, and magic happens!</h4>
             </center>
         </div>
@@ -15,11 +18,56 @@
             <center>
             <div class="container" style="padding-top: 18px">
                 <form role="form" method="get" action="/home">
-                    <input type="text" class="form-control" name="keyword">
+                    {% if keyword %}
+                        <input type="text" class="form-control input-lg" name="keyword", value="{{keyword}}">
+                    {% else %}
+                        <input type="text" class="form-control input-lg" name="keyword">
+                    {% endif %}
                     <br />
                     <button type="submit" class="btn btn-primary btn-lg">Search</button>
                 </form>
             </div>
             </center>
         </div>
+        {% if items %}
+            <div class="container" style="padding-top: 20px">
+                <div class="alert alert-success">
+                    <storng> Success! </strong> Last Search: {{keyword}}
+                </div>
+                {% for item in items %}
+                    <div class="panel panel-info">
+                        <div class="panel-heading"> {{item.Name}} </div>
+                        <div class="panel-body">
+                            <p>
+                                <strong>{{item.Name}}</strong>
+                                {% if item.Funding == "Yes" %}
+                                    <span class="label label-success">
+                                        Funding
+                                    </span>
+                                {% endif %}
+                            </p>
+                            <p>{{item.University}} (Rank
+                                {% if item.CSRank %}
+                                    <span class="label label-warning"> CS {{item.CSRank}} </span>
+                                {% endif %}
+                            )</p>
+                            <p>
+                                <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
+                                    Search in Bing
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                {% endfor %}
+                <ul class="pager">
+                    <li class="previous">
+                        <a href="/home?keyword={{keyword}}&page={{prevPage}}">Previous</a>
+                    </li>
+                    <strong>Page</strong> {{curPage}} / {{totalPage}}
+                    <li class="next">
+                        <a href="/home?keyword={{keyword}}&page={{nextPage}}">Next</a>
+                    </li>
+                </ul>
+            </div>
+        {% endif %}
 {% endblock %}

@@ -1,0 +1,20 @@
+1|Carnegie Mellon University
+2|University of California-​Berkeley
+3|Stanford University
+4|Massachusetts Institute of Technology
+5|Princeton University
+6|Cornell University
+7|University of Pennsylvania
+8|University of Texas-Austin
+9|University of Illinois-Urbana-Champaign
+10|University of Wisconsin-Madison
+11|Harvard University
+11|Rice University
+13|Georgia Institute of Technology
+13|Northeastern University
+13|University of Maryland-College Park
+13|University of Washington
+17|Columbia University
+17|Purdue University-West Lafayette
+17|University of California-Los Angeles
+20|Indiana University-Bloomington

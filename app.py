@@ -1,6 +1,7 @@
 #!/usr/bin/python
 from flask import Flask, render_template, request
 from flask_bootstrap import Bootstrap
+import time
 
 import search
 
@@ -23,6 +24,7 @@ def index():
 
         pageInfo, items = search.getItems(keyword, page)
         return render_template('index.html', \
+                curTime=str(time.asctime()), \
                 totalPage=pageInfo["totalPage"], \
                 curPage=pageInfo["curPage"], \
                 prevPage=str(int(pageInfo["curPage"]) - 1) if \
@@ -39,4 +41,5 @@ def about():
     return render_template('about.html')
 
 if __name__ == '__main__':
+    search.init()
     app.run(host='::', debug=True, port=4000)

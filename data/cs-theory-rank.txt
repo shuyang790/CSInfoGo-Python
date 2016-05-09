@@ -1,0 +1,17 @@
+1|University of California-​Berkeley
+2|Massachusetts Institute of Technology
+3|Stanford University
+4|Princeton University
+5|Carnegie Mellon University
+6|Cornell University
+7|Harvard University
+8|Georgia Institute of Technology
+9|University of Washington
+10|University of Texas-​Austin
+11|University of Illinois-​Urbana-​Champaign
+12|Columbia University
+13|University of Chicago
+14|University of California-​San Diego
+15|California Institute of Technology
+15|Yale University
+17|University of California-​Los Angeles

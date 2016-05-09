@@ -11,7 +11,7 @@
             <center>
                 <h1>CSInfoGle:
                     Hi, CSers!</h1><h4>
-                Input a name or university name/abbreviation, and magic happens!</h4>
+                Input a faculty name or a university name / abbreviatoin, and magic happens!</h4>
             </center>
         </div>
         <div class="container">
@@ -32,19 +32,35 @@
         {% if items %}
             <div class="container" style="padding-top: 20px">
                 <div class="alert alert-success">
-                    <storng> Success! </strong> Last Search: {{keyword}}
+                    <strong> Success! </strong>
+                    Last Search: <strong> {{keyword}} </strong>
+                    at {{curTime}}
                 </div>
                 {% for item in items %}
                     <div class="panel panel-info">
-                        <div class="panel-heading"> {{item.Name}} </div>
+                        <div class="panel-heading">
+                            <strong>
+                                {{item.Name}}
+                            </strong>
+                            {% if item.Funding == "Yes" %}
+                                <span class="label label-success">
+                                    Funding
+                                </span>
+                            {% endif %}
+                            {% if item.ACMFellow == "Yes" %}
+                                <span class="label label-primary">
+                                    ACM Fellow
+                                </span>
+                            {% endif %}
+                            {% if item.IEEEFellow == "Yes" %}
+                                <span class="label label-primary">
+                                    IEEE Fellow
+                                </span>
+                            {% endif %}
+                        </div>
                         <div class="panel-body">
                             <p>
                                 <strong>{{item.Name}}</strong>
-                                {% if item.Funding == "Yes" %}
-                                    <span class="label label-success">
-                                        Funding
-                                    </span>
-                                {% endif %}
                             </p>
                             <p>{{item.University}} (Rank
                                 {% if item.CSRank %}
@@ -63,7 +79,10 @@
                     <li class="previous">
                         <a href="/home?keyword={{keyword}}&page={{prevPage}}">Previous</a>
                     </li>
-                    <strong>Page</strong> {{curPage}} / {{totalPage}}
+                    <strong>Page</strong>
+                        {{curPage}}
+                            /
+                        {{totalPage}}
                     <li class="next">
                         <a href="/home?keyword={{keyword}}&page={{nextPage}}">Next</a>
                     </li>

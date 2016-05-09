@@ -1,0 +1,80 @@
+1|Carnegie Mellon University
+1|Massachusetts Institute of Technology
+1|Stanford University
+1|University of California-​Berkeley
+5|University of Illinois-​Urbana-​Champaign
+6|Cornell University
+6|University of Washington
+8|Princeton University
+9|Georgia Institute of Technology
+9|University of Texas-​Austin
+11|California Institute of Technology
+11|University of Wisconsin-​Madison
+13|University of California-​Los Angeles
+13|University of Michigan-​Ann Arbor
+15|Columbia University
+15|University of California-​San Diego
+15|University of Maryland-​College Park
+18|Harvard University
+19|University of Pennsylvania
+20|Brown University
+20|Purdue University-​West Lafayette
+20|Rice University
+20|University of Southern California
+20|Yale University
+25|Duke University
+25|University of Massachusetts-​Amherst
+25|University of North Carolina-​Chapel Hill
+28|Johns Hopkins University
+29|New York University (new york)
+29|Pennsylvania State University-​University Park
+29|University of California-​Irvine
+29|University of Minnesota-​Twin Cities
+29|University of Virginia
+34|Northwestern University
+34|Ohio State University
+34|Rutgers, The State University of New Jersey-​New Brunswick
+34|University of California-​Davis
+34|University of California-​Santa Barbara
+34|University of CHicago
+40|Dartmouth College
+40|Stony Brook University
+40|Texas A&M University
+40|University of Arizona
+40|University Of Colorado-​Boulder
+40|University of Utah
+40|Virginia Tech
+40|Washington University in St. Louis
+48|Arizona State University
+48|Boston University
+48|North Carolina State University
+48|University of Florida
+52|Indiana University-​Bloomington
+52|Rensselaer Polytechnic Institute
+52|University of Pittsburgh
+52|University of Rochester
+56|Michigan State University
+56|University of California-​Riverside
+56|University of California-​Santa Cruz
+56|Vanderbilt University
+60|Northeastern University
+60|University of Illinois-​Chicago
+60|University of Notre Dame
+63|Iowa State University
+63|University at Buffalo-​SUNY
+63|University of Iowa
+63|University of Oregon
+67|George Mason University
+67|Oregon State University
+67|Syracuse University
+70|Case Western Reserve University
+70|College of William and Mary
+70|Colorado State University
+70|Naval Postgraduate School
+70|New York University (brooklyn)
+70|Tufts University
+70|University of Delaware
+70|University of Maryland-​Baltimore County
+70|University of Nebraska-​Lincoln
+70|University of Tennessee-​Knoxville
+70|University of Texas-​Dallas

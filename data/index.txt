@@ -1,0 +1,3500 @@
+11-CIT|Adam Wierman|False|False|True
+11-CIT|Babak Hassibi|False|False|False
+11-CIT|Carver Mead|False|False|False
+11-CIT|Christopher Umans|False|False|True
+11-CIT|Damien Woods|False|False|False
+11-CIT|Dan Meiron|False|False|False
+11-CIT|Douglas MacMartin|False|False|False
+11-CIT|Erik Winfree|False|False|False
+11-CIT|Gerard Holzmann|False|False|False
+11-CIT|Houman Owhadi|False|False|False
+11-CIT|James Scovel|False|False|False
+11-CIT|John Doyle|False|False|False
+11-CIT|John Preskill|False|False|False
+11-CIT|Kanianthra Mani Chandy|False|False|False
+11-CIT|Katrina Ligett|False|False|False
+11-CIT|Lulu Qian|False|False|False
+11-CIT|Mathieu Desbrun|False|False|False
+11-CIT|Michael Hucka|False|False|False
+11-CIT|Omer Tamuz|False|False|False
+11-CIT|Paul Rothemund|False|False|False
+11-CIT|Peter Schroeder|False|False|False
+11-CIT|Pietro Perona|False|False|False
+11-CIT|Steven Low|False|False|False
+11-CIT|Thomas Vidick|False|False|True
+11-CIT|Venkat Chandrasekaran|False|False|False
+11-CIT|Victoria Kostina|False|False|False
+11-CIT|Yisong Yue|False|False|False
+11-CIT|Yizhao Thomas Hou|False|False|False
+11-UWM|Aditya Akella|False|False|True
+11-UWM|Amos Ron|False|False|False
+11-UWM|Andrea ArpaciDusseau|False|False|True
+11-UWM|AnHai Doan|False|False|True
+11-UWM|Aws Albarghouthi|False|False|False
+11-UWM|Barton Miller|True|False|False
+11-UWM|Ben Liblit|False|False|True
+11-UWM|Bilge Mutlu|False|False|True
+11-UWM|Charles Dyer|False|True|False
+11-UWM|David Wood|True|True|False
+11-UWM|Deborah Joseph|False|False|False
+11-UWM|Dieter van Melkebeek|False|False|True
+11-UWM|Eftychios Sifakis|False|False|False
+11-UWM|Eric Bach|False|False|False
+11-UWM|Gurindar Sohi|True|True|False
+11-UWM|Jeffrey Naughton|True|False|False
+11-UWM|Jerry Zhu|False|False|True
+11-UWM|Jignesh Patel|True|False|True
+11-UWM|JinYi Cai|False|False|False
+11-UWM|Jude Shavlik|False|False|True
+11-UWM|Karthikeyan Sankaralingam|False|False|True
+11-UWM|Loris D'Antoni|False|False|False
+11-UWM|Michael Ferris|False|False|True
+11-UWM|Michael Gleicher|False|False|True
+11-UWM|Michael Swift|False|False|True
+11-UWM|Miron Livny|False|False|False
+11-UWM|Mohit Gupta|False|False|False
+11-UWM|Paris Koutris|False|False|False
+11-UWM|Paul Barford|False|False|True
+11-UWM|Remzi ArpaciDusseau|False|False|True
+11-UWM|Shuchi Chawla|False|False|False
+11-UWM|Somesh Jha|False|False|True
+11-UWM|Stephen Wright|False|False|False
+11-UWM|Suman Banerjee|False|False|True
+11-UWM|Thomas Reps|True|False|True
+13-UCLA|Leonard Kleinrock|True|True|True
+13-UCLA|Adnan Darwiche|False|False|False
+13-UCLA|Alan Yuille|False|False|True
+13-UCLA|Alexander Sherstov|False|False|True
+13-UCLA|Algirdas Avizienis|False|True|False
+13-UCLA|Allen Klinger|False|True|True
+13-UCLA|Ameet Talwalkar|False|False|True
+13-UCLA|Amit Sahai|False|False|True
+13-UCLA|Ani Nahapetian|False|False|False
+13-UCLA|Carlo Zaniolo|False|False|True
+13-UCLA|Christopher Lee|False|False|True
+13-UCLA|Deborah Estrin|False|True|True
+13-UCLA|Eddie Kohler|False|False|False
+13-UCLA|Eleazar Eskin|False|False|False
+13-UCLA|Eliezer Gafni|False|False|True
+13-UCLA|Fabien Scalzo|False|False|True
+13-UCLA|Fei Sha|False|False|True
+13-UCLA|Glenn Reinman|False|False|False
+13-UCLA|Guy Van den Broeck|False|False|False
+13-UCLA|Jack Carlyle|False|True|False
+13-UCLA|Jacques Vidal|False|False|False
+13-UCLA|Jason (Jingsheng) Cong|True|True|False
+13-UCLA|Jennifer Wortman Vaughan|False|False|False
+13-UCLA|Jens Palsberg|False|False|False
+13-UCLA|Joseph Distefano III|False|True|False
+13-UCLA|Judea Pearl|False|False|False
+13-UCLA|Junghoo (John) Cho|False|False|True
+13-UCLA|Leon Levine|False|True|False
+13-UCLA|Lixia Zhang|False|False|False
+13-UCLA|Majid Sarrafzadeh|False|True|True
+13-UCLA|Mani Srivastava|False|True|True
+13-UCLA|Mario Gerla|False|True|False
+13-UCLA|Miodrag Potkonjak|False|False|False
+13-UCLA|Miryung Kim|False|False|True
+13-UCLA|Paul Eggert|False|False|False
+13-UCLA|Peter Reiher|False|False|True
+13-UCLA|Rafail Ostrovsky|False|False|True
+13-UCLA|Rajive Bagrodia|False|True|True
+13-UCLA|Ramin Ramezani|False|False|False
+13-UCLA|Richard Korf|False|False|True
+13-UCLA|Rupak Majumdar|False|False|False
+13-UCLA|Sheila Greibach|False|True|False
+13-UCLA|Song Chun Zhu|False|False|True
+13-UCLA|Songwu Lu|False|False|False
+13-UCLA|Stanley Osher|False|False|True
+13-UCLA|Stefano Soatto|False|False|False
+13-UCLA|Todd Millstein|False|False|False
+13-UCLA|Tyson Condie|False|False|False
+13-UCLA|Wei Wang|False|False|True
+13-UCLA|Wesley Chu|False|True|False
+13-UCLA|Yuval Tamir|False|False|False
+13-UMAA|Abernethy Jacob |False|False|True
+13-UMAA|Abney Steven |False|False|False
+13-UMAA|Anastasopoulos Achilleas |False|False|False
+13-UMAA|Austin Todd |False|False|False
+13-UMAA|Balzano Laura |False|False|False
+13-UMAA|Bertacco Valeria |False|False|True
+13-UMAA|Bhattacharya Pallab |False|False|False
+13-UMAA|Brehob Mark |False|False|True
+13-UMAA|Carmon Tal |False|False|False
+13-UMAA|Chesney David |False|False|True
+13-UMAA|Corso Jason |False|False|True
+13-UMAA|Das Reetuparna |False|False|False
+13-UMAA|Deng Jia |False|False|False
+13-UMAA|Deotare Parag |False|False|True
+13-UMAA|Dreslinski Ron |False|False|False
+13-UMAA|Dutta Prabal |False|False|True
+13-UMAA|Essl Georg |False|False|True
+13-UMAA|Finelli Cynthia |False|False|True
+13-UMAA|Flinn Jason |False|False|False
+13-UMAA|Fu Kevin |False|False|True
+13-UMAA|Grbic Anthony |False|False|False
+13-UMAA|Guan Yuanfang |False|False|True
+13-UMAA|Hofmann Heath |False|False|False
+13-UMAA|Honeyman Peter |False|False|True
+13-UMAA|Jagadish HV |False|False|True
+13-UMAA|Jahanian Farnam |False|False|False
+13-UMAA|Jamin Sugih |False|False|True
+13-UMAA|Jenkins Chad |False|False|False
+13-UMAA|JohnsonRoberson Matthew |False|False|True
+13-UMAA|Kamil Amir |False|False|True
+13-UMAA|Kanicki Jerzy |False|False|False
+13-UMAA|Koutra Danai |False|False|True
+13-UMAA|Kuipers Benjamin |False|False|False
+13-UMAA|Kurabayashi Katsuo |False|False|True
+13-UMAA|Lafortune Stephane |False|False|False
+13-UMAA|Lasecki Walter |False|False|True
+13-UMAA|Lee Honglak |False|False|True
+13-UMAA|Liu Mingyan |True|False|True
+13-UMAA|Lu Wei |False|False|True
+13-UMAA|Madhyastha Harsha |False|False|True
+13-UMAA|Mahlke Scott |False|False|True
+13-UMAA|Mao Zhuoqing Morley |False|False|True
+13-UMAA|Markov Igor |False|True|True
+13-UMAA|Mars Jason |False|False|True
+13-UMAA|Mathieu Johanna |False|False|True
+13-UMAA|Mazumder Pinaki |False|False|True
+13-UMAA|Mei Qiaozhu |False|False|True
+13-UMAA|Merlin Roberto |False|False|False
+13-UMAA|Michielssen Eric |False|True|True
+13-UMAA|Mihalcea Rada |False|False|True
+13-UMAA|Mortazawi Amir |False|False|False
+13-UMAA|Mower Provost Emily |False|False|False
+13-UMAA|Mozafari Barzan |False|False|True
+13-UMAA|Mudge Trevor |False|True|False
+13-UMAA|Najafi Khalil |False|False|False
+13-UMAA|Narayanasamy Satish |False|False|False
+13-UMAA|Nguyen Long |False|False|False
+13-UMAA|Noble Brian |False|False|False
+13-UMAA|Olson Edwin |False|False|False
+13-UMAA|Ozay Necmiye |False|False|True
+13-UMAA|Papaefthymiou Marios |False|False|True
+13-UMAA|Peikert Christopher |False|False|True
+13-UMAA|Pettie Seth |False|False|False
+13-UMAA|Pollack Martha |False|False|False
+13-UMAA|Prakash Atul |False|False|False
+13-UMAA|Radev Dragomir |True|False|False
+13-UMAA|RaisZadeh Mina |False|False|True
+13-UMAA|Rand Stephen |False|False|True
+13-UMAA|Sarabandi Kamal |False|True|True
+13-UMAA|Savarese Silvio |False|False|False
+13-UMAA|Schoenebeck Grant |False|False|True
+13-UMAA|Seymour John |False|False|False
+13-UMAA|Shi Yaoyun |False|False|True
+13-UMAA|Singh Jasprit |False|False|False
+13-UMAA|Steel Duncan |False|False|False
+13-UMAA|Subramanian Vijay |False|False|True
+13-UMAA|Sylvester Dennis |False|False|False
+13-UMAA|Teneketzis Demosthenis |False|False|False
+13-UMAA|Terry Fred |False|False|True
+13-UMAA|Tewari Ambuj |False|False|False
+13-UMAA|Tilbury Dawn |False|False|True
+13-UMAA|Tsang Leung |False|True|True
+13-UMAA|Van Hentenryck Pascal |False|False|True
+13-UMAA|Wellman Michael |False|False|False
+13-UMAA|Wiens Jenna |False|False|True
+13-UMAA|Winful Herbert |False|False|True
+13-UMAA|Yoon Euisik |False|False|False
+13-UMAA|Zhang Zhengya |False|False|True
+13-UMAA|Zhong Zhaohui |False|False|False
+13-UMAA|Zhou Shuheng |False|False|False
+15-CU|Allen Peter Kirby|False|False|True
+15-CU|Belhumeur Peter N|False|False|True
+15-CU|Bishop Allison |False|False|False
+15-CU|Blaer Paul S|False|False|False
+15-CU|Blei David |False|False|False
+15-CU|Cannon Adam H|False|False|False
+15-CU|Carloni Luca |False|False|False
+15-CU|Chaintreau Augustin |False|False|False
+15-CU|Chang ShihFu |False|False|False
+15-CU|Chen Xi |False|False|True
+15-CU|Ciocarlie Matei |False|False|True
+15-CU|Coffman Ed |True|True|True
+15-CU|Collins Michael |False|False|True
+15-CU|Drinea Eleni |False|False|True
+15-CU|Elhadad Noemie |False|False|True
+15-CU|Feiner Steven K|False|False|False
+15-CU|Galil Zvi |True|False|False
+15-CU|Geambasu Roxana |False|False|True
+15-CU|Gravano Luis |False|False|True
+15-CU|Grinspun Eitan |False|False|True
+15-CU|Hsu Daniel J|False|False|True
+15-CU|Jebara Tony |False|False|True
+15-CU|Kaiser Gail E|False|False|True
+15-CU|Kender John R|False|False|True
+15-CU|Keromytis Angelos D|False|False|True
+15-CU|Kim Martha A|False|False|True
+15-CU|Lee Jae Woo|False|False|False
+15-CU|Lipson Hod |False|False|True
+15-CU|Malkin Tal G|False|False|True
+15-CU|McKeown Kathleen |True|False|True
+15-CU|Misra Vishal |False|True|False
+15-CU|Nayar Shree K|False|False|False
+15-CU|Nieh Jason |False|False|True
+15-CU|Nowick Steven |False|False|True
+15-CU|Pe'er Dana |False|False|True
+15-CU|Pe'er Itsik G|False|False|False
+15-CU|PenaMora Feniosky |False|False|False
+15-CU|Ross Kenneth A|False|False|True
+15-CU|Rubenstein Dan |False|False|True
+15-CU|SallebAouissi Ansaf |False|False|False
+15-CU|Schulzrinne Henning G|False|False|True
+15-CU|Sethumadhavan Simha |False|False|True
+15-CU|Stein Clifford |False|False|True
+15-CU|Stolfo Salvatore J|False|False|True
+15-CU|Unger Stephen H|False|False|False
+15-CU|Venkatasubramanian Venkat |False|False|True
+15-CU|Waltz David |False|False|True
+15-CU|Wozniakowski Henryk |False|False|False
+15-CU|Yang Junfeng |False|False|True
+15-CU|Yannakakis Mihalis |False|False|False
+15-CU|Yemini Yechiam |False|False|True
+15-CU|Zheng Changxi |False|False|True
+15-CU|Zussman Gil |False|False|True
+15-UMD|Adam Porter  |False|False|True
+15-UMD|Alan Sussman  |False|False|False
+15-UMD|Alexander Barg  |False|False|False
+15-UMD|Amitabh Varshney  |False|False|True
+15-UMD|Amol Deshpande  |False|False|True
+15-UMD|Andre Tits  |False|False|True
+15-UMD|Andrew Childs  |False|False|True
+15-UMD|Anwar Mamat  |False|False|False
+15-UMD|Aravind Srinivasan  |False|True|True
+15-UMD|Arnab Ray  |False|False|True
+15-UMD|Ashok Agrawala  |True|False|True
+15-UMD|Atif Memon  |False|False|True
+15-UMD|Babak Hamidzadeh  |False|False|False
+15-UMD|Ben Bederson  |False|False|True
+15-UMD|Ben Shneiderman  |False|False|True
+15-UMD|Bobby Bhattacharjee  |False|False|True
+15-UMD|Bonnie Dorr  |False|False|True
+15-UMD|Bruce Jacob  |False|False|False
+15-UMD|Charalampos (Babis) Papamanthou  |False|False|False
+15-UMD|Clyde Kruskal  |False|False|True
+15-UMD|Colin Dixon  |False|False|False
+15-UMD|Dana DachmanSoled  |False|False|False
+15-UMD|Dana Nau  |False|False|True
+15-UMD|Dave Levin  |False|False|False
+15-UMD|David Doermann  |False|True|True
+15-UMD|David Jacobs  |False|False|False
+15-UMD|David Mount  |False|False|False
+15-UMD|David Van Horn  |False|False|True
+15-UMD|Dianne O'Leary  |False|False|False
+15-UMD|Don Perlis  |False|False|True
+15-UMD|Donald Yeung  |False|False|True
+15-UMD|Douglas Oard  |False|False|False
+15-UMD|Dov Gordon  |False|False|False
+15-UMD|Evan Golub  |False|False|True
+15-UMD|Eytan Ruppin  |False|False|False
+15-UMD|Fawzi Emad  |False|False|False
+15-UMD|FengHao Liu  |False|False|False
+15-UMD|Hai Huang  |False|False|False
+15-UMD|Hal Daume III  |False|False|False
+15-UMD|Hanan Samet  |False|False|False
+15-UMD|Hector Corrada Bravo  |False|False|True
+15-UMD|Howard Elman  |False|False|True
+15-UMD|Jack Minker  |True|False|False
+15-UMD|Jacob AlperinSherrif  |False|False|False
+15-UMD|James Purtilo  |False|False|False
+15-UMD|James Reggia  |False|False|True
+15-UMD|Jandelyn Plane  |False|False|False
+15-UMD|Jeffrey Foster  |False|False|True
+15-UMD|Jennifer Golbeck  |False|False|True
+15-UMD|John Aloimonos  |False|False|True
+15-UMD|John Grant  |True|False|False
+15-UMD|John Horty  |False|False|False
+15-UMD|Jon Froehlich  |False|False|False
+15-UMD|Jonathan Katz  |False|False|True
+15-UMD|Joseph Ja' Ja'  |False|False|True
+15-UMD|Larry Davis  |False|False|False
+15-UMD|Larry Herman  |False|False|False
+15-UMD|Laveen Kanal  |False|False|False
+15-UMD|Leah Findlater  |False|False|True
+15-UMD|Lei Zhang  |False|False|False
+15-UMD|Leila DeFloriani  |False|False|False
+15-UMD|Lise Getoor  |False|False|False
+15-UMD|Louiqa Raschid  |False|False|True
+15-UMD|Marine Carpuat  |False|False|False
+15-UMD|Marshini Chetty  |False|False|False
+15-UMD|Marvin Zelkowitz  |False|False|False
+15-UMD|Michael Cummings  |False|False|False
+15-UMD|Michael Hicks  |False|False|True
+15-UMD|Michel Cukier  |False|False|False
+15-UMD|Michelle Hugue  |False|False|False
+15-UMD|Michelle Mazurek  |False|False|True
+15-UMD|Mihai Pop  |False|False|True
+15-UMD|Mikael Lindvall  |False|False|True
+15-UMD|Mohammad Hajiaghayi  |False|False|True
+15-UMD|Namachivayam Thirumazhusai  |False|False|False
+15-UMD|Naomi Feldman  |False|False|False
+15-UMD|Neil Spring  |False|False|True
+15-UMD|Nelson PaduaPerez  |False|False|False
+15-UMD|Nicholas Diakopoulos  |False|False|False
+15-UMD|Nicholas Roussopoulos  |False|False|False
+15-UMD|Niklas Elmqvist  |False|False|True
+15-UMD|Pedram Sadeghian  |False|False|False
+15-UMD|Pete Keleher  |False|False|True
+15-UMD|Philip Resnik  |False|False|False
+15-UMD|Rajeev Barua  |False|False|True
+15-UMD|Ramalingam Chellappa  |True|True|True
+15-UMD|Ramani Duraiswami  |False|False|True
+15-UMD|Rance Cleaveland  |False|False|True
+15-UMD|Ravindra Passan  |False|False|False
+15-UMD|Ray Chen  |False|False|False
+15-UMD|Raymond Miller  |False|False|True
+15-UMD|Ricardo Fellegara  |False|False|False
+15-UMD|Richard Marciano  |False|False|True
+15-UMD|Samir Khuller  |False|False|True
+15-UMD|Sridhar Hannenhalli  |False|False|False
+15-UMD|Sukhyun Song  |False|False|False
+15-UMD|Tae Wook Kwon  |False|False|False
+15-UMD|ThanhVu Nguyen  |False|False|False
+15-UMD|Tom Goldstein  |False|False|False
+15-UMD|Tom Reinhardt  |False|False|False
+15-UMD|Tudor Dumitras  |False|False|False
+15-UMD|Uzi Vishkin  |False|True|False
+15-UMD|Vanessa FriasMartinez  |False|False|False
+15-UMD|Vibha  Sazawal  |False|False|False
+15-UMD|Victor Basili  |False|False|False
+15-UMD|William Arbaugh  |False|False|True
+15-UMD|William Gasarch  |False|False|False
+15-UMD|William Pugh  |False|False|True
+15-UMD|William Rand  |False|False|False
+15-UMD|Yan  Huang  |False|False|False
+15-UMD|Zia Khan  |False|False|False
+18-HU|Alexander Sasha Rush|False|False|False
+18-HU|Amir Yacoby|False|False|True
+18-HU|Ariel Amir|False|False|False
+18-HU|Boaz Barak|False|False|False
+18-HU|Charles M Lieber|False|False|True
+18-HU|Chris Rycroft|False|False|False
+18-HU|David Cox|False|False|False
+18-HU|David Keith|False|False|False
+18-HU|Demba Ba|False|False|False
+18-HU|Donald Ingber|False|False|False
+18-HU|Donhee Ham|False|False|False
+18-HU|Eddie Kohler|False|False|False
+18-HU|Efthimios Kaxiras|False|False|True
+18-HU|Eli Tziperman|False|False|False
+18-HU|Elsie Sunderland|False|False|False
+18-HU|Eric Mazur|False|False|True
+18-HU|Evelyn Hu|False|False|True
+18-HU|Federico Capasso|False|False|True
+18-HU|Finale DoshiVelez|False|False|True
+18-HU|Frank Doyle|False|True|False
+18-HU|Frank Keutsch|False|False|False
+18-HU|Frans Spaepen|False|False|False
+18-HU|GuYeon Wei|False|False|True
+18-HU|Hanspeter Pfister|False|False|True
+18-HU|James Mickens|False|False|False
+18-HU|Jelani Nelson|False|False|True
+18-HU|Joanna Aizenberg|False|False|True
+18-HU|John Shaw|False|False|False
+18-HU|Jonathan Zittrain|False|False|True
+18-HU|Katia Bertoldi|False|False|True
+18-HU|Kit Parker|False|False|True
+18-HU|Krzysztof Gajos|False|False|True
+18-HU|Leslie Valiant|True|False|True
+18-HU|Madhu Sudan|True|True|True
+18-HU|Marko Loncar|False|False|True
+18-HU|Na Li|False|False|True
+18-HU|Neel Joshi|False|False|True
+18-HU|Peter Huybers|False|False|False
+18-HU|Philip Kim|False|False|True
+18-HU|Philippe Cluzel|False|False|True
+18-HU|Radhika Nagpal|False|False|True
+18-HU|Richard McCullough|False|False|True
+18-HU|Robin Wordsworth|False|False|True
+18-HU|Roy Gordon|False|False|False
+18-HU|Scott Kuindersma|False|False|False
+18-HU|Sean Eddy|False|False|False
+18-HU|Sharad Ramanathan|False|False|True
+18-HU|Shmuel Rubinstein|False|False|False
+18-HU|Stephen Chong|False|False|True
+18-HU|Stratos Idreos|False|False|True
+18-HU|Todd Zickler|False|False|True
+18-HU|Vahid Tarokh|False|True|False
+18-HU|Woodward Yang|False|False|False
+18-HU|Xin Li|False|False|False
+18-HU|Yaron Singer|False|False|True
+18-HU|Yiling Chen|False|False|False
+18-HU|Zhigang Suo|False|False|True
+18-HU|Zhiming Kuang|False|False|False
+19-UP|Aaron Roth|False|False|True
+19-UP|Andreas Haeberlen|False|False|True
+19-UP|Ani Nenkova|False|False|False
+19-UP|Boon Thau Loo|False|False|True
+19-UP|Brett Hemenway|False|False|True
+19-UP|Camillo Jose  Taylor|False|False|True
+19-UP|Chris CallisonBurch|False|False|True
+19-UP|Chris Murphy|False|False|False
+19-UP|Insup Lee|False|True|True
+19-UP|Jean Gallier|False|False|False
+19-UP|Jianbo Shi|False|False|False
+19-UP|Joe Devietti|False|False|True
+19-UP|Kostas Daniilidis|False|False|True
+19-UP|Max Mintz|False|False|False
+19-UP|Michael Kearns|False|False|False
+19-UP|Nadia Heninger|False|False|True
+19-UP|Rajeev Alur|False|False|True
+19-UP|Sampath Kannan|True|False|True
+19-UP|Sanjeev Khanna|False|False|True
+19-UP|Stephanie Weirich|False|False|True
+19-UP|Sudipto Guha|False|False|True
+19-UP|Susan Davidson|False|False|False
+19-UP|Val Tannen|False|False|True
+19-UP|Zachary Ives|False|False|True
+20-BU|Amy Greenwald|False|False|False
+20-BU|Andy van Dam|True|True|True
+20-BU|Anna Lysyanskaya|False|False|False
+20-BU|Ben Raphael|False|False|True
+20-BU|Eli Upfal|True|True|False
+20-BU|Erik Sudderth|False|False|True
+20-BU|Eugene Charniak|False|False|False
+20-BU|John Hughes|False|False|False
+20-BU|John Savage|True|True|False
+20-BU|Maurice Herlihy|False|False|False
+20-BU|Paul Valiant|False|False|False
+20-BU|Pedro Felipe Felzenszwalb|False|False|True
+20-BU|Peter Wegner|False|False|False
+20-BU|Philip Klein|True|False|True
+20-BU|Roberto Tamassia|False|False|False
+20-BU|Rodrigo Fonseca|False|False|True
+20-BU|Seny Kamara|False|False|True
+20-BU|Shriram Krishnamurthi|False|False|False
+20-BU|Sorin Istrail|False|False|True
+20-BU|Stan Zdonik|True|False|False
+20-BU|Stefanie Tellex|False|False|False
+20-BU|Steve Reiss|False|False|True
+20-BU|Tim Kraska|False|False|True
+20-BU|Tom Doeppner|False|False|False
+20-BU|Vasileios Kemerlis|False|False|False
+20-PUWL|Aditya Mathur|False|False|False
+20-PUWL|Ahmed Elmagarmid|False|False|False
+20-PUWL|Ahmed Sameh|True|False|False
+20-PUWL|Alex Pothen|False|False|True
+20-PUWL|Ananth Grama|False|False|False
+20-PUWL|Aniket Kate|False|False|False
+20-PUWL|Bharat Bhargava|False|False|False
+20-PUWL|Bradley Lucier|False|False|False
+20-PUWL|Bruno Ribeiro|False|False|False
+20-PUWL|Buster Dunsmore|True|False|True
+20-PUWL|Chris Clifton|False|False|True
+20-PUWL|Chris Hoffmann|False|False|False
+20-PUWL|Daisuke Kihara|False|False|False
+20-PUWL|Dan Goldwasser|False|False|False
+20-PUWL|Daniel Aliaga|False|False|True
+20-PUWL|David Gleich|False|False|False
+20-PUWL|Dongyan Xu|False|False|True
+20-PUWL|Douglas Comer|False|False|False
+20-PUWL|Elena Grigorescu|False|False|False
+20-PUWL|Elias Bareinboim|False|False|False
+20-PUWL|Elisa Bertino|True|False|False
+20-PUWL|Elisha Sacks|False|False|False
+20-PUWL|Eugene Spafford|False|False|False
+20-PUWL|Greg Frederickson|False|False|False
+20-PUWL|Hemanta Maji|False|False|False
+20-PUWL|Jean Honorio|False|False|False
+20-PUWL|Jennifer Neville|False|False|False
+20-PUWL|Kihong Park|False|False|True
+20-PUWL|Luo Si|False|False|False
+20-PUWL|Mathias Payer|False|False|False
+20-PUWL|Mikhail Atallah|False|False|False
+20-PUWL|Ninghui Li|False|False|False
+20-PUWL|Patrick Eugster|False|False|True
+20-PUWL|Samuel Wagstaff|False|False|False
+20-PUWL|Saugata Basu|False|False|False
+20-PUWL|Sonia Fahmy|False|False|True
+20-PUWL|Sunil Prabhakar|False|False|False
+20-PUWL|Suresh Jagannathan|False|False|False
+20-PUWL|Susanne Hambrusch|False|False|True
+20-PUWL|Tiark Rompf|False|False|False
+20-PUWL|Tony Hosking|False|False|False
+20-PUWL|Vernon Rego|False|False|False
+20-PUWL|Voicu Popescu|False|False|False
+20-PUWL|Walid Aref|False|False|False
+20-PUWL|Wojciech Szpankowski|False|True|True
+20-PUWL|Xavier Tricoche|False|False|False
+20-PUWL|Xiangyu Zhang|False|False|False
+20-PUWL|Yuan (Alan) Qi|False|False|True
+20-PUWL|Zhiyuan Li|False|False|False
+20-RU|Anshumali Shrivastava|False|False|False
+20-RU|Ashok Veeraraghavan|False|False|True
+20-RU|Devika Subramanian|False|False|False
+20-RU|John Greiner|False|False|True
+20-RU|John MellorCrummey|True|False|False
+20-RU|Lin Zhong|False|False|True
+20-RU|Linda Torczon|False|False|True
+20-RU|Luay Nakhleh|False|False|True
+20-RU|Mark Moll|False|False|True
+20-RU|Michael Byrne|False|False|True
+20-RU|Mike Fagan|False|False|False
+20-RU|Robert Corky Cartwright|False|False|False
+20-RU|Scott Cutler|False|False|False
+20-RU|Scott Rixner|False|False|False
+20-RU|Stephen Wong|False|False|False
+20-RU|Swarat Chaudhuri|False|False|False
+20-RU|Vivek Sarkar|False|False|True
+20-RU|Weiwei Zhong|False|False|False
+20-USC|Adleman Leonard|False|False|True
+20-USC|Arbib Michael|False|False|False
+20-USC|Bekey George|False|False|False
+20-USC|Boehm Barry|False|False|False
+20-USC|Bono Claire|False|False|False
+20-USC|Breuer Melvin|False|False|False
+20-USC|Brun Todd|False|False|True
+20-USC|Cheng William|False|False|True
+20-USC|Cote Aaron|False|False|False
+20-USC|DeVault David |False|False|True
+20-USC|Dughmi Shaddin |False|False|True
+20-USC|Easley Scott |False|False|False
+20-USC|Edwards George|False|False|True
+20-USC|Georgila Kallirroi|False|False|False
+20-USC|Ghandeharizadeh Shahram|False|False|False
+20-USC|Golubchik Leana |False|False|True
+20-USC|Gordon Andrew|False|False|False
+20-USC|Govindan Ramesh |False|False|True
+20-USC|Halfond William GJ|False|False|True
+20-USC|Hill Randall|False|False|False
+20-USC|Itti Laurent|False|False|True
+20-USC|Kalia Rajiv|False|False|True
+20-USC|KatzBassett Ethan|False|False|True
+20-USC|Kempe David|False|False|False
+20-USC|Korolova Aleksandra|False|False|True
+20-USC|Krishnamachari Bhaskar|False|False|True
+20-USC|Kuo Jay|False|False|True
+20-USC|Leuski Anton|False|False|True
+20-USC|Liu Yan|False|False|True
+20-USC|Lloyd Wyatt|False|False|False
+20-USC|Marsella Stacy|False|False|False
+20-USC|Matarić Maja|False|False|True
+20-USC|Mattmann Chris|False|False|True
+20-USC|McLeod Dennis|False|False|True
+20-USC|Medioni Gerard|False|False|False
+20-USC|Medvidovic Neno |False|False|True
+20-USC|Morency LouisPhillippe|False|False|False
+20-USC|Nakano Aiichiro|False|False|True
+20-USC|Neumann Ulrich |False|False|True
+20-USC|Nevatia Ramakant|False|False|False
+20-USC|Psounis Konstantinos |False|False|True
+20-USC|Raghavachary Saty |False|False|True
+20-USC|Rosenbloom Paul|False|False|False
+20-USC|Schaal Stefan |False|False|False
+20-USC|Schweighofer Nicolas|False|False|False
+20-USC|Sha Fei |False|False|False
+20-USC|Shahabi Cyrus |False|True|True
+20-USC|Shamsian|False|False|False
+20-USC|Sukhatme Gaurav|False|False|False
+20-USC|Suma Evan|False|False|True
+20-USC|Tambe Milind|True|False|False
+20-USC|Tejada Sheila|False|False|False
+20-USC|Teng ShangHua|True|False|True
+20-USC|Traum David |False|False|True
+20-USC|Wilson John|False|False|True
+20-USC|Zyda Michael|False|False|False
+20-USC| Narayanan Shrikanth (Shri)|False|True|True
+20-YU|Abraham Silberschatz|True|True|False
+20-YU|Brian Scassellati|False|False|False
+20-YU|Dana Angluin|False|False|False
+20-YU|Daniel Abadi|False|False|True
+20-YU|Daniel Spielman|False|False|False
+20-YU|David Gelernter|False|False|False
+20-YU|Drew McDermott|False|False|False
+20-YU|Holly Rushmeier|False|False|True
+20-YU|James Aspnes|False|False|False
+20-YU|Joan Feigenbaum|False|False|False
+20-YU|Julie Dorsey|False|False|False
+20-YU|Mahesh Balakrishnan|False|False|False
+20-YU|Mariana Raykova|False|False|False
+20-YU|Michael Fischer|True|False|False
+20-YU|Ruzica Piskac|False|False|False
+20-YU|Stanley Eisenstat|False|False|False
+20-YU|Steven Zucker|False|True|False
+20-YU|Vladimir Rokhlin|False|False|False
+20-YU|Yang Yang|False|False|False
+20-YU|Zhong Shao|False|False|False
+25-DU|Astrachan Owen|False|False|True
+25-DU|Azhar Salman|False|False|False
+25-DU|Babu Shivnath|False|False|True
+25-DU|Baldin Ilya|False|False|False
+25-DU|Benson Theo|False|False|False
+25-DU|Calderbank Robert|False|True|False
+25-DU|Chakrabarty Krishnendu|False|False|False
+25-DU|Conitzer Vincent|False|False|True
+25-DU|Cox Landon|False|False|True
+25-DU|Dwyer Chris|False|False|False
+25-DU|Edelsbrunner Herbert|False|False|False
+25-DU|Ellis Carla Schlatter|False|False|False
+25-DU|Farsiu Sina|False|False|False
+25-DU|Gallie Thomas|False|False|False
+25-DU|Ge Rong|False|False|False
+25-DU|Gordan RalucaMihaela|False|False|False
+25-DU|Hauser Kris|False|False|False
+25-DU|Heller Katherine|False|False|False
+25-DU|Hilton Andrew|False|False|False
+25-DU|Kim Jungsang|False|False|False
+25-DU|Konidaris George|False|False|False
+25-DU|Machanavajjhala Ashwin|False|False|False
+25-DU|Maggioni Mauro|False|False|False
+25-DU|Maggs Bruce|False|False|False
+25-DU|Mukherjee Sayan|False|False|False
+25-DU|Munagala Kamesh|False|False|True
+25-DU|Mølhave Thomas|False|False|False
+25-DU|Panigrahi Debmalya|False|False|False
+25-DU|Patrick Merrell|False|False|False
+25-DU|Pitsianis Nikos|False|False|False
+25-DU|Ramm Dietolf|False|False|False
+25-DU|Roy Sudeepa|False|False|False
+25-DU|Sapiro Guillermo|False|False|False
+25-DU|Sun Xiaobai|False|False|True
+25-DU|Tomasi Carlo|False|False|True
+25-DU|Yang Jun|False|False|True
+25-DU|Yang Xiaowei|False|False|False
+25-UMA| Allan James |False|False|True
+25-UMA|Biswas Joydeep |False|False|True
+25-UMA|Brun Yuriy |False|False|True
+25-UMA|Diao Yanlei |False|False|True
+25-UMA|Guha Arjun |False|False|True
+25-UMA|Houmansadr Amir |False|False|True
+25-UMA|Immerman Neil |True|False|True
+25-UMA|Just René |False|False|True
+25-UMA|Kalogerakis Evangelos |False|False|True
+25-UMA|Levine Brian Neil|False|False|True
+25-UMA|Mahadevan Sridhar |False|False|True
+25-UMA|Maji Subhransu |False|False|True
+25-UMA|Mazumdar Arya  |False|False|True
+25-UMA|McGregor Andrew |False|False|True
+25-UMA|Meliou Alexandra |False|False|True
+25-UMA|Miklau Gerome |False|False|True
+25-UMA|O'Connor Brendan |False|False|True
+25-UMA|Saha Barna |False|False|True
+25-UMA|Sheldon Dan |False|False|True
+25-UMA|Shenoy Prashant |False|False|True
+25-UMA|Venkataramani Arun |False|False|True
+25-UMA|Wang Rui |False|False|True
+25-UMA|Zilberstein Shlomo |False|False|True
+25-UNCCH|Anselmo Lastra|False|False|True
+25-UNCCH|Cynthia Sturton|False|False|True
+25-UNCCH|David Stotts|False|False|True
+25-UNCCH|Diane Pozefsky|False|False|True
+25-UNCCH|Dinesh Manocha|True|False|True
+25-UNCCH|Enrique Dunn|False|False|True
+25-UNCCH|Fabian Monrose|False|False|True
+25-UNCCH|Gary Bishop|False|False|True
+25-UNCCH|Henry Fuchs|False|False|True
+25-UNCCH|Jack Snoeyink|False|False|True
+25-UNCCH|James Anderson|False|False|True
+25-UNCCH|JanMichael Frahm|False|False|True
+25-UNCCH|Jasleen Kaur|False|False|True
+25-UNCCH|Jay Aikat|False|False|True
+25-UNCCH|Ketan MayerPatel|False|False|True
+25-UNCCH|Kevin Jeffay|False|False|True
+25-UNCCH|Kris Jordan|False|False|True
+25-UNCCH|Leonard McMillan|False|False|True
+25-UNCCH|Marc Niethammer|False|False|True
+25-UNCCH|Martin Styner|False|False|True
+25-UNCCH|Montek Singh|False|False|True
+25-UNCCH|Prasun Dewan|False|False|True
+25-UNCCH|Ron Alterovitz|False|False|True
+25-UNCCH|Shahriar Nirjon|False|False|True
+25-UNCCH|Stan Ahalt|False|False|True
+25-UNCCH|Tessa JosephNicholas|False|False|True
+25-UNCCH|Vladimir Jojic|False|False|True
+28-JHU|Abhishek Jain|False|False|False
+28-JHU|Alan Yuille|False|False|False
+28-JHU|Alex Szalay|False|False|False
+28-JHU|Alexis Battle|False|False|True
+28-JHU|Andreas Terzis|False|False|True
+28-JHU|Austin Reiter|False|False|False
+28-JHU|Aviel Rubin|False|False|False
+28-JHU|Benjamin Langmead|False|False|False
+28-JHU|Benjamin Van Durme|False|False|False
+28-JHU|David Yarowsky|False|False|False
+28-JHU|Gerald Masson|False|False|False
+28-JHU|Ilya Shpitser|False|False|False
+28-JHU|Jason Eisner|False|False|False
+28-JHU|Joanne Selinski|False|False|False
+28-JHU|Mark Dredze|False|False|False
+28-JHU|Michael Dinitz|False|False|False
+28-JHU|Michael Kazhdan|False|False|False
+28-JHU|Michael Schatz|False|False|True
+28-JHU|Nassir Navab|False|False|False
+28-JHU|Peter Kazanzides|False|False|False
+28-JHU|Philipp Koehn|False|False|False
+28-JHU|Raman Arora|False|False|False
+28-JHU|Randal Burns|False|False|False
+28-JHU|Sara Miner More|False|False|False
+28-JHU|Scott Smith|False|False|False
+28-JHU|Simon Leonard|False|False|False
+28-JHU|Steven Salzberg|False|False|False
+28-JHU|Suchi Saria|False|False|True
+28-JHU|Susan Hohenberger|False|False|True
+28-JHU|Vladimir Braverman|False|False|False
+28-JHU|Xin Li|False|False|False
+28-JHU|Yair Amir|False|False|False
+28-JHU|Yanif Ahmad|False|False|False
+29-NYU|Alan  Siegel|False|False|False
+29-NYU|Allan Gottlieb|True|False|False
+29-NYU|Amos Bloomberg|False|False|True
+29-NYU|Anasse Bari|False|False|True
+29-NYU|Benjamin Goldberg|False|False|False
+29-NYU|Bhubaneswar Mishra|False|False|False
+29-NYU|Chee Yap|False|False|True
+29-NYU|Clark  Barrett|False|False|False
+29-NYU|Craig Kapp|False|False|True
+29-NYU|Daniele Panozzo|False|False|False
+29-NYU|Davi Geiger|False|False|False
+29-NYU|David Sontag|False|False|False
+29-NYU|Deena Engel|False|False|False
+29-NYU|Denis Zorin|False|False|True
+29-NYU|Dennis  Shasha|True|False|False
+29-NYU|Ernest Davis|False|False|True
+29-NYU|Evan Korth|False|False|False
+29-NYU|JeanClaude Franchitti|False|False|False
+29-NYU|Jinyang Li|False|False|False
+29-NYU|Joanna Klukowska|False|False|True
+29-NYU|Joel Spencer|False|False|False
+29-NYU|Joseph Versoza|False|False|False
+29-NYU|Joshua Clayton|False|False|False
+29-NYU|Kenneth Perlin|False|False|False
+29-NYU|Lakshminarayanan Subramanian|False|False|False
+29-NYU|Margaret Wright|False|False|False
+29-NYU|Marsha Berger|False|False|False
+29-NYU|Mehryar Mohri|False|False|False
+29-NYU|Michael Overton|False|False|False
+29-NYU|Nathan Hull|False|False|True
+29-NYU|Oded Regev|False|False|False
+29-NYU|Patrick  Cousot|False|False|True
+29-NYU|Ralph Grishman|False|False|False
+29-NYU|Richard  Cole|True|False|False
+29-NYU|Richard Bonneau|False|False|True
+29-NYU|Rob Fergus|False|False|False
+29-NYU|Sana Odeh|False|False|False
+29-NYU|Subhash Khot|False|False|False
+29-NYU|Theodore Rappaport|False|False|True
+29-NYU|Thomas Wies|False|False|False
+29-NYU|Victor  Shoup|False|False|False
+29-NYU|Yevgeniy Dodis|False|False|True
+29-NYU|Zvi Kedem|True|True|True
+29-PSUUP|ADAM SMITH|False|False|False
+29-PSUUP|ALAN VERBANEC|False|False|False
+29-PSUUP|ANAND SIVASUBRAMANIAM|False|False|False
+29-PSUUP|BHUVAN URGAONKAR|False|False|False
+29-PSUUP|Brad Sottile|False|False|False
+29-PSUUP|CHITARANJAN DAS|False|False|False
+29-PSUUP|CONRAD TUCKER|False|False|False
+29-PSUUP|DANFENG ZHANG|False|False|False
+29-PSUUP|DANIEL KIFER|False|False|False
+29-PSUUP|DAVID SALVIA|False|False|False
+29-PSUUP|DON HELLER|False|False|False
+29-PSUUP|faculty|False|False|False
+29-PSUUP|Gang Tan|False|False|False
+29-PSUUP|GEORGE KESIDIS|False|False|False
+29-PSUUP|GUILLAUME AUPY|False|False|False
+29-PSUUP|GUOHONG CAO|False|False|False
+29-PSUUP|JESSE BARLOW|False|False|False
+29-PSUUP|JOHN HANNAN|False|False|False
+29-PSUUP|JOHN SAMPSON|False|False|False
+29-PSUUP|JUNICHIRO FUKUYAMA|False|False|False
+29-PSUUP|KAMESH MADDURI|False|False|False
+29-PSUUP|KYUSUN CHOI|False|False|False
+29-PSUUP|LEE CORAOR|False|False|False
+29-PSUUP|LENNART BILEN|False|False|False
+29-PSUUP|MAHFUZA FAROOQUE|False|False|False
+29-PSUUP|MAHMUT KANDEMIR|False|False|True
+29-PSUUP|MARK MAHON|False|False|False
+29-PSUUP|MARTIN FURER|False|False|False
+29-PSUUP|MARY JANE (JANIE) IRWIN|False|False|False
+29-PSUUP|MOHAMED ALMEKKAWY|False|False|False
+29-PSUUP|PATRICK MCDANIEL|False|False|False
+29-PSUUP|PAUL MEDVEDEV|False|False|False
+29-PSUUP|PIOTR BERMAN|False|False|False
+29-PSUUP|RAJ ACHARYA|False|True|True
+29-PSUUP|ROBERT COLLINS|False|False|False
+29-PSUUP|ROGER CHRISTMAN|False|False|False
+29-PSUUP|SEAN HALLGREN|False|False|False
+29-PSUUP|SENCUN ZHU|False|False|False
+29-PSUUP|SOFYA RASKHODNIKOVA|False|False|False
+29-PSUUP|STEVEN SHAFFER|False|False|False
+29-PSUUP|SUSAN QUICK|False|False|False
+29-PSUUP|THOMAS LAPORTA|False|False|True
+29-PSUUP|TRENT JAEGER|False|False|True
+29-PSUUP|Vasant Honavar|False|False|False
+29-PSUUP|VIJAYKRISHNAN NARAYANAN|False|False|True
+29-PSUUP|WANG LEE|False|False|True
+29-PSUUP|YANXI LIU|False|False|True
+48-UF|Abdelsalam (Sumi) Helal|False|False|True
+48-UF|Ahmed Helmy|False|False|True
+48-UF|Alin Dobra|False|False|True
+48-UF|Alireza Entezari|False|False|True
+48-UF|Alper Ungor|False|False|True
+48-UF|Anand Rangarajan|False|False|True
+48-UF|Arunava Banerjee|False|False|True
+48-UF|Beverly Sanders|False|False|True
+48-UF|Christina GardnerMcCune|False|False|True
+48-UF|Corey TolerFranklin|False|False|True
+48-UF|Daisy Zhe Wang|False|False|True
+48-UF|David Small|False|False|True
+48-UF|Eakta Jain|False|False|True
+48-UF|Gerhard X Ritter|False|False|True
+48-UF|JihKwon Peir|False|False|True
+48-UF|Jonathan (ChienLiang) Liu|False|False|True
+48-UF|Jorg Peters|False|False|True
+48-UF|Joseph N Wilson|False|False|True
+48-UF|Kristy Elizabeth Boyer|False|False|True
+48-UF|Kyla McMullen|False|False|True
+48-UF|Lisa Anthony|False|False|True
+48-UF|Markus Schneider|False|False|True
+48-UF|Meera Sitharam|False|False|True
+48-UF|Patrick Traynor|False|False|True
+48-UF|Prabhat Mishra|False|False|True
+48-UF|Randy Chow|False|False|True
+48-UF|Richard Newman|False|False|True
+48-UF|Rong Zhang|False|False|True
+48-UF|Sanjay Ranka|False|True|True
+48-UF|Sartaj Sahni|False|False|True
+48-UF|Shigang Chen|False|True|True
+48-UF|SuShing Chen|False|False|True
+48-UF|Tamer Kahveci|False|False|True
+48-UF|Tom Shrimpton|False|False|True
+48-UF|Ye Xia|False|False|True
+52-IUB|Alex  Leykin|False|False|False
+52-IUB|Amr  Sabry|False|False|False
+52-IUB|Andrew  Hanson|False|False|False
+52-IUB|Andrew  Lumsdaine|False|False|False
+52-IUB|Apu  Kapadia|False|False|True
+52-IUB|Arun  Chauhan|False|False|False
+52-IUB|Balaprasath  Rajan|False|False|False
+52-IUB|Becky  Curtis|False|False|False
+52-IUB|Benita  Brown|False|False|False
+52-IUB|Beth  Plale|False|False|False
+52-IUB|Bonnie  VanDeventer|False|False|False
+52-IUB|Cenk  Sahinalp|False|False|False
+52-IUB|Charles  Pope|False|False|False
+52-IUB|Chen  Yu|False|False|False
+52-IUB|Christopher  Haynes|False|False|False
+52-IUB|Chunfeng  Huang|False|False|False
+52-IUB|Chungchieh  Shan|False|False|False
+52-IUB|Craig  Stewart|False|False|False
+52-IUB|DanAdrian  German|False|False|False
+52-IUB|Daniel  Friedman|False|False|False
+52-IUB|Daniel  Leivant|False|False|False
+52-IUB|Daniel  McDonald|False|False|False
+52-IUB|David  Clemmer|False|False|False
+52-IUB|David  Crandall|False|False|False
+52-IUB|David  Leake|False|False|False
+52-IUB|David  Winkel|False|False|False
+52-IUB|David  Wise|False|False|False
+52-IUB|Dennis  Gannon|False|False|False
+52-IUB|Dirk  Van Gucht|False|False|False
+52-IUB|Douglas  Hofstadter|False|False|False
+52-IUB|Eduardo  Izquierdo|False|False|False
+52-IUB|Edward  Robertson|False|False|False
+52-IUB|Eric  Isaacson|False|False|False
+52-IUB|Eric  Wernert|False|False|False
+52-IUB|Erik  Wennstrom|False|False|False
+52-IUB|Feng  Qian|False|False|False
+52-IUB|Franklin  Prosser|False|False|False
+52-IUB|Fred  Cate|False|False|False
+52-IUB|Funda  Ergun|False|False|False
+52-IUB|Gary  Wiggins|False|False|False
+52-IUB|Geoffrey  Brown|False|False|False
+52-IUB|Geoffrey Charles  Fox|False|False|False
+52-IUB|George  Springer|False|False|False
+52-IUB|Gerardo  Ortiz|False|False|False
+52-IUB|Haixu  Tang|False|False|True
+52-IUB|Jan  Van den Bussche|False|False|False
+52-IUB|Jeffrey  Whitmer|False|False|False
+52-IUB|Jenny  OlmesStevens|False|False|False
+52-IUB|Jeremy  Siek|False|False|False
+52-IUB|Judy  Qiu|False|False|False
+52-IUB|Kay  Connelly|False|False|False
+52-IUB|Larry  Moss|False|False|False
+52-IUB|Laura  Reed|False|False|False
+52-IUB|Lynne  Mikolon|False|False|False
+52-IUB|Marc  Gyssens|False|False|False
+52-IUB|Markus  Dickinson|False|False|False
+52-IUB|Markus  Jacobsson|False|False|False
+52-IUB|Martha  White|False|False|False
+52-IUB|Martin  Swany|False|False|False
+52-IUB|Matt  Hottell|False|False|False
+52-IUB|Matthew  Hahn|False|False|False
+52-IUB|Matthias  Scheutz|False|False|False
+52-IUB|Mehmet  Dalkilic|False|False|True
+52-IUB|Michael  Gasser|False|False|False
+52-IUB|Michael  Lynch|False|False|False
+52-IUB|Michael  McRobbie|False|False|False
+52-IUB|Michael  Trossett|False|False|False
+52-IUB|Minaxi  Gupta|False|False|True
+52-IUB|Mitja  Hmeljak|False|False|False
+52-IUB|Olaf  Sporns|False|False|False
+52-IUB|Patty  ReyesCooksey|False|False|False
+52-IUB|Paul  Purdom|False|False|False
+52-IUB|Peter  Cherbas|False|False|False
+52-IUB|Predrag  Radivojac|False|False|False
+52-IUB|Qin  Zhang|False|False|False
+52-IUB|Randall  Beer|False|False|True
+52-IUB|Randall  Bramley|False|False|False
+52-IUB|Raquel  Hill|False|False|False
+52-IUB|Regina  Helton|False|False|False
+52-IUB|Robert  Schnabel|False|False|False
+52-IUB|Ryan  Henry|False|False|False
+52-IUB|Ryan  Newton|False|False|False
+52-IUB|Sam  TobinHochstadt|False|False|False
+52-IUB|Sandra  Kübler|False|False|False
+52-IUB|Saul  Blanco|False|False|False
+52-IUB|Shawn Linn  Davenport|False|False|False
+52-IUB|Sherrie  Denney|False|False|False
+52-IUB|Sriraam  Natarajan|False|False|False
+52-IUB|Stanley  Hagstrom|False|False|False
+52-IUB|Steve  Gottlieb|False|False|False
+52-IUB|Steven  Johnson|False|False|False
+52-IUB|Steven  Myers|False|False|False
+52-IUB|Steven  Wallace|False|False|False
+52-IUB|Suzanne  Menzel|False|False|False
+52-IUB|Tom  Zeller|False|False|False
+52-IUB|Vel  Malbasa|False|False|False
+52-IUB|Volker  Brendel|False|False|False
+52-IUB|XiaoFeng  Wang|False|False|False
+52-IUB|Yan  Huang|False|False|False
+52-IUB|Yuzhen  Ye|False|False|False
+52-RPI|Adali Sibel |False|False|False
+52-RPI|Anshelevich Elliot |False|False|False
+52-RPI|Bennett Kristin |False|False|True
+52-RPI|Berman Francine |True|True|True
+52-RPI|Bringsjord Selmer |False|False|False
+52-RPI|Bystroff Christopher |False|False|False
+52-RPI|Carothers Christopher |False|False|True
+52-RPI|Cutler Barbara |False|False|False
+52-RPI|Drineas Petros |False|False|True
+52-RPI|Eglash Ron |False|False|True
+52-RPI|Fox Peter |False|False|True
+52-RPI|Glinert Ephraim |False|False|True
+52-RPI|Goldberg Mark |False|False|False
+52-RPI|Gray Wayne |False|False|False
+52-RPI|Hardwick Martin |False|False|True
+52-RPI|Isaacson David |False|False|False
+52-RPI|Ji Heng |False|False|False
+52-RPI|Krishnamoorthy Mukkai |False|False|True
+52-RPI|MagdonIsmail Malik |False|False|False
+52-RPI|McLaughlin Harry |False|False|False
+52-RPI|Musser David |False|False|False
+52-RPI|Nirenburg Sergei |False|False|False
+52-RPI|Patterson Stacy |False|False|False
+52-RPI|Shephard Mark |True|True|False
+52-RPI|Stewart Charles |False|False|False
+52-RPI|Thompson William |False|False|False
+52-RPI|Trinkle Jeff |False|True|True
+52-RPI|Varela Carlos |False|False|True
+52-RPI|Wozny Michael |False|False|True
+52-RPI|Xia Lirong |False|False|True
+52-RPI|Yener Bülent |True|False|False
+52-RPI|Zaki Mohammed |False|False|True
+52-RPI|Zikas Vassilis |False|False|False
+52-UP|Alexandros Labrinidis|False|False|True
+52-UP|Daniel Ahn|False|False|False
+52-UP|Daniel Mosse|False|False|False
+52-UP|Jingtao Wang|False|False|False
+52-UP|Milos Hauskrecht|False|False|False
+52-UP|Panos Chrysanthis|False|False|True
+52-UP|Rami Melhem|False|False|False
+52-UP|Rebecca Hwa|False|False|False
+52-UP|ShiKuo Chang|False|True|False
+52-UP|Taieb Znati|False|False|True
+52-UP|Youtao Zhang|False|False|True
+52-UR|Criswell John |False|False|False
+52-UR|Ding Chen |False|False|True
+52-UR|Dwarkadas Sandhya |False|False|False
+52-UR|Ferguson George |False|False|False
+52-UR|Gildea Daniel |False|False|False
+52-UR|Guo Philip |False|False|False
+52-UR|Ipek Engin |False|False|False
+52-UR|Kautz Henry |True|False|False
+52-UR|Liu Ji |False|False|False
+52-UR|Luo Jiebo |False|False|False
+52-UR|Shen Kai |False|False|False
+52-UR|Stefankovic Daniel |False|False|True
+52-UR|Venkitasubramaniam Muthuramakrishnan |False|False|False
+56-MSU|AbdolHossein Esfahanian|False|False|False
+56-MSU|Alex Liu|False|False|False
+56-MSU|Arend Hintze|False|False|False
+56-MSU|Eric Torng|False|False|False
+56-MSU|Hu Ding |False|False|True
+56-MSU|Joyce Chai|False|False|True
+56-MSU|Kevin Liu|False|False|True
+56-MSU|Laura Dillon|False|False|True
+56-MSU|Li Xiao|False|False|True
+56-MSU|Metin Aktulga|False|False|True
+56-MSU|PangNing Tan|False|False|True
+56-MSU|Sandeep Kulkarni|False|False|True
+56-MSU|Wayne Dyksen|False|False|False
+56-MSU|Wolfgang Banzhaf|False|False|True
+56-MSU|Yiying Tong|False|False|True
+56-UCR|Chinya Ravishankar|False|False|True
+56-UCR|Christian Shelton|False|True|True
+56-UCR|Eamonn Keogh|False|False|True
+56-UCR|Frank Vahid|False|False|True
+56-UCR|Marek Chrobak|False|False|False
+56-UCR|Mart Molle|False|False|True
+56-UCR|Michalis Faloutsos|False|False|True
+56-UCR|Nael AbuGhazaleh|False|False|False
+56-UCR|Neal Young|False|False|True
+56-UCR|Philip Brisk|False|False|False
+56-UCR|Rajiv Gupta|False|True|True
+56-UCR|Srikanth Krishnamurthy|False|False|True
+56-UCR|Stefano Lonardi|False|True|True
+56-UCR|Tamar Shinar|False|False|False
+56-UCR|Tao Jiang|False|False|True
+56-UCR|Vagelis Hristidis (Evangelos Christidis)|False|False|True
+56-UCR|Vassilis Tsotras|False|False|True
+56-UCR|Walid Najjar|False|False|True
+56-UCR|Zhijia Zhao|False|False|False
+56-UCR|Zhiyun Qian|False|False|True
+56-UCR|Zizhong Chen|False|False|True
+56-UCSC|Abel Rodríguez|False|False|False
+56-UCSC|Alex Pang|False|False|False
+56-UCSC|Anujan Varma|False|False|False
+56-UCSC|Arnav Jhala|False|False|False
+56-UCSC|Athanasios Kottas|False|False|False
+56-UCSC|Balder ten Cate|False|False|False
+56-UCSC|Bob Levinson|False|False|False
+56-UCSC|Brad Smith|False|False|False
+56-UCSC|Bruno Mendes|False|False|False
+56-UCSC|Bruno Sansó|False|False|False
+56-UCSC|Camilla Forsberg|False|False|False
+56-UCSC|Carlos Maltzahn|False|False|False
+56-UCSC|Cedric Westphal|False|False|True
+56-UCSC|Charlie McDowell|False|False|False
+56-UCSC|Christopher Vollmers|False|False|False
+56-UCSC|Christopher Yonge|False|False|False
+56-UCSC|Claire Gu|False|False|False
+56-UCSC|Cormac Flanagan|False|False|True
+56-UCSC|Cyrus Bazeghi|False|False|False
+56-UCSC|Daniele Venturi|False|False|False
+56-UCSC|Darrell Long|False|True|False
+56-UCSC|David Bernick|False|False|False
+56-UCSC|David Deamer|False|False|False
+56-UCSC|David Draper|False|False|False
+56-UCSC|David Haussler|False|False|False
+56-UCSC|David Helmbold|False|False|False
+56-UCSC|David Pease|False|False|False
+56-UCSC|Dejan Milutinovic|False|False|False
+56-UCSC|Dimitris Achlioptas|False|False|False
+56-UCSC|Dongwook Lee|False|False|False
+56-UCSC|Farid Dowla|False|False|False
+56-UCSC|Gabriel Hugh Elkaim|False|False|False
+56-UCSC|Gerald Moulds|False|False|False
+56-UCSC|Herbert Lee|False|False|False
+56-UCSC|Holger Schmidt|False|False|True
+56-UCSC|Hongyun Wang|False|False|False
+56-UCSC|Ike Nassi|False|False|False
+56-UCSC|Ira Pohl|False|False|False
+56-UCSC|James Davis|False|False|True
+56-UCSC|Jim Whitehead|False|False|False
+56-UCSC|Jishen Zhao|False|False|False
+56-UCSC|Joel Ferguson|False|False|False
+56-UCSC|Joel Kubby|False|False|False
+56-UCSC|John Musacchio|False|False|False
+56-UCSC|John Vesecky|False|False|False
+56-UCSC|Jonathan Trent|False|False|False
+56-UCSC|Jose Renau|False|False|True
+56-UCSC|Joseph Konopelski|False|False|False
+56-UCSC|Josh Stuart|False|False|False
+56-UCSC|Juhee Lee|False|False|False
+56-UCSC|Katherine Currie Isbister|False|False|False
+56-UCSC|Katia Obraczka|False|False|False
+56-UCSC|Ken Pedrotti|False|False|False
+56-UCSC|Kenneth Laws|False|False|False
+56-UCSC|Kevin Karplus|False|False|False
+56-UCSC|Kevin Ross|False|False|False
+56-UCSC|Linda Werner|False|False|True
+56-UCSC|Lise Getoor|False|False|False
+56-UCSC|Luca de Alfaro|False|False|False
+56-UCSC|Manfred Warmuth|False|False|False
+56-UCSC|Marc Mangel|False|False|False
+56-UCSC|Marco Rolandi|False|False|False
+56-UCSC|Marilyn Walker|False|False|False
+56-UCSC|Mark Akeson|False|False|False
+56-UCSC|Martin Abadi|False|False|False
+56-UCSC|Martine Schlag|False|False|False
+56-UCSC|Matthew Guthaus|False|False|True
+56-UCSC|Michael Isaacson|False|False|False
+56-UCSC|Michael Mateas|False|False|False
+56-UCSC|Mircea Teodorescu|False|False|False
+56-UCSC|Nader Pourmand|False|False|False
+56-UCSC|Nicholas Brummell|False|False|False
+56-UCSC|Noah WardripFruin|False|False|False
+56-UCSC|Nobuhiko Kobayashi|False|False|False
+56-UCSC|Pascale Garaud|False|False|True
+56-UCSC|Patrick Mantey|False|False|True
+56-UCSC|Patrick Tantalo|False|False|False
+56-UCSC|Peter Alvaro|False|False|False
+56-UCSC|Peyman Milanfar|False|False|False
+56-UCSC|Phillip Berman|False|False|False
+56-UCSC|Qi Gong|False|False|False
+56-UCSC|Rajarshi Guhaniyogi|False|False|False
+56-UCSC|Ram Akella|False|False|False
+56-UCSC|Raquel Prado|False|False|False
+56-UCSC|Renwick Curry|False|False|False
+56-UCSC|Ricardo Sanfelice|False|False|False
+56-UCSC|Richard Edward Green|False|False|False
+56-UCSC|Richard Hughey|False|False|False
+56-UCSC|Roberto Manduchi|False|False|True
+56-UCSC|S V N Vishwanathan|False|False|False
+56-UCSC|Scott Brandt|False|False|False
+56-UCSC|Seshadhri Comandur|False|False|False
+56-UCSC|Sri Kurniawan|False|False|False
+56-UCSC|Stephen Petersen|False|False|False
+56-UCSC|Subhas Desa|False|False|False
+56-UCSC|SungMo Steve Kang|False|False|False
+56-UCSC|Suresh K Lodha|False|False|False
+56-UCSC|Tatiana Xifara|False|False|False
+56-UCSC|Toshishige Yamada|False|False|False
+56-UCSC|Tracy Larrabee|False|False|False
+56-UCSC|Victoria Bellotti|False|False|False
+56-UCSC|WangChiew Tan|False|False|False
+56-UCSC|Wendy Rothwell|False|False|False
+56-UCSC|William Dunbar|False|False|False
+56-UCSC|Yi Zhang|False|False|True
+56-UCSC|Yihsu Chen|False|False|False
+56-UCSC|Yonatan Katznelson|False|False|False
+56-VU|Abhishek Dubey|False|False|False
+56-VU|Akos Ledeczi|False|False|False
+56-VU|Amy Kauppila|False|False|False
+56-VU|Aniruddha Gokhale|False|False|False
+56-VU|Arthur Witulski|False|False|False
+56-VU|Ashok Choudhury|False|False|True
+56-VU|Bennett Landman|False|False|False
+56-VU|Benoit Dawant|False|False|False
+56-VU|Bharat Bhuva|False|False|False
+56-VU|Bradley Malin|False|False|False
+56-VU|Brian Sierawski|False|False|False
+56-VU|Charles Stephenson|False|False|False
+56-VU|Daniel Fleetwood|False|True|False
+56-VU|Daniel Loveless|False|False|False
+56-VU|David Kerns|False|False|False
+56-VU|Dennis Hall|False|False|False
+56-VU|Douglas Fisher|False|False|False
+56-VU|Douglas Schmidt|False|False|False
+56-VU|Enxia Zhang|False|False|False
+56-VU|Eugene Vorobeychik|False|False|False
+56-VU|Francis Wells|False|False|False
+56-VU|Gabor Karsai|False|False|True
+56-VU|Gautam Biswas|False|False|True
+56-VU|George Cook|False|False|False
+56-VU|Gerald Lucovsky|False|False|False
+56-VU|Gerald Roth|False|False|False
+56-VU|Graham Hemingway|False|False|False
+56-VU|Greg Walker|False|False|True
+56-VU|Ivelin Georgiev|False|False|False
+56-VU|Jack Noble|False|False|False
+56-VU|James Wittig|False|False|False
+56-VU|Janos Sallai|False|False|False
+56-VU|Janos Sztipanovits|False|False|False
+56-VU|Jason Valentine|False|False|True
+56-VU|Jeff Black|False|False|False
+56-VU|Jeremy Spinrad|False|False|False
+56-VU|John Capra|False|False|False
+56-VU|Jules White|False|False|False
+56-VU|Julie Johnson|False|False|False
+56-VU|Kazuhiko Kawamura|False|True|False
+56-VU|Kenneth Galloway|False|False|False
+56-VU|Kirill Bolotin|False|False|False
+56-VU|Lawrence Dowdy|False|False|False
+56-VU|Leonard Feldman|False|False|False
+56-VU|Lloyd Massengill|False|False|False
+56-VU|Maithilee Kunda|False|False|False
+56-VU|Mark Does|False|False|True
+56-VU|Michael Alles|False|False|False
+56-VU|Michael Myers|False|False|False
+56-VU|Nilanjan Sarkar|False|False|False
+56-VU|Philippe Fauchet|False|False|True
+56-VU|Pierre DHaese|False|False|False
+56-VU|Pietro Valdastri|False|False|False
+56-VU|Ralph Bruce|False|False|False
+56-VU|Richard Alan Peters|False|False|False
+56-VU|Richard Shiavi|False|False|False
+56-VU|Robert Bodenheimer|False|False|False
+56-VU|Robert Laddaga|False|False|False
+56-VU|Robert Nash|False|False|False
+56-VU|Robert Reed|False|False|False
+56-VU|Robert Tairas|False|False|False
+56-VU|Robert Webster|False|False|True
+56-VU|Robert Weller|False|True|False
+56-VU|Ronald Schrimpf|False|False|False
+56-VU|Sandeep Neema|False|False|False
+56-VU|Sharon Weiss|False|False|False
+56-VU|Sokrates Pantelides|False|False|False
+56-VU|Stephen Schach|False|False|False
+56-VU|Supil Raina|False|False|False
+56-VU|Theodore Bapty|False|False|False
+56-VU|Tim Holman|False|False|False
+56-VU|Weng Poo Kang|False|True|True
+56-VU|William Hofmeister|False|False|False
+56-VU|William Robinson|False|False|False
+56-VU|Xenofon Koutsoukos|False|False|False
+56-VU|Yaqiong Xu|False|False|False
+56-VU|Yuan Xue|False|False|False
+56-VU|Zhaohua Ding|False|False|False
+56-VU|Zhiao Shi|False|False|False
+60-NU|AlbertLászló Barabási|False|False|True
+60-NU|Alessandro Vespignani|False|False|True
+60-NU|Amal Ahmed|False|False|True
+60-NU|Andrea Parker|False|False|True
+60-NU|Christo Wilson|False|False|True
+60-NU|Christoph  Riedl|False|False|True
+60-NU|Cristina NitaRotaru |False|False|True
+60-NU|Daniel Wichs|False|False|True
+60-NU|David Choffnes|False|False|True
+60-NU|David Lazer|False|False|True
+60-NU|David Smith|False|False|True
+60-NU|Ehsan Elhamifar |False|False|True
+60-NU|Emanuele Viola|False|False|True
+60-NU|Engin Kirda|False|False|True
+60-NU|Gillian Smith|False|False|True
+60-NU|Guevara Noubir|False|False|True
+60-NU|Holly Jimison|False|False|True
+60-NU|Jan Vitek|False|False|True
+60-NU|Jonathan  Ullman|False|False|True
+60-NU|Lu Wang|False|False|True
+60-NU|Magy Seif ElNasr|False|False|True
+60-NU|Matthew Goodwin|False|False|True
+60-NU|Matthias Felleisen|True|False|True
+60-NU|Michelle Borkin|False|False|True
+60-NU|Mirek Riedewald|False|False|True
+60-NU|Misha Pavel|False|False|True
+60-NU|Mitchell Wand|False|False|True
+60-NU|Olga Vitek|False|False|True
+60-NU|Olin Shivers|False|False|True
+60-NU|Panagiotis Manolios|False|False|True
+60-NU|Rajmohan Rajaraman|False|False|True
+60-NU|Ravi Sundaram|False|False|True
+60-NU|Raymond Fu|False|False|True
+60-NU|Robert Platt|False|False|True
+60-NU|Rupal Patel|False|False|True
+60-NU|Seth Cooper|False|False|True
+60-NU|Stephen Intille|False|False|True
+60-NU|Thomas Wahl|False|False|True
+60-NU|Timothy Bickmore|False|False|True
+60-NU|Tina EliassiRad|False|False|True
+60-NU|William Robertson|False|False|True
+60-NU|Yizhou Sun|False|False|True
+60-UIC|Ajay Kshemkalyani|False|False|False
+60-UIC|Andrew Johnson|False|False|True
+60-UIC|Angus Forbes|False|False|True
+60-UIC|Balajee Vamanan|False|False|False
+60-UIC|Barbara Di Eugenio|False|False|True
+60-UIC|Bhaskar|False|False|True
+60-UIC|Bing Liu|True|True|True
+60-UIC|Brian Ziebart|False|False|True
+60-UIC|Chris Kanich|False|False|False
+60-UIC|Clement Yu|False|False|True
+60-UIC|Cynthia Taylor|False|False|False
+60-UIC|Doug Hogan|False|False|False
+60-UIC|Isabel Cruz|False|False|True
+60-UIC|Jakob Eriksson|False|False|True
+60-UIC|John Bell|False|False|True
+60-UIC|John Lilli|False|False|False
+60-UIC|Leilah Lyons|False|False|False
+60-UIC|Lenore Zuck|False|False|True
+60-UIC|Luc Renambot|False|False|True
+60-UIC|Mark Grechanik|False|False|True
+60-UIC|Mitchell Theys|False|False|True
+60-UIC|Ouri Wolfson|True|False|True
+60-UIC|Patrick Troy|False|False|True
+60-UIC|Peter Nelson|False|False|True
+60-UIC|Piotr Gmytrasiewicz|False|False|True
+60-UIC|Prasad Sistla|False|False|True
+60-UIC|Robert Kenyon|False|False|True
+60-UIC|Robert Sloan|False|False|True
+60-UIC|Sol Shatz|False|False|True
+60-UIC|Stephen Checkoway|False|False|True
+60-UIC|Tadao Murata|False|True|True
+60-UIC|Tanya BergerWolf|False|False|False
+60-UIC|Tom|True|False|True
+60-UIC|Tom Moher|False|False|False
+60-UIC|Ugo Buy|False|False|True
+60-UIC|Xinhua Zhang|False|False|False
+60-UND|Danny Chen|False|True|True
+60-UND|David Chiang|False|False|True
+60-UND|Jay Brockman|False|False|False
+60-UND|Kevin Bowyer|False|False|False
+60-UND|Marina Blanton|False|False|True
+60-UND|Peter Bui|False|False|False
+60-UND|Ronald Metoyer|False|False|True
+60-UND|Scott Emrich|False|False|False
+60-UND|SM Niaz Arifin|False|False|False
+60-UND|Walter Scheirer|False|False|False
+60-UND|Yiyu Shi|False|False|False
+63-ISU|Adisak   Sukul|False|False|True
+63-ISU|Akhilesh  Tyagi|False|False|False
+63-ISU|Alexander  Stoytchev|False|False|False
+63-ISU|Andrew S Miner|False|False|False
+63-ISU|Carl K Chang|False|True|False
+63-ISU|Chris  Harding|False|False|False
+63-ISU|Cliff  Bergman|False|False|True
+63-ISU|David  FernándezBaca|False|False|False
+63-ISU|Elvira  Mayordomo|False|False|False
+63-ISU|Gianfranco  Ciardo|False|False|False
+63-ISU|Giora  Slutzki|False|False|False
+63-ISU|Guang   Song|False|False|False
+63-ISU|Gurpur   Prabhu|False|False|True
+63-ISU|Hridesh   Rajan|False|False|True
+63-ISU|HuiHsien   Chou|False|False|False
+63-ISU|Jack  Lutz|False|False|False
+63-ISU|Jeremy  Sheaffer|False|False|False
+63-ISU|Jim  Lathrop|False|False|True
+63-ISU|Jin  Tian|False|False|False
+63-ISU|Johnny  Wong|False|False|True
+63-ISU|Kathryn  Stolee|False|False|True
+63-ISU|Kris  De Brabanter|False|False|False
+63-ISU|Les  Miller|False|False|False
+63-ISU|Lu  Ruan|False|False|True
+63-ISU|Miao  Liu|False|False|False
+63-ISU|Morris  Chang|False|False|True
+63-ISU|Neil Zhenqiang  Gong|False|False|True
+63-ISU|Oliver  Eulenstein|False|False|False
+63-ISU|Pavan  Aduri|False|False|False
+63-ISU|Ratnesh  Kumar|False|False|True
+63-ISU|Robyn  Lutz|False|True|True
+63-ISU|Samik  Basu|False|False|False
+63-ISU|Shashi  Gadia|False|False|False
+63-ISU|ShuHui (Susan)  Chang|False|False|False
+63-ISU|Simanta  Mitra|False|False|True
+63-ISU|Soma  Chaudhuri|False|False|False
+63-ISU|Srikanta  Tirthapura|False|False|True
+63-ISU|Steve  Kautz|False|False|True
+63-ISU|Suraj  Kothari|False|False|False
+63-ISU|Tien  Nguyen|False|False|True
+63-ISU|Tim  McNicholl|False|False|False
+63-ISU|Wallapak  Tavanapong|False|False|True
+63-ISU|Wei  Le|False|False|False
+63-ISU|Wensheng  Zhang|False|False|True
+63-ISU|Xiaoqiu  Huang|False|False|True
+63-ISU|YanBin  Jia|False|False|True
+63-ISU|Ying  Cai|False|False|False
+63-UBS|Aidong Zhang|False|True|True
+63-UBS|Atri Rudra|False|False|True
+63-UBS|Aziz Mohaisen|False|False|False
+63-UBS|Bharat Jayaraman|False|False|False
+63-UBS|Chang Wen Chen|False|True|False
+63-UBS|Chunming Qiao|False|True|True
+63-UBS|Daniel Fischer|False|False|False
+63-UBS|Dimitrios Koutsonikolas|False|False|True
+63-UBS|Geoffrey Challen|False|False|True
+63-UBS|Hung Ngo|False|False|True
+63-UBS|Jan Chomicki|False|False|False
+63-UBS|Jaroslaw (Jaric) Zola|False|False|False
+63-UBS|Jing Gao|False|False|True
+63-UBS|Jinhui Xu|False|False|True
+63-UBS|Karthik Dantu|False|False|False
+63-UBS|Kui Ren|False|True|True
+63-UBS|Lu Su|False|False|False
+63-UBS|Lukasz (Luke) Ziarek|False|False|False
+63-UBS|Marco Gaboardi|False|False|False
+63-UBS|Murat Demirbas|False|False|True
+63-UBS|Nils Napp|False|False|False
+63-UBS|Oliver Kennedy|False|False|False
+63-UBS|Ramalingam Sridhar|False|False|False
+63-UBS|Russ Miller|False|True|False
+63-UBS|Satish Tripathi|False|True|False
+63-UBS|Shambhu Upadhyaya|False|False|True
+63-UBS|Shi Li|False|False|False
+63-UBS|Steven Ko|False|False|True
+63-UBS|Tevfik Kosar|False|False|True
+63-UBS|Varun Chandola|False|False|False
+63-UBS|Venugopal (Venu) Govindaraju|True|True|True
+63-UBS|Vipin Chaudhary|False|False|False
+63-UBS|Wen Dong|False|False|False
+63-UBS|Wenyao Xu|False|False|False
+63-UBS|Xin (Roger) He|False|False|True
+63-UI|Aaron Stump|False|False|False
+63-UI|Alberto Maria Segre|False|False|False
+63-UI|Cesare Tinelli|False|False|False
+63-UI|Denise Szecsei|False|False|False
+63-UI|Hantao Zhang|False|False|False
+63-UI|James Cremer|False|False|False
+63-UI|Juan Pablo Hourcade|False|False|False
+63-UI|Octav Chipara|False|False|False
+63-UI|Padmini Srinivasan|False|False|False
+63-UI|Sriram Pemmaraju|False|False|False
+63-UI|Suely Oliveira|False|False|True
+63-UI|Sukumar Ghosh|False|False|False
+63-UI|Ted Herman|False|False|False
+63-UI|Tianbao Yang|False|False|False
+63-UI|Zubair Shafiq|False|False|False
+63-UO|Allen Malony|False|False|True
+63-UO|Andrzej Proskurowski|False|False|False
+63-UO|Anthony Hornof|False|False|False
+63-UO|Arthur Farley|False|False|False
+63-UO|Boyana Norris|False|False|True
+63-UO|Chris Wilson|False|False|False
+63-UO|Daniel Lowd|False|False|False
+63-UO|David Wilkins|False|False|False
+63-UO|Dejing Dou|False|False|True
+63-UO|Eric Wills|False|False|True
+63-UO|Eugene Luks|False|False|False
+63-UO|Hank Childs|False|False|False
+63-UO|Joe Sventek|False|False|False
+63-UO|Jun Li|False|False|True
+63-UO|Kathleen Freeman|False|False|False
+63-UO|Kent Stevens|False|False|True
+63-UO|Michael Hennessy|False|False|False
+63-UO|Michal Young|False|False|False
+63-UO|Michel Kinsy|False|False|False
+63-UO|Reza Rejaie|False|False|True
+63-UO|Sarah Douglas|False|False|True
+63-UO|Stephen Fickas|False|False|True
+63-UO|Stuart Faulk|False|False|False
+63-UO|Virginia Lo|False|False|True
+63-UO|Xiaodi Wu|False|False|False
+63-UO|Zena Ariola|False|False|True
+67-GMU|Alex Brodsky|False|False|False
+67-GMU|Amarda Shehu|False|False|True
+67-GMU|Amihai Motro|False|False|False
+67-GMU|Angelos Stavrou|False|False|True
+67-GMU|Arun Sood|False|False|False
+67-GMU|Carlotta Domeniconi|False|False|True
+67-GMU|Chris Kauffman|False|False|True
+67-GMU|Dana Richards|False|False|False
+67-GMU|Daniel Barbará|False|False|False
+67-GMU|Daniel Menascé|False|False|False
+67-GMU|David Nordstrom|False|False|False
+67-GMU|Dov Gordon|False|False|False
+67-GMU|Duminda Wijesekera|False|False|False
+67-GMU|Elizabeth White|False|False|False
+67-GMU|Fei Li|False|False|True
+67-GMU|Gheorghe Tecuci|False|False|True
+67-GMU|Hakan Aydın|False|False|False
+67-GMU|Harry Wechsler|False|True|False
+67-GMU|Hassan Gomaa|False|False|False
+67-GMU|Huzefa Rangwala|False|False|True
+67-GMU|Jan Allbeck|False|False|False
+67-GMU|Jana Košecká|False|False|True
+67-GMU|Jeff Offutt|False|False|True
+67-GMU|Jessica Lin|False|False|True
+67-GMU|John Otten|False|False|False
+67-GMU|JyhMing Lien|False|False|False
+67-GMU|Katherine (Raven) Russell|False|False|False
+67-GMU|Kenneth De Jong|False|False|False
+67-GMU|Kinga Dobolyi|False|False|True
+67-GMU|Larry Kerschberg|False|False|True
+67-GMU|Mark Snyder|False|False|False
+67-GMU|Paul Ammann|False|False|True
+67-GMU|Pearl Wang|False|False|False
+67-GMU|Richard Carver|False|False|True
+67-GMU|Robert Simon|False|False|False
+67-GMU|Sanjeev Setia|False|False|True
+67-GMU|Sean Luke|False|False|True
+67-GMU|Songqing Chen|False|False|True
+67-GMU|Tamara Maddox|False|False|False
+67-GMU|Thomas LaToza|False|False|False
+67-GMU|Xinyuan (Frank) Wang|False|False|True
+67-GMU|Yotam Gingold|False|False|True
+67-GMU|Yutao Zhong|False|False|False
+67-GMU|Zoran Durić|False|False|False
+67-OSU|Alan Fern|False|False|True
+67-OSU|Alan Wang|False|False|True
+67-OSU|Albrecht Jander|False|False|True
+67-OSU|Alex Groce|False|False|True
+67-OSU|Amir Nayyeri|False|False|True
+67-OSU|Andreas Weisshaar|False|True|True
+67-OSU|Anita Sarma|False|False|True
+67-OSU|Annette von Jouanne|False|True|True
+67-OSU|Arash Termehchy|False|False|True
+67-OSU|Arun Natarajan|False|False|True
+67-OSU|Attila Yavuz|False|False|True
+67-OSU|Bechir Hamdaoui|False|False|True
+67-OSU|Bella Bose|False|False|True
+67-OSU|Ben Lee|False|False|True
+67-OSU|Carlos Jensen|False|False|True
+67-OSU|Cherri Pancake|False|False|True
+67-OSU|Christopher Scaffidi|False|False|True
+67-OSU|Danny Dig|False|False|True
+67-OSU|David Hendrix|False|False|True
+67-OSU|Eduardo CotillaSanchez|False|False|True
+67-OSU|Eric Walkingshaw|False|False|True
+67-OSU|Eugene Zhang|False|False|True
+67-OSU|Fuxin Li|False|False|True
+67-OSU|Gabor Temes|False|True|True
+67-OSU|Glencora Borradaile|False|False|True
+67-OSU|Huaping Liu|False|False|True
+67-OSU|Jed Irvine|False|False|True
+67-OSU|Jinsub Kim|False|False|True
+67-OSU|John Conley|False|False|True
+67-OSU|John Wager|False|True|True
+67-OSU|Julia Zhang|False|False|True
+67-OSU|Karti Mayaram|False|True|True
+67-OSU|Kelin Kuhn|False|True|True
+67-OSU|Larry Cheng|False|False|True
+67-OSU|Liang Huang|False|False|True
+67-OSU|Lizhong Chen|False|False|True
+67-OSU|Margaret Burnett|False|False|True
+67-OSU|Mario Magaña|False|False|True
+67-OSU|Martin Erwig|False|False|True
+67-OSU|Matthew Johnston|False|False|True
+67-OSU|Mike Bailey|False|False|True
+67-OSU|Mike Rosulek|False|False|True
+67-OSU|Pallavi Dhagat|False|False|True
+67-OSU|Patrick Chiang|False|False|True
+67-OSU|Prasad Tadepalli|False|False|True
+67-OSU|Rakesh Bobba|False|False|True
+67-OSU|Raviv Raich|False|False|True
+67-OSU|Rebecca Hutchinson|False|False|True
+67-OSU|Rick Presley|False|False|True
+67-OSU|Scott Sanner|False|False|True
+67-OSU|Sinisa Todorovic|False|False|True
+67-OSU|Stephen Ramsey|False|False|True
+67-OSU|Ted Brekken|False|False|True
+67-OSU|Tejasvi Anand|False|False|True
+67-OSU|Thinh Nguyen|False|False|True
+67-OSU|Thomas Dietterich|False|False|True
+67-OSU|UnKu Moon|False|True|True
+67-OSU|V John Mathews|False|True|True
+67-OSU|WengKeen Wong|False|False|True
+67-OSU|Xiaoli Fern|False|False|True
+67-OSU|Yue Zhang|False|False|True
+67-SU|Andria CostelloStaniec|False|False|True
+67-SU|Angela Zachman|False|False|True
+67-SU|Baris Salman|False|False|True
+67-SU|Ben AkihKumgeh|False|False|True
+67-SU|Biao Chen|False|True|True
+67-SU|Can Isik|False|False|True
+67-SU|Christa Kelleher|False|False|True
+67-SU|Dacheng Ren|False|False|True
+67-SU|David Chandler|False|False|True
+67-SU|Dawit Negussey|False|False|True
+67-SU|Ed Bogucz|False|False|True
+67-SU|Ehat Ercanli|False|False|True
+67-SU|Eric Spina|False|False|True
+67-SU|George Martin|False|False|True
+67-SU|Hamid Dalir|False|False|True
+67-SU|Heng Yin|False|False|True
+67-SU|Hong Wang|False|False|True
+67-SU|Hossein Ataei|False|False|True
+67-SU|Howard Blair|False|False|True
+67-SU|Jacques Lewalle|False|False|True
+67-SU|Jeongmin Ahn|False|False|True
+67-SU|Jian Tang|False|False|True
+67-SU|Jianshun Jensen Zhang|False|False|False
+67-SU|Jim Fawcett|False|False|True
+67-SU|Jun (Brandon) Choi|False|False|True
+67-SU|Katie Cadwell|False|False|True
+67-SU|Kishan Mehrotra|False|False|True
+67-SU|Li Wang|False|False|True
+67-SU|Makan Fardad|False|False|True
+67-SU|Marjory Baruch|False|False|True
+67-SU|Mark Glauser|False|False|True
+67-SU|Mark Povinelli|False|False|True
+67-SU|Melissa Green|False|False|True
+67-SU|Michael Roppo|False|False|True
+67-SU|Mustafa Cenk Gursoy|False|False|True
+67-SU|Peter Plumley|False|False|True
+67-SU|Pranav Soman|False|False|True
+67-SU|Qi Wang Song|False|False|True
+67-SU|Qinru Qiu|False|False|True
+67-SU|Radhakrishna “Suresh” Sureshkumar|False|False|True
+67-SU|Reza Zafarani|False|False|True
+67-SU|Robert Irwin|False|False|True
+67-SU|Roger Schmidt|False|False|True
+67-SU|Ruth Chen|False|False|True
+67-SU|Sam Salem|False|False|True
+67-SU|Sara Eftekharnejad|False|False|True
+67-SU|Senem Velipasalar|False|False|True
+67-SU|Shikha Nangia|False|False|True
+67-SU|ShiuKai Chin|False|False|True
+67-SU|Steve Chapin|False|False|True
+67-SU|Sucheta Soundarajan|False|False|True
+67-SU|Suresh Santanam|False|False|True
+67-SU|Susan Older|False|False|True
+67-SU|Svetoslava Todorova|False|False|True
+67-SU|Tapan Kumar Sarkar|False|True|True
+67-SU|Teng Zeng|False|False|True
+67-SU|Teng Zhang|False|False|True
+67-SU|Thong Dang|False|False|True
+67-SU|Tomislav Bujanovic|False|False|True
+67-SU|Utpal Roy|False|False|True
+67-SU|Vadrevu Murthy|False|False|True
+67-SU|Wenliang (Kevin) Du|False|False|True
+67-SU|Yan Zhang|False|False|True
+67-SU|Yanzhi Wang|False|False|True
+67-SU|Yingbin Liang|False|False|True
+67-SU|Yuzhe (Richard) Tang|False|False|True
+1-CMU|Acar Umut|False|False|False
+1-CMU|Ada Anil|False|False|False
+1-CMU|Adamchik Victor|False|False|False
+1-CMU|Aldrich Jonathan|False|False|False
+1-CMU|Andersen David|False|False|False
+1-CMU|Anderson Ann|False|False|False
+1-CMU|Anderson Eric|False|False|False
+1-CMU|Balcan Nina|False|False|False
+1-CMU|Balzer Stephanie|False|False|False
+1-CMU|Berliner Hans|False|False|False
+1-CMU|Blelloch Guy|False|False|False
+1-CMU|Blum Avrim|False|False|False
+1-CMU|Blum Lenore|False|False|True
+1-CMU|Blum Manuel|False|False|False
+1-CMU|Brookes Stephen|False|False|True
+1-CMU|Brumley David|False|False|False
+1-CMU|Brunskill Emma|False|False|False
+1-CMU|Bryant Randy|False|False|False
+1-CMU|Carbonell Jaime|False|False|True
+1-CMU|Carrasquel Jacobo|False|False|False
+1-CMU|Chrysanthis Panos|False|False|False
+1-CMU|Clarke Edmund|False|False|False
+1-CMU|Cortina Thomas|False|False|False
+1-CMU|Crane Keenan|False|False|True
+1-CMU|Crary Karl|False|False|False
+1-CMU|Dannenberg Roger|False|False|False
+1-CMU|Datta Anupam|False|False|False
+1-CMU|Eckhardt David|False|False|False
+1-CMU|Erdmann Michael|False|False|False
+1-CMU|Fahlman Scott|False|False|False
+1-CMU|Faloutsos Christos|False|False|False
+1-CMU|Fatahalian Kayvon|False|False|False
+1-CMU|Fink Eugene|False|False|False
+1-CMU|Fredrikson Matthew|False|False|False
+1-CMU|Frieze Alan|False|False|False
+1-CMU|Frieze Carol|False|False|False
+1-CMU|Ganger Gregory|False|False|False
+1-CMU|Garlan David|False|False|False
+1-CMU|Gatterbauer Wolfgang|False|False|False
+1-CMU|Gibbons Phillip|False|False|False
+1-CMU|Gibson Garth|False|False|False
+1-CMU|Gligor Virgil|False|False|False
+1-CMU|Goldstein Seth|False|False|False
+1-CMU|Gunawardena Ananda|False|False|False
+1-CMU|Gupta Anupam|False|False|False
+1-CMU|Guruswami Venkatesan|False|False|False
+1-CMU|Haeupler Bernhard|False|False|True
+1-CMU|HarcholBalter Mor|False|False|False
+1-CMU|Harper Robert|False|False|True
+1-CMU|Hauptmann Alexander|False|False|False
+1-CMU|Hodgins Jessica|False|False|False
+1-CMU|Hoffmann Jan|False|False|False
+1-CMU|Jahanian Farnam|False|False|False
+1-CMU|Kaminsky Michael|False|False|False
+1-CMU|Kanade Takeo|False|False|True
+1-CMU|Kaynar Zeliha Dilsun|False|False|False
+1-CMU|Kesden Gregory|False|False|False
+1-CMU|Kosbie David|False|False|False
+1-CMU|Koutis Ioannis|False|False|False
+1-CMU|Labrinidis Alexandros|False|False|False
+1-CMU|Lee TaiSing|False|False|False
+1-CMU|Levin Golan|False|False|False
+1-CMU|Lucia Brandon|False|False|False
+1-CMU|Mason Matthew|False|False|False
+1-CMU|Maxion Roy|False|False|False
+1-CMU|Mckeown David|False|False|False
+1-CMU|Miller Gary|False|False|False
+1-CMU|Mitchell Tom|False|False|False
+1-CMU|Moore Andrew|False|False|False
+1-CMU|Morris James|False|False|False
+1-CMU|Mowry Todd|False|False|False
+1-CMU|Mutlu Onur|False|False|True
+1-CMU|O'Donnell Ryan|False|False|False
+1-CMU|O'Hallaron David|False|False|False
+1-CMU|Pavlo Andy|False|False|False
+1-CMU|Perrig Adrian|False|False|False
+1-CMU|Pfenning Frank|False|False|False
+1-CMU|Pillai Padmanabhan|False|False|False
+1-CMU|Platzer André|False|False|False
+1-CMU|Pollard Nancy|False|False|False
+1-CMU|Procaccia Ariel|False|False|False
+1-CMU|Railing Brian|False|False|False
+1-CMU|Ravi Ramamoorthi|False|False|False
+1-CMU|Reddy Raj|False|False|False
+1-CMU|ReidMiller Margaret|False|False|False
+1-CMU|Rosenfeld Roni|False|False|False
+1-CMU|Rudich Steven|False|False|True
+1-CMU|Rudnicky Alexander|False|False|False
+1-CMU|Sakr Majd|False|False|False
+1-CMU|Sandholm Tuomas|False|False|False
+1-CMU|Satyanarayanan Mahadev|False|False|False
+1-CMU|Schmerl Bradley|False|False|False
+1-CMU|Schwartz Russell|False|False|False
+1-CMU|Scott Dana|False|False|True
+1-CMU|Sekar Vyas|False|False|False
+1-CMU|Seshan Srinivasan|False|False|True
+1-CMU|Shaw Mary|False|False|False
+1-CMU|Siewiorek Daniel|False|False|False
+1-CMU|Simmons Reid|False|False|False
+1-CMU|Simmons Robert|False|False|False
+1-CMU|Sleator Daniel|False|False|True
+1-CMU|Steenkiste Peter|False|False|False
+1-CMU|Stehlik Mark|False|False|False
+1-CMU|Sutner Klaus|False|False|False
+1-CMU|Touretzky David|False|False|False
+1-CMU|Umut Acar|False|False|False
+1-CMU|Veith Helmut|False|False|False
+1-CMU|Von Ahn Luis|False|False|False
+1-CMU|Wactlar Howard|False|False|True
+1-CMU|Wilkes John|False|False|False
+1-CMU|Wright Hyrum|False|False|False
+1-CMU|Yang Jean|False|False|False
+1-CMU|Yang Yiming|False|False|False
+1-CMU|Zhang Hui|False|False|False
+1-MIT| Arvind|False|True|False
+1-MIT|Akintunde Akinwande|False|False|True
+1-MIT|Alan Grodzinsky|False|False|False
+1-MIT|Alan Oppenheim|False|False|False
+1-MIT|Alan Willsky|False|True|False
+1-MIT|Albert Meyer|False|False|False
+1-MIT|Aleksander Madry|False|False|True
+1-MIT|Alexandre Megretski|False|False|True
+1-MIT|Anant Agarwal|False|False|False
+1-MIT|Anantha Chandrakasan|False|False|False
+1-MIT|Antonio Torralba|False|False|False
+1-MIT|Armando SolarLezama|False|False|False
+1-MIT|Arthur Baggeroer|False|False|False
+1-MIT|Asuman Ozdaglar|False|False|True
+1-MIT|Barbara Liskov|False|False|False
+1-MIT|Berthold Horn|False|False|False
+1-MIT|Bruce Tidor|False|False|False
+1-MIT|Butler Lampson|False|False|False
+1-MIT|Charles Leiserson|True|True|False
+1-MIT|Charles Sodini|False|False|False
+1-MIT|Christopher Terman|False|False|False
+1-MIT|Collin Stultz|False|False|False
+1-MIT|Dana Moshkovitz|False|False|False
+1-MIT|Daniel Jackson|False|False|False
+1-MIT|Daniel Sanchez|False|False|False
+1-MIT|Daniela Rus|False|False|True
+1-MIT|David Clark|False|False|False
+1-MIT|David Forney|False|True|False
+1-MIT|David Gifford|False|False|False
+1-MIT|David Karger|False|False|False
+1-MIT|David Perreault|False|False|False
+1-MIT|Dennis Freeman|False|False|False
+1-MIT|Devavrat Shah|False|False|True
+1-MIT|Dimitri Antoniadis|False|False|False
+1-MIT|Dimitri Bertsekas|False|False|False
+1-MIT|Dina Katabi|False|False|False
+1-MIT|Duane Boning|False|False|True
+1-MIT|Elfar Adalsteinsson|False|False|False
+1-MIT|Erich Ippen|False|False|False
+1-MIT|Erik Demaine|False|False|False
+1-MIT|Fernando Corbató|False|False|False
+1-MIT|Franz Kaertner|False|True|False
+1-MIT|Fredo Durand|False|False|True
+1-MIT|George Verghese|False|False|False
+1-MIT|Gerald Sussman|True|False|False
+1-MIT|Gerald Wilson|False|False|False
+1-MIT|Gregory Wornell|False|False|True
+1-MIT|Guy Bresler|False|False|False
+1-MIT|HaeSeung Lee|False|True|False
+1-MIT|Hal Abelson|False|False|False
+1-MIT|Hari Balakrishnan|False|False|False
+1-MIT|Henry Smith|False|False|False
+1-MIT|Isaac Chuang|False|False|True
+1-MIT|Jack Dennis|False|False|False
+1-MIT|Jacob White|False|True|False
+1-MIT|Jae Lim|False|False|False
+1-MIT|James Fujimoto|False|False|False
+1-MIT|Jeffrey Lang|False|True|False
+1-MIT|Jeffrey Shapiro|False|False|True
+1-MIT|Jesús del Alamo|False|False|False
+1-MIT|Jing Kong|False|False|True
+1-MIT|Joel Emer|False|False|False
+1-MIT|Joel Moses|True|False|False
+1-MIT|Joel Voldman|False|False|False
+1-MIT|John Guttag|False|False|False
+1-MIT|John Kassakian|False|False|False
+1-MIT|John Tsitsiklis|False|False|True
+1-MIT|Jongyoon Han|False|False|True
+1-MIT|Judy Hoyt|False|False|False
+1-MIT|Karl Berggren|False|False|False
+1-MIT|Konstantinos Daskalakis|False|False|True
+1-MIT|Leslie Kaelbling|False|False|True
+1-MIT|Leslie Kolodziejski|False|False|False
+1-MIT|LiShiuan Peh|False|False|False
+1-MIT|Lizhong Zheng|False|False|True
+1-MIT|Louis Braida|False|False|False
+1-MIT|Luca Daniel|False|False|False
+1-MIT|Manolis Kellis|False|False|True
+1-MIT|Markus Zahn|False|False|False
+1-MIT|Martha Gray|False|True|True
+1-MIT|Martin Rinard|False|False|False
+1-MIT|Matei Zaharia|False|False|True
+1-MIT|Mehmet Fatih Yanik|False|False|True
+1-MIT|Michael Carbin|False|False|True
+1-MIT|Michael Stonebraker|False|False|False
+1-MIT|Michael Watts|False|False|False
+1-MIT|Mohammad Alizadeh|False|False|False
+1-MIT|Munther Dahleh|False|False|False
+1-MIT|Muriel Médard|False|False|True
+1-MIT|Nancy Lynch|True|False|False
+1-MIT|Nickolai Zeldovich|False|False|True
+1-MIT|Pablo Parrilo|False|True|True
+1-MIT|Patrick Jaillet|False|False|True
+1-MIT|Patrick Winston|False|False|False
+1-MIT|Paul Gray|False|False|True
+1-MIT|Peter Hagelstein|False|False|False
+1-MIT|Peter Szolovits|False|False|False
+1-MIT|Piotr Indyk|False|False|False
+1-MIT|Polina Golland|False|False|False
+1-MIT|Qing Hu|False|True|False
+1-MIT|Rajeev Ram|False|False|False
+1-MIT|Randall Davis|False|False|True
+1-MIT|Regina Barzilay|False|False|True
+1-MIT|Rob Miller|False|False|False
+1-MIT|Robert Berwick|False|False|True
+1-MIT|Robert Fano|False|False|False
+1-MIT|Robert Gallager|False|True|True
+1-MIT|Robert Morris|False|False|False
+1-MIT|Rodney Brooks|False|True|False
+1-MIT|Roger Mark|False|True|True
+1-MIT|Ron Weiss|False|False|False
+1-MIT|Ronald Rivest|False|False|False
+1-MIT|Ronitt Rubinfeld|False|False|False
+1-MIT|Ruonan Han|False|False|False
+1-MIT|Russell Tedrake|False|False|False
+1-MIT|Saman Amarasinghe|False|False|False
+1-MIT|Samuel Madden|False|False|False
+1-MIT|Sangeeta Bhatia|False|False|True
+1-MIT|Sanjoy Mitter|False|True|True
+1-MIT|Scott Aaronson|True|False|True
+1-MIT|Shafrira Goldwasser|False|False|False
+1-MIT|Silvio Micali|False|False|False
+1-MIT|Srini Devadas|True|True|False
+1-MIT|Stefanie Jegelka|False|False|True
+1-MIT|Stephen Ward|False|False|False
+1-MIT|Steven Leeb|False|False|False
+1-MIT|Tamara Broderick|False|False|True
+1-MIT|Terry Orlando|False|False|False
+1-MIT|Thomas Heldt|False|False|False
+1-MIT|Thomas Magnanti|False|False|False
+1-MIT|Tim BernersLee|False|False|False
+1-MIT|Timothy Lu|False|False|False
+1-MIT|Tomás LozanoPérez|False|False|True
+1-MIT|Tomás Palacios|False|False|False
+1-MIT|Tommi Jaakkola|False|False|False
+1-MIT|Victor Zue|False|False|False
+1-MIT|Vincent Chan|False|False|False
+1-MIT|Vinod Vaikuntanathan|False|False|True
+1-MIT|Vivienne Sze|False|False|False
+1-MIT|Vladimir Bulovic|False|False|False
+1-MIT|William Freeman|False|False|False
+1-MIT|William Peake|False|False|False
+1-MIT|Wojciech Matusik|False|False|True
+1-MIT|Yury Polyanskiy|False|False|True
+1-SU|Alex Aiken|True|False|False
+1-SU|Ashish Goel|False|False|True
+1-SU|Balaji Prabhakar|False|False|True
+1-SU|Bill Dally|False|True|False
+1-SU|Bill MacCartney|False|False|False
+1-SU|Chris Manning|True|False|True
+1-SU|Chris Re|False|False|True
+1-SU|Christos Kozyrakis|False|False|False
+1-SU|Dan Boneh|False|False|False
+1-SU|Dan Jurafsky|False|False|True
+1-SU|David Cheriton|False|False|False
+1-SU|David Dill|False|False|False
+1-SU|David Mazieres|False|False|False
+1-SU|Dawson Engler|False|False|True
+1-SU|Don Knuth|False|False|True
+1-SU|Edward Feigenbaum|False|False|False
+1-SU|Eric Roberts|True|False|True
+1-SU|FeiFei Li|False|False|True
+1-SU|Ge Wang|False|False|False
+1-SU|Gill Bejerano|False|False|True
+1-SU|Gio Wiederhold|False|False|True
+1-SU|Greg Valiant|False|False|False
+1-SU|Hector GarciaMolina|False|False|False
+1-SU|James Landay|False|False|False
+1-SU|Jay Borenstein|False|False|True
+1-SU|JeanClaude Latombe|False|False|False
+1-SU|Jeff Ullman|False|False|False
+1-SU|Jennifer Widom|True|False|False
+1-SU|John Mitchell|False|False|True
+1-SU|John Ousterhout|False|False|False
+1-SU|Jure Leskovec|False|False|False
+1-SU|Kenneth Salisbury|False|False|False
+1-SU|Kunle Olukotun|True|False|False
+1-SU|Leonidas Guibas|False|False|False
+1-SU|Lester Mackey|False|False|True
+1-SU|Maneesh Agrawala|False|False|True
+1-SU|Marc Levoy|True|False|True
+1-SU|Mark Horowitz|False|False|False
+1-SU|Martin Casado|False|False|False
+1-SU|Martin Fischer|False|False|False
+1-SU|Mehran Sahami|False|False|False
+1-SU|Mendel Rosenblum|True|False|False
+1-SU|Michael Bernstein|False|False|True
+1-SU|Mike Genesereth|False|False|False
+1-SU|Monica Lam|True|False|True
+1-SU|Nick McKeown|False|False|False
+1-SU|Nick Parlante|False|False|False
+1-SU|Nils Nilsson|False|False|False
+1-SU|Noah Goodman|False|False|True
+1-SU|Oussama Khatib|False|False|False
+1-SU|Patrick Young|False|False|False
+1-SU|Pei Cao|False|False|True
+1-SU|Philip Levis|False|False|True
+1-SU|Ron Dror|False|False|False
+1-SU|Ron Fedkiw|False|False|False
+1-SU|Russ Altman|False|False|True
+1-SU|Ryan Williams|False|False|False
+1-SU|Sachin Katti|False|False|True
+1-SU|Scott Klemmer|False|False|True
+1-SU|Sean Follmer|False|False|False
+1-SU|Sebastian Thrun|False|False|True
+1-SU|Serge Plotkin|False|False|False
+1-SU|Silvio Savarese|False|False|True
+1-SU|Stephen Boyd|False|False|True
+1-SU|Stephen Montgomery|False|False|True
+1-SU|Subhasish Mitra|False|True|True
+1-SU|Teresa Meng|False|False|False
+1-SU|Terry Winograd|False|False|False
+1-SU|Tim Roughgarden|False|False|True
+1-SU|Vaughan Pratt|False|False|True
+1-SU|Virginia Williams|False|False|False
+1-SU|Vladlen Koltun|False|False|False
+1-SU|Yoav Shoham|False|False|False
+1-UCB|Abhay Parekh|False|False|False
+1-UCB|Adam Wolisz|False|False|False
+1-UCB|Alessandro Chiesa|False|False|False
+1-UCB|Alexandra von Meier|False|False|False
+1-UCB|Alexandre Bayen|False|False|False
+1-UCB|Alexei (Alyosha) Efros|False|False|True
+1-UCB|Ali Ghodsi|False|False|False
+1-UCB|Ali Javey|False|False|True
+1-UCB|Ali Niknejad|False|True|False
+1-UCB|Alistair Sinclair|False|False|False
+1-UCB|Ana Claudia Arias|False|False|False
+1-UCB|Anant Sahai|False|False|False
+1-UCB|Anca Dragan|False|False|False
+1-UCB|Andreas Kuehlmann|False|True|True
+1-UCB|Armando Fox|False|False|True
+1-UCB|Avideh Zakhor|False|False|True
+1-UCB|Babak Ayazifar|False|False|False
+1-UCB|Benjamin Recht|False|False|False
+1-UCB|Bernd Sturmfels|False|False|False
+1-UCB|Bernhard Boser|False|False|False
+1-UCB|Bin Yu|False|False|False
+1-UCB|Björn Hartmann|False|False|True
+1-UCB|Borivoje Nikolic|False|False|True
+1-UCB|Bruno Olshausen|False|False|False
+1-UCB|Chenming Hu|False|False|False
+1-UCB|Christos Papadimitriou|False|False|False
+1-UCB|Chunlei Liu|False|False|False
+1-UCB|Claire Tomlin|False|False|False
+1-UCB|Clark Nguyen|False|True|False
+1-UCB|Constance ChangHasnain|False|False|False
+1-UCB|Dan Garcia|False|False|True
+1-UCB|Daniel Klein|False|False|True
+1-UCB|David Allstot|False|False|False
+1-UCB|David Attwood|False|False|False
+1-UCB|David Tse|False|False|True
+1-UCB|David Wagner|False|False|False
+1-UCB|Dawn Song|False|False|True
+1-UCB|Domenico Ferrari|False|False|True
+1-UCB|Doug Tygar|False|False|False
+1-UCB|Elad Alon|False|False|False
+1-UCB|Elchanan Mossel|False|False|False
+1-UCB|Eli Yablonovitch|False|False|True
+1-UCB|Elijah Polak|False|False|False
+1-UCB|Eric Brewer|False|False|False
+1-UCB|Eric Paulos|False|False|False
+1-UCB|Eugene Wong|False|False|True
+1-UCB|George Necula|False|False|True
+1-UCB|Gerald Friedland|False|False|False
+1-UCB|Ion Stoica|False|False|False
+1-UCB|Jack Gallant|False|False|False
+1-UCB|Jaijeet Roychowdhury|False|False|False
+1-UCB|James Demmel|True|True|False
+1-UCB|James O'Brien|False|False|False
+1-UCB|Jean Walrand|False|False|False
+1-UCB|Jeffrey Bokor|False|True|False
+1-UCB|Jitendra Malik|False|False|False
+1-UCB|John Chuang|False|False|False
+1-UCB|John DeNero|False|False|False
+1-UCB|John Wawrzynek|False|False|False
+1-UCB|Jonathan Bachrach|False|False|False
+1-UCB|Jonathan Shewchuk|False|False|False
+1-UCB|Joseph Gonzalez|False|False|False
+1-UCB|Joshua Hug|False|False|False
+1-UCB|Kameshwar Poolla|False|False|True
+1-UCB|Kannan Ramchandran|False|True|False
+1-UCB|Ken Goldberg|False|True|False
+1-UCB|Koushik Sen|False|False|True
+1-UCB|Kristofer Pister|False|False|False
+1-UCB|Krste Asanović|False|False|False
+1-UCB|Kurt Keutzer|False|False|False
+1-UCB|Laura Waller|False|False|True
+1-UCB|Laurent El Ghaoui|False|False|False
+1-UCB|Lior Pachter|False|False|False
+1-UCB|Luca Trevisan|False|False|False
+1-UCB|Luke Lee|False|False|False
+1-UCB|Maneesh Agrawala|False|False|True
+1-UCB|Manuel Blum|False|False|False
+1-UCB|Marti Hearst|True|False|True
+1-UCB|Martin Wainwright|False|False|False
+1-UCB|Michael Franklin|True|False|False
+1-UCB|Michael Jordan|False|True|False
+1-UCB|Michael Lustig|False|False|False
+1-UCB|Michael Stonebraker|False|False|False
+1-UCB|Michel Maharbiz|False|False|True
+1-UCB|Murat Arcak|False|True|False
+1-UCB|Nelson Morgan|False|False|True
+1-UCB|Nir Yosef|False|False|False
+1-UCB|Peter Bartlett|False|False|False
+1-UCB|Phillip Colella|False|False|False
+1-UCB|Pieter Abbeel|False|False|True
+1-UCB|Prasad Raghavendra|False|False|False
+1-UCB|Pravin Varaiya|False|True|False
+1-UCB|Raluca Ada Popa|False|False|False
+1-UCB|Ravi Ramamoorthi|False|False|True
+1-UCB|Ren Ng|False|False|False
+1-UCB|Rikky Muller|False|False|False
+1-UCB|Robert Full|False|False|False
+1-UCB|Ruzena Bajcsy|False|False|False
+1-UCB|Sanjam Garg|False|False|False
+1-UCB|Satish Rao|False|False|False
+1-UCB|Sayeef Salahuddin|False|False|True
+1-UCB|Scott Shenker|False|False|False
+1-UCB|Shyam Parekh|False|False|False
+1-UCB|Stavros Tripakis|False|False|False
+1-UCB|Steven Conolly|False|False|False
+1-UCB|Sylvia Ratnasamy|False|False|False
+1-UCB|Theodore Van Duzer|False|False|False
+1-UCB|Thomas Courtade|False|False|True
+1-UCB|Thomas Griffiths|False|False|False
+1-UCB|Trevor Darrell|False|False|False
+1-UCB|TsuJae King Liu|False|False|True
+1-UCB|Umesh Vazirani|False|False|True
+1-UCB|Venkat Anantharam|False|False|False
+1-UCB|Vern Paxson|False|False|False
+1-UCB|Vivek Subramanian|False|False|False
+1-UCB|Vladimir Stojanovic|False|False|True
+5-UIUC|Alex  Kirlik|False|False|False
+5-UIUC|Alexandra  Kolla|False|False|True
+5-UIUC|Andreas Kloeckner|False|False|False
+5-UIUC|Anna Yershova|False|False|False
+5-UIUC|Bertram  Ludaescher|False|False|False
+5-UIUC|Catherine Lesley Blake|False|False|False
+5-UIUC|Chandra Sekhar Chekuri|False|False|False
+5-UIUC|Chengxiang  Zhai|False|False|False
+5-UIUC|Cinda  Heeren|False|False|False
+5-UIUC|Craig  Zilles|False|False|True
+5-UIUC|Dan  Roth|True|False|False
+5-UIUC|Danny Dig|False|False|False
+5-UIUC|Darko  Marinov|False|False|False
+5-UIUC|David Alexander Forsyth|True|False|False
+5-UIUC|Deming  Chen|False|False|False
+5-UIUC|Eric Gene Shaffer|False|False|False
+5-UIUC|Grigore  Rosu|False|False|False
+5-UIUC|Gul Agha|False|False|False
+5-UIUC|Hari Sundaram|False|False|False
+5-UIUC|Indranil  Gupta|False|False|False
+5-UIUC|Jeff Erickson|False|False|False
+5-UIUC|Jerry DeJong II|False|False|False
+5-UIUC|Jian  Peng|False|False|False
+5-UIUC|Jiawei  Han|False|False|False
+5-UIUC|Jose  Meseguer|False|False|False
+5-UIUC|Josep  Torrellas|True|False|False
+5-UIUC|Julia Hockenmaier|False|False|True
+5-UIUC|Karthekeyan  Chandrasekaran|False|False|False
+5-UIUC|Kenton Guadron McHenry|False|False|False
+5-UIUC|Klara  Nahrstedt|True|False|True
+5-UIUC|Lane Oscar Bingaman Schwartz|False|False|False
+5-UIUC|Lawrence Christopher Angrave|False|False|False
+5-UIUC|Lui Sha|False|False|False
+5-UIUC|Luke  Olson|False|False|False
+5-UIUC|Madhusudan  Parthasarathy|False|False|False
+5-UIUC|Mahesh  Viswanathan|False|False|False
+5-UIUC|Mani  Golparvar Fard|False|False|False
+5-UIUC|Marc  Snir|False|False|True
+5-UIUC|Marco  Caccamo|False|False|False
+5-UIUC|Maria Jesus Garzaran|False|False|False
+5-UIUC|Marianne Winslett|False|False|False
+5-UIUC|Mark  Sammons|False|False|False
+5-UIUC|Mark Allan HasegawaJohnson|False|False|False
+5-UIUC|Martin  Hellwig|False|False|False
+5-UIUC|Martin D F Wong|False|False|False
+5-UIUC|Matthew Caesar|False|False|True
+5-UIUC|Mattox Beckman Jr|False|False|False
+5-UIUC|Michael Donald Bailey|False|False|False
+5-UIUC|Michael Joseph Woodley|False|False|False
+5-UIUC|Michael Twidale|False|False|False
+5-UIUC|Miles James Efron|False|False|False
+5-UIUC|Negar  Kiyavash|False|False|False
+5-UIUC|Nikita  Borisov|False|False|False
+5-UIUC|Olgica  Milenkovic|False|False|False
+5-UIUC|Oluwasanmi Oluseye Koyejo|False|False|False
+5-UIUC|Ouri  Wolfson|False|False|False
+5-UIUC|Paris  Smaragdis|False|True|False
+5-UIUC|Paul  Fischer|False|False|False
+5-UIUC|Ranjitha  Kumar|False|False|False
+5-UIUC|Reza  Farivar|False|False|False
+5-UIUC|Romit  Roy Choudhury|False|False|False
+5-UIUC|Ruta  Mehta|False|False|False
+5-UIUC|Ryan Matthew Cunningham|False|False|False
+5-UIUC|Sariel  HarPeled|False|False|False
+5-UIUC|Sasa  Misailovic|False|False|False
+5-UIUC|Saurabh  Sinha|False|False|False
+5-UIUC|Sayan  Mitra|False|False|False
+5-UIUC|Seth Hutchinson|False|False|False
+5-UIUC|Shaowen  Wang|False|False|False
+5-UIUC|Sheldon Howard Jacobson|False|False|False
+5-UIUC|Shobha  Vasudevan|False|False|False
+5-UIUC|Sibin  Mohan|False|False|False
+5-UIUC|Svetlana  Lazebnik|False|False|False
+5-UIUC|Tandy  Warnow|True|False|False
+5-UIUC|Tao  Xie|False|False|False
+5-UIUC|Victoria  Stodden|False|False|False
+5-UIUC|Vikram Adve|True|False|False
+5-UIUC|WaiTat  Fu|False|False|False
+5-UIUC|Weng Cho Chew|False|False|False
+5-UIUC|YihChun  Hu|False|False|False
+5-UIUC|Yizhou  Yu|False|False|False
+6-CU|Alon Keinan|False|False|True
+6-CU|Amy Williams|False|False|False
+6-CU|Andrew Myers|True|False|True
+6-CU|Anil Nerode|False|False|True
+6-CU|Anne Bracy|False|False|False
+6-CU|Bart Selman|False|False|True
+6-CU|Carla Gomes|False|False|False
+6-CU|Charles Van Loan|False|False|True
+6-CU|Christopher Batten|False|False|True
+6-CU|Claire Cardie|False|False|False
+6-CU|Cristian Danescu NiculescuMizil|False|False|False
+6-CU|Dan Cosley|False|False|False
+6-CU|David Albonesi|False|False|True
+6-CU|David Bindel|False|False|True
+6-CU|David Gries|False|False|False
+6-CU|David Mimno|False|False|False
+6-CU|Deborah Estrin|False|False|False
+6-CU|Dexter Kozen|False|False|False
+6-CU|Emin Gün Sirer|False|False|True
+6-CU|Erik Andersen|False|False|False
+6-CU|Eva Tardos|False|False|True
+6-CU|Francois Guimbretiere|False|False|False
+6-CU|Graeme Bailey|False|False|False
+6-CU|Greg Morrisett|False|False|True
+6-CU|Hadas KressGazit|False|False|True
+6-CU|Haiyuan Yu|False|False|True
+6-CU|Hakim Weatherspoon|False|False|True
+6-CU|Jon Kleinberg|False|False|True
+6-CU|Kavita Bala|False|False|True
+6-CU|Ken Birman|False|False|True
+6-CU|Kilian Weinberger|False|False|True
+6-CU|Lillian Lee|False|False|True
+6-CU|Michael Clarkson|False|False|False
+6-CU|Nate Foster|False|False|True
+6-CU|Noah Snavely|False|False|True
+6-CU|Phoebe Sengers|False|False|False
+6-CU|Rafael Pass|False|False|True
+6-CU|Rajit Manohar|False|False|True
+6-CU|Ramin Zabih|False|False|True
+6-CU|Robbert van Renesse|False|False|True
+6-CU|Robert Kleinberg|False|False|False
+6-CU|Ross Knepper|False|False|True
+6-CU|Ross Tate|False|False|True
+6-CU|Serge Belongie|False|False|False
+6-CU|Stephen Wicker|False|True|True
+6-CU|Steve Marschner|False|False|True
+6-CU|Tanzeem Choudhury|False|False|True
+6-CU|Thorsten Joachims|True|False|True
+6-CU|Tim Teitelbaum|False|False|False
+6-CU|Tom Ristenpart|False|False|True
+6-CU|Tsuhan Chen|False|True|False
+6-CU|Vitaly Shmatikov|False|False|False
+6-CU|Walker White|False|False|False
+6-CU|Yudong Chen|False|False|True
+6-CU|Zhiru Zhang|False|False|True
+6-UW|Adam Blank|False|False|False
+6-UW|Alan Borning|False|False|False
+6-UW|Alan Shaw|False|False|True
+6-UW|Ali Farhadi|False|False|True
+6-UW|Allison Obourn|False|False|False
+6-UW|Anna Karlin|False|False|False
+6-UW|Anup Rao|False|False|False
+6-UW|Arvind Krishnamurthy|False|False|False
+6-UW|Barbara Mones|False|False|False
+6-UW|Brian Curless|False|False|False
+6-UW|Bruce Hemingway|False|False|False
+6-UW|Carlos Guestrin|False|False|True
+6-UW|Dan Grossman|False|False|True
+6-UW|Dan Suciu|False|False|False
+6-UW|Dieter Fox|False|True|False
+6-UW|Ed Lazowska|False|False|True
+6-UW|Emanuel Todorov|False|False|True
+6-UW|Emina Torlak|False|False|False
+6-UW|Georg Seelig|False|False|False
+6-UW|Hal Perkins|False|False|False
+6-UW|Hank Levy|True|False|False
+6-UW|Hellmut Golde|True|True|True
+6-UW|Ira KemelmacherShlizerman|False|False|False
+6-UW|James Fogarty|False|False|False
+6-UW|James Lee|False|False|False
+6-UW|JeanLoup Baer|True|True|False
+6-UW|Jeffrey Heer|False|False|False
+6-UW|John Zahorjan|False|False|True
+6-UW|Katharina Reinecke|False|False|False
+6-UW|Larry Ruzzo|False|False|True
+6-UW|Larry Snyder|False|False|False
+6-UW|Linda Shapiro|False|False|False
+6-UW|Luis Ceze|False|False|True
+6-UW|Luke Zettlemoyer|False|False|False
+6-UW|Magdalena Balazinska|False|False|True
+6-UW|Mark Oskin|False|False|False
+6-UW|Martin Tompa|False|False|False
+6-UW|Matt Reynolds|False|True|True
+6-UW|Michael Ernst|False|False|True
+6-UW|Noah Smith|False|False|True
+6-UW|Oren Etzioni|False|False|False
+6-UW|Paul Beame|False|False|False
+6-UW|Pedro Domingos|False|False|True
+6-UW|Rajesh Rao|False|False|True
+6-UW|Rastislav Bodik|False|False|True
+6-UW|Richard Anderson|False|False|True
+6-UW|Sergey Levine|False|False|True
+6-UW|Sham Kakade|False|False|False
+6-UW|Shayan Oveis Gharan|False|False|True
+6-UW|Shwetak Patel|False|False|True
+6-UW|Shyam Gollakota|False|False|False
+6-UW|Steve Tanimoto|False|False|False
+6-UW|Steven Seitz|False|False|True
+6-UW|Stuart Reges|False|False|False
+6-UW|SuIn Lee|False|False|True
+6-UW|Susan Eggers|False|True|True
+6-UW|Tadayoshi Kohno|False|False|True
+6-UW|Ted Kehl|False|False|False
+6-UW|Thomas Rothvoss|False|False|False
+6-UW|Tom Anderson|True|True|True
+6-UW|Xi Wang|False|False|False
+6-UW|Yejin Choi|False|False|False
+6-UW|Zachary Tatlock|False|False|False
+6-UW|Zorah Fung|False|False|False
+6-UW|Zoran Popović|False|False|True
+70-CSU|Asa BenHur|False|False|True
+70-CSU|Bruce Draper|False|False|True
+70-CSU|Cathie Olschanowsky|False|False|False
+70-CSU|Chris Wilcox|False|False|True
+70-CSU|Christos Papadopoulos|False|False|True
+70-CSU|Hamid Reza Chitsaz|False|False|False
+70-CSU|Indrajit Ray|False|False|True
+70-CSU|Indrakshi Ray|False|False|True
+70-CSU|Jaime Ruiz|False|False|False
+70-CSU|Michael Kirby|False|False|False
+70-CSU|Sangmi Lee Pallickara|False|False|False
+70-CSU|Sanjay Rajopadhye|False|False|True
+70-CSU|Sudipto Ghosh|False|False|True
+70-CWM|Bhattacharya Amiya|False|False|False
+70-CWM|Davis Tim|False|False|False
+70-CWM|Deverick James|False|False|False
+70-CWM|Jiao Shuyin|False|False|False
+70-CWM|Jog Adwait|False|False|False
+70-CWM|Kearns Phil|False|False|False
+70-CWM|Kemper Peter|False|False|False
+70-CWM|Lewis Robert Michael|False|False|False
+70-CWM|Liu Xu|False|False|True
+70-CWM|Li Qun|False|False|False
+70-CWM|Mao Weizhen|False|False|False
+70-CWM|Meier Eric|False|False|False
+70-CWM|Mordijck Saskia|False|False|False
+70-CWM|Noonan Deborah|False|False|False
+70-CWM|Peers Pieter|False|False|False
+70-CWM|Poshyvanyk Denys|False|False|False
+70-CWM|Shen Xipeng|False|False|False
+70-CWM|Smirni Evgenia|False|False|False
+70-CWM|Stathopoulos Andreas|False|False|False
+70-CWM|Sun Kun|False|False|False
+70-CWM|Torczon Virginia|False|False|False
+70-CWM|Wang Haining|False|False|False
+70-CWM|Zhou Gang|False|False|False
+70-NPS|Bret Michael|False|False|False
+70-NPS|Chris Darken|False|False|False
+70-NPS|Cynthia Irvine|False|False|False
+70-NPS|Eric McMullen|False|False|True
+70-NPS|Geoffrey Xie|False|False|False
+70-NPS|George Dinolt|False|False|False
+70-NPS|Gurminder Singh|False|False|False
+70-NPS|Luqi|False|True|True
+70-NPS|ManTak Shing|False|False|False
+70-NPS|Neil Rowe|False|False|True
+70-NPS|Ted Huffmire|False|False|True
+70-NPS|Thuy Nguyen|False|False|False
+70-NPS|Valdis Berzins|False|False|False
+70-NYU|Alan  Siegel|False|False|False
+70-NYU|Allan Gottlieb|True|False|False
+70-NYU|Amos Bloomberg|False|False|True
+70-NYU|Anasse Bari|False|False|True
+70-NYU|Benjamin Goldberg|False|False|False
+70-NYU|Bhubaneswar Mishra|False|False|False
+70-NYU|Chee Yap|False|False|True
+70-NYU|Clark  Barrett|False|False|False
+70-NYU|Craig Kapp|False|False|True
+70-NYU|Daniele Panozzo|False|False|False
+70-NYU|Davi Geiger|False|False|False
+70-NYU|David Sontag|False|False|False
+70-NYU|Deena Engel|False|False|False
+70-NYU|Denis Zorin|False|False|True
+70-NYU|Dennis  Shasha|True|False|False
+70-NYU|Ernest Davis|False|False|True
+70-NYU|Evan Korth|False|False|False
+70-NYU|JeanClaude Franchitti|False|False|False
+70-NYU|Jinyang Li|False|False|False
+70-NYU|Joanna Klukowska|False|False|True
+70-NYU|Joel Spencer|False|False|False
+70-NYU|Joseph Versoza|False|False|False
+70-NYU|Joshua Clayton|False|False|False
+70-NYU|Kenneth Perlin|False|False|False
+70-NYU|Lakshminarayanan Subramanian|False|False|False
+70-NYU|Margaret Wright|False|False|False
+70-NYU|Marsha Berger|False|False|False
+70-NYU|Mehryar Mohri|False|False|False
+70-NYU|Michael Overton|False|False|False
+70-NYU|Nathan Hull|False|False|True
+70-NYU|Oded Regev|False|False|False
+70-NYU|Patrick  Cousot|False|False|True
+70-NYU|Ralph Grishman|False|False|False
+70-NYU|Richard  Cole|True|False|False
+70-NYU|Richard Bonneau|False|False|True
+70-NYU|Rob Fergus|False|False|False
+70-NYU|Sana Odeh|False|False|False
+70-NYU|Subhash Khot|False|False|False
+70-NYU|Theodore Rappaport|False|False|True
+70-NYU|Thomas Wies|False|False|False
+70-NYU|Victor  Shoup|False|False|False
+70-NYU|Yevgeniy Dodis|False|False|True
+70-NYU|Zvi Kedem|True|True|True
+70-TU|Alva Couch|False|False|False
+70-TU|Anselm Blumer|False|False|False
+70-TU|Benjamin Hescott|False|False|False
+70-TU|Bruce Molay|False|False|False
+70-TU|Chris Gregg|False|False|False
+70-TU|Fahad Dogar|False|False|False
+70-TU|Kathleen Fisher|True|False|False
+70-TU|Lenore Cowen|False|False|False
+70-TU|Mark Sheldon|False|False|False
+70-TU|Matthias Scheutz|False|False|True
+70-TU|Ming Chow|False|False|False
+70-TU|Noah Mendelsohn|False|False|False
+70-TU|Norman Ramsey|False|False|False
+70-TU|Remco Chang|False|False|False
+70-TU|Roni Khardon|False|False|False
+70-TU|Samuel Guyer|False|False|False
+70-TU|Soha Hassoun|False|False|True
+70-UNL|Anita Sarma|False|False|True
+70-UNL|Ashok Samal|False|False|False
+70-UNL|Berthe Choueiry|False|False|False
+70-UNL|Brittany Duncan|False|False|False
+70-UNL|Byrav Ramamurthy|False|False|True
+70-UNL|Carrick Detweiler|False|False|True
+70-UNL|Charles Riedesel|False|False|False
+70-UNL|Chris Bourke|False|False|False
+70-UNL|Gregg Rothermel|False|False|False
+70-UNL|Hong Jiang|False|True|True
+70-UNL|Hongfeng Yu|False|False|False
+70-UNL|Jitender Deogun|False|False|False
+70-UNL|Juan Cui|False|False|True
+70-UNL|Justin Bradley|False|False|False
+70-UNL|LeenKiat Soh|False|False|True
+70-UNL|Lisong Xu|False|False|True
+70-UNL|Massimiliano Pierobon|False|False|True
+70-UNL|Matthew Dwyer|False|False|False
+70-UNL|Mehmet Vuran|False|False|True
+70-UNL|Mohammad Hasan|False|False|False
+70-UNL|Myra Cohen|False|False|True
+70-UNL|Peter Revesz|False|False|True
+70-UNL|Qiben Yan|False|False|True
+70-UNL|Richard Sincovec|False|False|True
+70-UNL|Ryan Patrick|False|False|False
+70-UNL|Sebastian Elbaum|False|False|True
+70-UNL|Sharad Seth|False|False|False
+70-UNL|Sheng Wei|False|False|False
+70-UNL|Stephen Cooper|False|False|True
+70-UNL|Stephen Reichenbach|False|False|True
+70-UNL|Stephen Scott|False|False|False
+70-UNL|Steve Goddard|False|False|False
+70-UNL|Suzette Person|False|False|False
+70-UNL|Vinodchandran Variyam|False|False|False
+70-UNL|Witty Srisaan|False|False|True
+70-UNL|Ying Lu|False|False|True
+70-UTD|Bereg Sergey|False|False|True
+70-UTD|Borazjany Mehra|False|False|False
+70-UTD|Cankaya Ebru|False|False|False
+70-UTD|Chung Lawrence|False|False|True
+70-UTD|Cole John|False|False|False
+70-UTD|Cooper Kendra|False|False|True
+70-UTD|Daescu Ovidiu|False|False|True
+70-UTD|Davis Chris Irwin|False|False|False
+70-UTD|Desmedt Yvo|False|False|False
+70-UTD|Du DingZhu|False|False|False
+70-UTD|Farage Tim|False|False|False
+70-UTD|Farago Andras|False|False|False
+70-UTD|Fishwick Paul|False|False|False
+70-UTD|Gogate Vibhav|False|False|False
+70-UTD|Guo Xiaohu|False|False|True
+70-UTD|Gupta Gopal|False|False|True
+70-UTD|Haas Zygmunt|False|False|True
+70-UTD|Harabagiu Sanda|False|False|True
+70-UTD|Jue Jason|False|False|True
+70-UTD|Kantarcioglu Murat|False|False|True
+70-UTD|Karrah Shyam|False|False|False
+70-UTD|Khan Latifur|False|False|True
+70-UTD|Lin Zhiqiang|False|False|True
+70-UTD|Liu Cong|False|False|True
+70-UTD|Liu Yang|False|False|True
+70-UTD|Marcus Andrian|False|False|True
+70-UTD|McMahan Ryan|False|False|False
+70-UTD|Min Richard|False|False|False
+70-UTD|Mittal Neeraj|False|False|False
+70-UTD|Moldovan Dan|False|False|True
+70-UTD|Ng Vincent|False|False|True
+70-UTD|Nguyen Nhut|False|False|False
+70-UTD|Ntafos Simeon|False|False|True
+70-UTD|Ozbirn Greg|False|False|False
+70-UTD|Pervin William|False|False|True
+70-UTD|Prakash Ravi|False|False|False
+70-UTD|Raghavachari Balaji|False|False|True
+70-UTD|Raichel Benjamin|False|False|False
+70-UTD|Ruozzi Nicholas|False|False|False
+70-UTD|Sarac Kamil|False|False|True
+70-UTD|Schweitzer Haim|False|False|False
+70-UTD|Semper Bill|False|False|False
+70-UTD|Sudborough I Hal|False|False|False
+70-UTD|Thuraisingham Bhavani|False|False|False
+70-UTD|Truemper Klaus|False|False|False
+70-UTD|Veerasamy Jeyakesavan|False|False|False
+70-UTD|Wu Weili|False|False|False
+70-UTD|Yen ILing|False|False|False
+70-UTD|ZalilaWenkstern Rym|False|False|True
+70-UTD|Zhang Kang|False|False|False
+70-UTD|Zhang Lingming|False|False|True
+8-PU|Aarti Gupta|False|False|True
+8-PU|Adam Finkelstein|True|False|True
+8-PU|Alan Kaplan|False|False|False
+8-PU|Ananda Gunawardena|False|False|True
+8-PU|Andrea LaPaugh|False|False|True
+8-PU|Andrew Appel|True|False|False
+8-PU|Arvind Narayanan|False|False|False
+8-PU|Barbara Engelhardt|False|False|True
+8-PU|Bernard Chazelle|True|False|True
+8-PU|Brian Kernighan|False|False|False
+8-PU|Christiane Fellbaum|False|False|True
+8-PU|Christopher Moretti|False|False|False
+8-PU|Christos Papadopoulos|False|False|True
+8-PU|Daniel Leyzberg|False|False|True
+8-PU|David August|False|True|False
+8-PU|David Dobkin|True|False|False
+8-PU|David Walker|False|False|True
+8-PU|Donna Gabai|False|False|False
+8-PU|Edward Felten|True|False|False
+8-PU|Elad Hazan|False|False|False
+8-PU|Iasonas Petras|False|False|False
+8-PU|Jaswinder Singh|False|False|False
+8-PU|Jennifer Rexford|True|False|False
+8-PU|Jérémie Lumbroso|False|False|False
+8-PU|Jianxiong Xiao|False|False|False
+8-PU|Kai Li|True|True|False
+8-PU|Kevin Wayne|False|False|False
+8-PU|Kyle Jamieson|False|False|False
+8-PU|Larry Peterson|True|True|False
+8-PU|Maia Ginsburg|False|False|False
+8-PU|Margaret Martonosi|True|True|False
+8-PU|Mark Braverman|False|False|False
+8-PU|Michael Freedman|False|False|True
+8-PU|Mona Singh|False|False|False
+8-PU|Nick Feamster|False|False|True
+8-PU|Olga Troyanskaya|False|False|False
+8-PU|Robert Dondero|False|False|False
+8-PU|Robert Fish|False|False|False
+8-PU|Robert Sedgewick|True|False|False
+8-PU|Robert Tarjan|True|False|False
+8-PU|Sandra Batista|False|False|False
+8-PU|Sanjeev Arora|True|False|True
+8-PU|Sebastian Seung|False|False|False
+8-PU|Szymon Rusinkiewicz|False|False|False
+8-PU|Thomas Funkhouser|False|False|False
+8-PU|Xiaoyan Li|False|False|False
+8-PU|Zeev Dvir|False|False|True
+9-GIT| Annie Antón|False|False|False
+9-GIT|Ada Gavrilovska|False|False|False
+9-GIT|Agata Rozga|False|False|True
+9-GIT|Albert Badre|False|False|False
+9-GIT|Alessandro Orso|False|False|False
+9-GIT|Alex Endert|False|False|False
+9-GIT|Amy Bruckman|False|False|True
+9-GIT|Andrea Thomaz|False|False|False
+9-GIT|Anup Rao|False|False|False
+9-GIT|Anup Rao (空格冲突)|False|False|False
+9-GIT|Ashley Rose Edgar|False|False|False
+9-GIT|Ashok Goel|False|False|False
+9-GIT|Ashwin Ram|False|False|True
+9-GIT|Barbara Ericson|False|False|False
+9-GIT|Barry Drake|False|False|False
+9-GIT|Beki Grinter|False|False|False
+9-GIT|Benjamin Pritchard|False|False|False
+9-GIT|Betsy DiSalvo|False|False|True
+9-GIT|Bistra Dilkina|False|False|False
+9-GIT|Blair MacIntyre|False|False|False
+9-GIT|Brent Harrison|True|True|True
+9-GIT|Brian Magerko|False|False|False
+9-GIT|Bruce Walker|False|False|False
+9-GIT|Calton Pu|False|False|False
+9-GIT|Carrie Bruce|False|False|False
+9-GIT|Cedric Stallworth|False|False|False
+9-GIT|Charilaos Efthymiou|False|False|False
+9-GIT|Charles Eastman|False|False|False
+9-GIT|Charlie Kemp|False|False|False
+9-GIT|Chip Phillips|False|False|False
+9-GIT|Chris Peikert|False|False|False
+9-GIT|Christina Gardner|False|False|False
+9-GIT|Christopher Simpkins|False|False|False
+9-GIT|Colin Potts|False|False|False
+9-GIT|Concettina Guerra|False|False|False
+9-GIT|Constantine Dovrolis|False|False|True
+9-GIT|Dana Randall|False|False|False
+9-GIT|Daniel Forsyth|False|False|False
+9-GIT|Dave Lillethun|False|False|False
+9-GIT|David Dagon|False|False|False
+9-GIT|David Smith|False|False|False
+9-GIT|David White|False|False|False
+9-GIT|Deirdre Shoemaker|False|False|False
+9-GIT|Eberhard Voit|False|False|False
+9-GIT|Edmond Chow|False|False|True
+9-GIT|Edward Omiecinski|False|False|True
+9-GIT|Elijah Cameron|False|False|False
+9-GIT|Elizabeth Mynatt|False|False|True
+9-GIT|Ellen Do|False|False|False
+9-GIT|Ellen Zegura|False|False|False
+9-GIT|Eric Gilbert|False|False|False
+9-GIT|Eric Gold|False|False|False
+9-GIT|Eric Vigoda|False|False|False
+9-GIT|Frank Dellaert|False|False|False
+9-GIT|Fred Wright|False|False|False
+9-GIT|George Cox|False|False|False
+9-GIT|Greg Eisenhauer|False|False|True
+9-GIT|Greg Turk|False|False|True
+9-GIT|Gregory Abowd|True|True|True
+9-GIT|Guilherme Grillo Martins|False|False|False
+9-GIT|Guy Lebanon|False|False|True
+9-GIT|Hadi Esmaeilzadeh|False|False|False
+9-GIT|Haesun Park|False|False|False
+9-GIT|Harley Hamilton|False|False|False
+9-GIT|Hongyuan Zha|False|False|False
+9-GIT|Howard Schmidt|False|False|False
+9-GIT|HseinHsin Lee|False|False|False
+9-GIT|Hyesoon Kim|False|False|False
+9-GIT|Irfan Essa|False|False|True
+9-GIT|Jacob Eisenstein|False|False|False
+9-GIT|James Clawson|False|False|False
+9-GIT|James Foley|False|False|False
+9-GIT|James Haagans|False|False|False
+9-GIT|James Hays|False|False|False
+9-GIT|James Rehg|False|False|True
+9-GIT|James Tyson|False|False|False
+9-GIT|Jan Thomas Cederborg|False|False|False
+9-GIT|Janet Kolodner|False|False|False
+9-GIT|Jarek Rossignac|False|False|False
+9-GIT|Jason Riedy|False|False|False
+9-GIT|Jay Summet|False|False|False
+9-GIT|Jeffrey Vetter|False|False|True
+9-GIT|Jeffrey Young|False|False|False
+9-GIT|Jennifer Salazar|False|False|False
+9-GIT|Jennifer Whitlow|False|False|False
+9-GIT|Jillian Morn|False|False|False
+9-GIT|Jimeng Sun|False|False|False
+9-GIT|Jody Westby|False|False|False
+9-GIT|John Goda|False|False|False
+9-GIT|John Stasko|False|False|False
+9-GIT|Jun Xu|False|False|True
+9-GIT|Karen Liu|False|False|False
+9-GIT|Kaya De Barbaro|False|False|False
+9-GIT|Keith Edwards|False|False|True
+9-GIT|Keith McGreggor|False|False|False
+9-GIT|Ken Brown|False|False|False
+9-GIT|Kenneth Honea|False|False|False
+9-GIT|Kristin Marsicano|False|False|False
+9-GIT|Lance Fortnow|True|False|True
+9-GIT|Larry Sweet|False|False|False
+9-GIT|Le Song|False|False|False
+9-GIT|Leo Mark|False|False|False
+9-GIT|Ling Liu|False|False|True
+9-GIT|Maithilee Kunda|False|False|False
+9-GIT|Mani Subramanian|False|False|False
+9-GIT|Marilyn Wolf|False|False|False
+9-GIT|Mark Guzdial|False|False|True
+9-GIT|Mark Moss|False|False|False
+9-GIT|Mark Riedl|False|False|False
+9-GIT|Mary HudachekBuswell|False|False|False
+9-GIT|Matthew Wolf|False|False|False
+9-GIT|Mayur Naik|False|False|False
+9-GIT|Melinda McDaniel|False|False|False
+9-GIT|Melody Jackson|False|False|False
+9-GIT|Merrick Furst|False|False|False
+9-GIT|Michael Helms|False|False|False
+9-GIT|Michael Littman|False|False|False
+9-GIT|Milena Mihail|False|False|False
+9-GIT|Milos Prvulovic|False|False|False
+9-GIT|Min Changwoo|False|False|False
+9-GIT|Moin Qureshi|False|False|False
+9-GIT|Monica Sweat|False|False|False
+9-GIT|Mostafa Ammar|False|True|False
+9-GIT|Munmun DeChoudhury|False|False|False
+9-GIT|Mustaque Ahamad|False|False|False
+9-GIT|Nancy Nersessian|False|False|False
+9-GIT|Neha Kumar|False|False|False
+9-GIT|Nikhil Lalit Shah|False|False|False
+9-GIT|Oded Green|False|False|False
+9-GIT|Olufisayo Omojokun|False|False|False
+9-GIT|Pablo Laguna|False|False|False
+9-GIT|Pak Ho Chung|False|False|False
+9-GIT|Peter Freeman|True|False|True
+9-GIT|Peter Wan|False|False|False
+9-GIT|Philip Enslow|False|False|False
+9-GIT|Polo Chau|False|False|False
+9-GIT|Prasad Tetali|False|False|False
+9-GIT|Ramakrishan Kannan|False|False|False
+9-GIT|Rhonda Lowery|False|False|False
+9-GIT|Rich LeBlanc|False|False|False
+9-GIT|Richard Catrambone|False|False|False
+9-GIT|Richard DeMillo|False|False|True
+9-GIT|Richard Fujimoto|False|False|False
+9-GIT|Richard Henneman|False|False|False
+9-GIT|Richard Lipton|False|False|False
+9-GIT|Richard Peng|False|False|False
+9-GIT|Richard Vuduc|False|False|False
+9-GIT|Robert Kolodner|False|False|False
+9-GIT|Roberto Perdisci|False|False|False
+9-GIT|Ronald Arkin|False|False|False
+9-GIT|Rosa Arriaga|False|False|False
+9-GIT|Russell Clark|False|False|False
+9-GIT|Sangho Lee|False|False|False
+9-GIT|Santosh Pande|False|False|False
+9-GIT|Santosh Vempala|False|False|False
+9-GIT|Sean Brennan|False|False|False
+9-GIT|Sebastian Thrun|False|False|False
+9-GIT|Seymour Goodman|False|False|False
+9-GIT|Shamkant Navathe|False|False|False
+9-GIT|Sharma Thankachan|False|False|False
+9-GIT|SingBing Kang|False|False|False
+9-GIT|Sonia Chernova|False|False|False
+9-GIT|Spencer Rugaber|False|False|False
+9-GIT|Srinivas Aluru|False|False|True
+9-GIT|Stephen Cross|False|False|False
+9-GIT|Surya Kalidindi|False|False|False
+9-GIT|Swaroop Vattam|False|False|False
+9-GIT|Taesoo Kim|False|False|False
+9-GIT|Tai Cohen|False|False|False
+9-GIT|Thad Starner|False|False|False
+9-GIT|Thomas Conte|False|False|False
+9-GIT|Troy Peace|False|False|False
+9-GIT|Tushar Krishna|False|False|False
+9-GIT|Umakishore Ramachandran|False|False|True
+9-GIT|Vijay Vazirani|False|False|False
+9-GIT|Wenke Lee|False|False|True
+9-GIT|William Harris|False|False|False
+9-GIT|William Leahy|False|False|False
+9-GIT|Woonhak Kang|False|False|False
+9-GIT|Woosuk Lee|False|False|False
+9-GIT|Yongchao Liu|False|False|False
+9-GIT|Zvi Galil|False|False|False
+9-UTA|Adam Klivans|False|False|True
+9-UTA|Ahmed Gheith|False|False|True
+9-UTA|Al Mok|False|False|True
+9-UTA|Alan Cline|False|False|True
+9-UTA|Anna Gal|False|False|True
+9-UTA|Bill Press|False|False|True
+9-UTA|Brent Waters|False|False|True
+9-UTA|Bruce Porter|False|False|True
+9-UTA|Calvin Lin|False|False|True
+9-UTA|Chandrajit Bajaj|False|False|True
+9-UTA|Christopher Rossbach|False|False|True
+9-UTA|Devdatta  Kulkarni|False|False|True
+9-UTA|Don Batory|False|False|True
+9-UTA|Don Fussell|False|False|True
+9-UTA|Doug Burger|False|False|True
+9-UTA|Elaine Alice Rich|False|False|True
+9-UTA|Emmett Witchel|False|False|True
+9-UTA|Eric Price|False|False|True
+9-UTA|Etienne Vouga|False|False|True
+9-UTA|Fares Fraij|False|False|True
+9-UTA|Glenn Downing|False|False|True
+9-UTA|Greg Plaxton|False|False|True
+9-UTA|Inderjit Dhillon|True|True|True
+9-UTA|Isil Dillig|False|False|True
+9-UTA|J Strother Moore|True|False|True
+9-UTA|Jan Rellermeyer|False|False|True
+9-UTA|Jayadev Misra|False|False|True
+9-UTA|Keshav Pingali|False|False|True
+9-UTA|Kristen Grauman|False|False|True
+9-UTA|Lili Qiu|False|False|True
+9-UTA|Lorenzo Alvisi|True|False|True
+9-UTA|Margaret Myers|False|False|True
+9-UTA|Marijn Heule|False|False|True
+9-UTA|Matt Kaufmann|False|False|True
+9-UTA|Michael Dahlin|False|False|True
+9-UTA|Michael Walfish|False|False|True
+9-UTA|Paul Toprac|False|False|True
+9-UTA|Peter Stone|False|False|True
+9-UTA|Pradeep Ravikumar|False|False|True
+9-UTA|Raymond Mooney|False|False|True
+9-UTA|Risto Miikkulainen|False|False|True
+9-UTA|Robert van de Geijn|False|False|True
+9-UTA|Scott Niekum|False|False|True
+9-UTA|Shyamal Mitra|False|False|True
+9-UTA|Simon Peter|False|False|True
+9-UTA|Tandy Warnow|False|False|True
+9-UTA|Thomas Dillig|False|False|True
+9-UTA|Vijay Chidambaram|False|False|True
+9-UTA|Vijaya Ramachandran|False|False|True
+9-UTA|Vitaly Shmatikov|False|False|True
+9-UTA|Vladimir Lifschitz|False|False|True
+9-UTA|William Cook|False|False|True
+29-UMN|Abhishek Chandra|False|False|False
+29-UMN|Amy Larson|False|False|False
+29-UMN|Anand Tripathi|False|True|False
+29-UMN|Antonia Zhai|False|False|False
+29-UMN|Arindam Banerjee|False|False|True
+29-UMN|Brent Hecht |False|False|True
+29-UMN|Carl Sturtivant|False|False|False
+29-UMN|Dan Knights|False|False|False
+29-UMN|Daniel Boley|False|False|True
+29-UMN|David HungChang Du|False|True|True
+29-UMN|Eric Van Wyk|False|False|True
+29-UMN|Eugene Shragowitz|False|False|True
+29-UMN|Gary Meyer|False|False|True
+29-UMN|George Karypis|False|False|False
+29-UMN|Gopalan Nadathur|False|False|False
+29-UMN|Jon Weissman|False|False|True
+29-UMN|Joseph Konstan|True|True|False
+29-UMN|Kevin Wendt|False|False|False
+29-UMN|Loren Terveen|False|False|False
+29-UMN|Maria Gini|False|False|True
+29-UMN|Mats Heimdahl|False|False|True
+29-UMN|Nick Hopper|False|False|False
+29-UMN|Nikolaos Papanikolopoulos|False|True|True
+29-UMN|PenChung Yew|False|False|True
+29-UMN|Phillip Barry|False|False|False
+29-UMN|Rahul Narain|False|False|False
+29-UMN|Ravi Janardan|False|False|True
+29-UMN|Rui Kuang|False|False|True
+29-UMN|Shashi Shekhar|False|False|False
+29-UMN|Stephen Guy|False|False|True
+29-UMN|Stephen McCamant|False|False|True
+29-UMN|Stergios Roumeliotis|False|True|True
+29-UMN|Svetlana Yarosh|False|False|True
+29-UMN|Tian He|False|False|True
+29-UMN|Victoria Interrante|False|False|True
+29-UMN|Vipin Kumar|False|False|True
+29-UMN|Volkan Isler|False|False|False
+29-UMN|Yousef Saad|False|False|True
+29-UMN|ZhiLi Zhang|True|True|True
+29-UV|Aaron Bloomfield|False|False|True
+29-UV|abhi shelat|False|False|False
+29-UV|Andrew Grimshaw |False|False|False
+29-UV|David Evans|False|False|False
+29-UV|Gabriel Robins|False|False|True
+29-UV|Hongning Wang|False|False|True
+29-UV|James Cohoon|False|False|True
+29-UV|John Knight|False|False|False
+29-UV|John Pfaltz|False|False|True
+29-UV|John Stankovic|False|False|True
+29-UV|Kamin Whitehouse|False|False|True
+29-UV|Kevin Skadron|False|False|True
+29-UV|Luther Tychonievich|False|False|True
+29-UV|Mark Floryan|False|False|False
+29-UV|Mark Sherriff|False|False|True
+29-UV|Marty Humphrey|False|False|True
+29-UV|Mary Lou Soffa|True|True|True
+29-UV|Mohammad Mahmoody|False|False|False
+29-UV|Nada Basit|False|False|False
+29-UV|Paul Reynolds|False|False|True
+29-UV|Sang Son|False|True|True
+29-UV|Tom Horton|False|False|False
+29-UV|Westley Weimer|False|False|True
+29-UV|Worthy Martin|False|False|False
+29-UV|Yanjun Qi|False|False|True
+34-NU|Aleksandar Kuzmanovic|False|False|False
+34-NU|Alok Choudhary|False|False|False
+34-NU|Anindya De|False|False|False
+34-NU|Aravindan Vijayaraghavan|False|False|False
+34-NU|Brenna Argall|False|False|False
+34-NU|Bryan Pardo|False|False|False
+34-NU|Chris Riesbeck|False|False|False
+34-NU|Douglas Downey|False|False|False
+34-NU|Goce Trajcevski|False|False|False
+34-NU|Gokhan Memik|False|False|False
+34-NU|Hai Zhou|False|False|False
+34-NU|Haoqi Zhang|False|False|False
+34-NU|Ian Horswill|False|False|False
+34-NU|Jesse Tov|False|False|False
+34-NU|Ken Forbus|False|False|True
+34-NU|Larry Birnbaum|False|False|False
+34-NU|Larry Henschen|False|False|False
+34-NU|Michael Horn|False|False|False
+34-NU|Michael Rubenstein|False|False|False
+34-NU|MingYang Kao|False|False|False
+34-NU|Nikos Hardavellas|False|False|True
+34-NU|Peter Dinda|False|False|False
+34-NU|Peter Scheuermann|False|False|False
+34-NU|Randall Berry|False|False|False
+34-NU|Robby Findler|False|False|False
+34-NU|Russell Joseph|False|False|False
+34-NU|Sara Owsley Sood |False|False|False
+34-NU|Simone Campanoni|False|False|False
+34-NU|Uri Wilensky|False|False|False
+34-NU|Yan Chen|False|False|True
+34-OSU|Anish Arora|False|False|False
+34-OSU|Arnab Nandi|False|False|True
+34-OSU|Atanas (Nasko) Rountev|False|False|True
+34-OSU|Christopher Stewart|False|False|False
+34-OSU|Chunyi Peng|False|False|True
+34-OSU|Deliang Wang|False|True|True
+34-OSU|Dhabaleswar Panda|False|True|True
+34-OSU|Dong Xuan|False|False|True
+34-OSU|Eric FoslerLussier|False|False|True
+34-OSU|Feng Qin|False|False|True
+34-OSU|Gagan Agrawal|False|False|False
+34-OSU|HanWei Shen|False|False|False
+34-OSU|Huamin Wang|False|False|False
+34-OSU|James Davis|False|False|True
+34-OSU|Kannan Srinivasan|False|False|True
+34-OSU|Kenneth Supowit|False|False|False
+34-OSU|Luis Rademacher|False|False|True
+34-OSU|Michael Bond|False|False|True
+34-OSU|Mikhail Belkin|False|False|True
+34-OSU|MirceaRadu Teodorescu|False|False|True
+34-OSU|Neelam Soundarajan|False|False|False
+34-OSU|P Sadayappan|False|False|True
+34-OSU|Paul Sivilotti|False|False|False
+34-OSU|Prasun Sinha|False|False|True
+34-OSU|Raghu Machiraju|False|False|False
+34-OSU|Rephael Wenger|False|False|False
+34-OSU|Roger Crawfis|False|False|False
+34-OSU|Spyros Blanas|False|False|True
+34-OSU|Srinivasan Parthasarathy|False|False|True
+34-OSU|Tamal Dey|False|False|True
+34-OSU|TenHwang Lai|False|False|False
+34-OSU|Xiaodong Zhang|True|False|True
+34-OSU|Yang Wang|False|False|False
+34-OSU|Yinqian Zhang|False|False|False
+34-OSU|Yusu Wang|False|False|True
+34-RU| Swastik Kopparty|False|False|False
+34-RU|Abhishek Bhattacharjee|False|False|False
+34-RU|Ahmed Elgammal|False|False|True
+34-RU|Alex Borgida|False|False|False
+34-RU|Alexander Schliep|False|False|False
+34-RU|Amelie Marian|False|False|True
+34-RU|Ana Paula Centeno|False|False|False
+34-RU|Antonio Miranda Garcia|False|False|False
+34-RU|Apostolos Gerasoulis|False|False|True
+34-RU|Badri Nath|False|False|True
+34-RU|Bahman Kalantari|False|False|False
+34-RU|Casimir Kulikowski|True|False|False
+34-RU|David Cash|False|False|True
+34-RU|Dimitris Metaxas|False|True|True
+34-RU|Eric Allender|False|False|False
+34-RU|Frances Trees|False|False|False
+34-RU|Gerard Richter|False|False|False
+34-RU|James Abello Monedero|False|False|False
+34-RU|Jingjin Yu|False|False|True
+34-RU|JohnAusten Francisco|False|False|False
+34-RU|Konstantinos Michmizos|False|False|False
+34-RU|Liviu Iftode|False|False|False
+34-RU|Louis Steinberg|False|False|False
+34-RU|Manish Parashar|False|False|False
+34-RU|Mario Szegedy|False|False|False
+34-RU|Martin FarachColton|False|False|False
+34-RU|Matthew Stone|False|False|True
+34-RU|Mubbasir Kapadia|False|False|False
+34-RU|Naftaly Minsky|False|False|False
+34-RU|Ping Li|False|False|False
+34-RU|Pranjal Awasthi|False|False|True
+34-RU|Rebecca Wright|False|False|True
+34-RU|Richard Martin|False|False|True
+34-RU|Santosh Nagarakatte|False|False|True
+34-RU|Seshadri Venugopal|False|False|False
+34-RU|Shan Muthukrishnan|False|False|True
+34-RU|Shubhangi Saraf|False|False|False
+34-RU|Thu Nguyen|False|False|True
+34-RU|Tomasz Imielinski|False|False|False
+34-RU|Ulrich Kremer|False|False|True
+34-RU|Vinod Ganapathy|False|False|False
+34-RU|Vladimir Pavlovic|False|False|True
+34-RU|William Steiger|False|False|False
+34-RU|Zheng Zhang|False|False|True
+34-UCD|Bernd Hamann|False|False|False
+34-UCD|Biswanath Mukherjee|False|False|False
+34-UCD|Cindy Rubio Gonzalez|False|False|False
+34-UCD|Dan Gusfield|False|False|False
+34-UCD|Dipak Ghosal|False|False|False
+34-UCD|Francois Gygi|False|False|False
+34-UCD|Hao Chen|False|False|False
+34-UCD|Ian Davidson|False|False|False
+34-UCD|Ilias Tagkopoulos|False|False|False
+34-UCD|KwanLiu Ma|False|False|True
+34-UCD|Matthew Franklin|False|False|False
+34-UCD|Michael Neff|False|False|False
+34-UCD|Nelson Max|False|False|False
+34-UCD|Nina Amenta|False|False|False
+34-UCD|Patrice Koehl|False|False|True
+34-UCD|Prasant Mohapatra|False|False|False
+34-UCD|Raissa D’Souza|False|False|False
+34-UCD|Vladimir Filkov|False|False|False
+34-UCD|Xin Liu|False|False|False
+34-UCD|Zhaojun Bai|False|False|False
+34-UCD|Zhendong Su|False|False|True
+34-UCH|Aaron  Elmore|False|False|False
+34-UCH|Alexander A Razborov|False|False|False
+34-UCH|Andrew   Drucker|False|False|True
+34-UCH|Anne Rogers|False|False|False
+34-UCH|Ariel Feldman|False|False|False
+34-UCH|David McAllester|False|False|False
+34-UCH|Frederic  Chong|False|False|True
+34-UCH|Gordon Kindlmann|False|False|True
+34-UCH|Gregory Shakhnarovich|False|False|False
+34-UCH|Haryadi Gunawi|False|False|True
+34-UCH|Henry Hoffmann|False|False|False
+34-UCH|Ian Foster|False|False|True
+34-UCH|Janos Simon|False|False|False
+34-UCH|John Goldsmith|False|False|False
+34-UCH|John H Reppy|False|False|False
+34-UCH|Julia Chuzhoy|False|False|True
+34-UCH|Karen Livescu|False|False|True
+34-UCH|Ketan Mulmuley|False|False|False
+34-UCH|László Babai|False|False|True
+34-UCH|Madhur Tulsiani|False|False|True
+34-UCH|Nathan Srebro|False|False|True
+34-UCH|Ravi Chugh|False|False|False
+34-UCH|Risi Kondor|False|False|True
+34-UCH|Shan Lu|False|False|False
+34-UCH|Stuart Kurtz|False|False|False
+34-UCH|Todd Dupont|False|False|False
+34-UCH|Yali Amit|False|False|False
+34-UCH|Yanjing Li|False|False|False
+34-UCH|Yury Makarychev|False|False|True
+34-UCSB|Amr  El Abbadi|False|False|True
+34-UCSB|Ben Hardekopf|False|False|False
+34-UCSB|Chandra Krintz|False|False|True
+34-UCSB|Christopher Kruegel|False|False|False
+34-UCSB|Çetin Kaya Koç|False|True|False
+34-UCSB|Diana Franklin (on leave)|False|False|False
+34-UCSB|Divyakant Agrawal|True|True|True
+34-UCSB|Fred Chong (on leave)|False|False|True
+34-UCSB|Giovanni Vigna|False|False|False
+34-UCSB|Heather  Zheng|False|True|True
+34-UCSB|Huijia (Rachel) Lin|False|False|False
+34-UCSB|Jianwen Su|False|False|False
+34-UCSB|John Gilbert|False|False|False
+34-UCSB|Linda Petzold|False|False|False
+34-UCSB|Matthew Turk|False|True|True
+34-UCSB|Ömer  Eğecioğlu|False|False|True
+34-UCSB|Peter Cappello|False|False|True
+34-UCSB|Phillip Conrad|False|False|False
+34-UCSB|Stefano Tessaro|False|False|False
+34-UCSB|Subhash Suri|True|False|True
+34-UCSB|Tao Yang|False|False|True
+34-UCSB|Tevfik Bultan|False|False|False
+34-UCSB|Theodore Kim|False|False|True
+34-UCSB|Timothy Sherwood|False|False|True
+34-UCSB|Tobias Höllerer|False|False|True
+34-UCSB|Wim van Dam|False|False|True
+34-UCSB|Xifeng Yan|False|False|True
+34-UCSB|YuanFang Wang|False|False|True
+34-UCSB|~aydin|False|False|False
+40-DC|Amit Chakrabarti|False|False|False
+40-DC|Andrew Gettinger|False|False|True
+40-DC|Andrew Thomas Campbell|False|False|False
+40-DC|Anna Shubina|False|False|False
+40-DC|Bill McKeeman|False|False|False
+40-DC|Chris BaileyKellogg|False|False|True
+40-DC|Christos Mousas|False|False|False
+40-DC|Daniel Rockmore|False|False|True
+40-DC|David Jewell|False|False|False
+40-DC|David Kotz|False|True|False
+40-DC|Deeptak Verma|False|False|False
+40-DC|Douglas McIlroy|False|False|False
+40-DC|Emily Whiting|False|False|False
+40-DC|Gevorg Grigoryan|False|False|False
+40-DC|Gurprit Singh|False|False|False
+40-DC|Hany Farid|False|False|False
+40-DC|James Mahoney|False|False|False
+40-DC|Joseph Elsener|False|False|False
+40-DC|Lorenzo Torresani|False|False|False
+40-DC|Lorie Loeb|False|False|False
+40-DC|Michael Cohen|False|False|False
+40-DC|Olga Zhaxybayeva|False|False|True
+40-DC|Peter Winkler|False|False|True
+40-DC|Prasad Jayanti|False|False|True
+40-DC|Qiang Liu|False|False|False
+40-DC|Robert Lewis (Scot) Drysdale III|False|False|False
+40-DC|Ron Peterson|False|False|False
+40-DC|Ryan Halter|False|False|False
+40-DC|Saeed Hassanpour|False|False|False
+40-DC|Sandy Hall|False|False|False
+40-DC|Sergey Bratus|False|False|False
+40-DC|Tim Tregubov|False|False|False
+40-DC|Wayne Cripps|False|False|False
+40-DC|Wojciech Jarosz|False|False|False
+40-DC|Xia Zhou|False|False|False
+40-DC|XingDong Yang|False|False|False
+40-DC|Yoonjoo Choi|False|False|False
+40-SBU|Ahmad Esmaili|False|False|False
+40-SBU|Alexander Spirov|False|False|False
+40-SBU|Allen Tannenbaum|False|False|True
+40-SBU|Anita Wasilewska|False|False|False
+40-SBU|Anshul Gandhi|False|False|False
+40-SBU|Arie Kaufman|True|True|False
+40-SBU|Arthur Bernstein|False|False|False
+40-SBU|Aruna Balasubramanian|False|False|False
+40-SBU|Barbara Chapman|False|False|False
+40-SBU|Bong Jun Choi|False|False|False
+40-SBU|Chuan Huang|False|False|False
+40-SBU|David Ferguson|False|False|False
+40-SBU|David Smith|False|False|False
+40-SBU|David Warren|False|False|True
+40-SBU|Dimitris Samaras|False|False|True
+40-SBU|Donald Porter|False|False|True
+40-SBU|Erez Zadok|False|False|True
+40-SBU|Esther Arkin|False|False|False
+40-SBU|Eugene Stark|False|False|False
+40-SBU|Fusheng Wang|False|False|True
+40-SBU|Gregory Zelinsky|False|False|False
+40-SBU|Haeng Woo Lee|False|False|False
+40-SBU|Herbert Gelernter|False|False|False
+40-SBU|Himanshu Gupta|False|False|False
+40-SBU|Hong Qin|False|False|True
+40-SBU|Hussein Badr|False|False|False
+40-SBU|HyeonCheol Shin|False|False|False
+40-SBU|Ilchul Yoon|False|False|False
+40-SBU|Jack Heller|False|False|False
+40-SBU|Jennifer WongMa|False|False|False
+40-SBU|Jie Gao|False|False|True
+40-SBU|Jing Chen|False|False|True
+40-SBU|Joel Saltz|False|False|True
+40-SBU|KerI Ko|False|False|False
+40-SBU|Kevin McDonnell|False|False|False
+40-SBU|Klaus Mueller|False|False|True
+40-SBU|Larry Wittie|False|False|False
+40-SBU|Leman Akoglu|False|False|False
+40-SBU|Leo Bachmair|False|False|False
+40-SBU|Long Lu|False|False|False
+40-SBU|Lori Scarlatos|False|False|True
+40-SBU|Margaret Schedel|False|False|False
+40-SBU|Masoud Rouhizadeh|False|False|False
+40-SBU|Michael Bender|False|False|False
+40-SBU|Michael Ferdman|False|False|False
+40-SBU|Michael Kifer|False|False|False
+40-SBU|Michael Schatz|False|False|False
+40-SBU|Michael Tashbook|False|False|False
+40-SBU|Michalis Polychronakis|False|False|False
+40-SBU|Minh Hoai Nguyen|False|False|False
+40-SBU|Nick Nikiforakis|False|False|False
+40-SBU|Nima Honarmand|False|False|False
+40-SBU|Niranjan Balasubramanian|False|False|False
+40-SBU|Paul Fodor|False|False|False
+40-SBU|Philip Lewis|False|False|False
+40-SBU|Phillipa Gill|False|False|False
+40-SBU|Pradipta De|False|False|False
+40-SBU|Radu Grosu|False|False|True
+40-SBU|Radu Sion|False|False|False
+40-SBU|Rezaul Chowdhury|False|False|True
+40-SBU|Richard McKenna|False|False|False
+40-SBU|Ritwik Banerjee|False|False|False
+40-SBU|Rob Johnson|False|False|False
+40-SBU|Robert Patro|False|False|False
+40-SBU|Rong Zhao|False|False|False
+40-SBU|Roy Shilkrot|False|False|False
+40-SBU|Sael Lee (Lee Sael)|False|False|False
+40-SBU|Sangjin Hong|False|False|False
+40-SBU|Scott Smolka|False|False|False
+40-SBU|Scott Stoller|False|False|False
+40-SBU|Steven Skiena|False|False|False
+40-SBU|Susan Brennan|False|False|True
+40-SBU|Tamara Berg|False|False|False
+40-SBU|Theo Pavlidis|False|False|False
+40-SBU|Tony Scarlatos|False|False|False
+40-SBU|Tuncay Tekle|False|False|True
+40-SBU|Tzicker Chiueh|False|False|False
+40-SBU|Vyas Sekar|False|False|False
+40-SBU|Wei Xu|False|False|False
+40-SBU|Wei Zhu|False|False|False
+40-SBU|Xianfeng Gu|False|False|True
+40-SBU|Xiangmin Jiao|False|False|False
+40-SBU|Xiaojun Bi|False|False|False
+40-SBU|Xin Wang|False|False|True
+40-SBU|Yanni Ellen Liu|False|False|False
+40-SBU|Yejin Choi|False|False|False
+40-SBU|Yevgen Borodin|False|False|False
+40-SBU|Yi Gao|False|False|False
+40-SBU|Yuanyuan Yang|False|False|False
+40-SBU|Zhenhua Liu|False|False|False
+40-TAMU| Andreas Klappenecker|False|False|True
+40-TAMU|Aakash Tyagi |False|False|True
+40-TAMU|Andruid Kerne|False|False|True
+40-TAMU|Anxiao (Andrew) Jiang|False|False|True
+40-TAMU|Bruce Gooch|False|False|True
+40-TAMU|Daniel Ragsdale|False|False|True
+40-TAMU|Dezhen Song|False|False|True
+40-TAMU|Dilma Da Silva|False|False|True
+40-TAMU|Dmitri Loguinov|False|False|True
+40-TAMU|Dylan Shell|False|False|True
+40-TAMU|Eun Jung Kim|False|False|True
+40-TAMU|Guofei Gu|False|False|True
+40-TAMU|Hyunyoung Lee|False|False|True
+40-TAMU|Jaakko Jarvi|False|False|True
+40-TAMU|James Caverlee|False|False|True
+40-TAMU|Jeff Huang|False|False|True
+40-TAMU|Jennifer Welch|False|False|True
+40-TAMU|Jianer Chen|False|False|True
+40-TAMU|Jinxiang Chai|False|False|True
+40-TAMU|John Keyser|False|False|True
+40-TAMU|JyhCharn (Steve) Liu|False|False|True
+40-TAMU|Lawrence Rauchwerger|False|False|True
+40-TAMU|Philip Ritchey|False|False|True
+40-TAMU|Radu Stoleru|False|False|True
+40-TAMU|Ricardo GutierrezOsuna|False|False|True
+40-TAMU|Riccardo Bettati|False|False|True
+40-TAMU|Richard Furuta|False|False|True
+40-TAMU|Robin Murphy|False|True|True
+40-TAMU|Ronnie Ward|False|False|True
+40-TAMU|Roozbeh Jafari|False|False|True
+40-TAMU|Ruihong Huang|False|False|True
+40-TAMU|Scott Schaefer|False|False|True
+40-TAMU|SingHoi Sze|False|False|True
+40-TAMU|Teresa Leyk|False|False|True
+40-TAMU|Tim Davis|False|False|True
+40-TAMU|Tracy Anne Hammond|False|False|True
+40-TAMU|Vivek Sarin|False|False|True
+40-TAMU|Walter Daugherity|False|False|True
+40-TAMU|Xia (Ben) Hu|False|False|True
+40-TAMU|Yoonsuck Choe|False|False|True
+40-UA|Alon Efrat|False|False|True
+40-UA|Beichuan Zhang|False|False|True
+40-UA|Carlos Scheidegger|False|False|True
+40-UA|Chris Gniady|False|False|False
+40-UA|Christian Collberg|False|False|False
+40-UA|David Lowenthal|False|False|False
+40-UA|John Kececioglu|False|False|False
+40-UA|Kate Isaacs|False|False|False
+40-UA|Kobus Barnard|False|False|True
+40-UA|Larry Peterson|False|False|False
+40-UA|Michelle Strout|False|False|True
+40-UA|Patrick Homer|False|False|False
+40-UA|Ravi Sethi|True|False|True
+40-UA|Rick Mercer|False|False|False
+40-UA|Russell Lewis|False|False|True
+40-UA|Saumya Debray|False|False|True
+40-UA|Stephen Kobourov|False|False|True
+40-UA|Todd Proebsting|False|False|False
+40-UCOB|<div class=fielditem|False|False|False
+40-UCOB|Aaron Clauset|False|False|False
+40-UCOB|Alexander Repenning|False|False|False
+40-UCOB|Ben Shapiro|False|False|False
+40-UCOB|Bor‐Yuh Evan Chang|False|False|True
+40-UCOB|Clayton Lewis|False|False|False
+40-UCOB|Daniel Szafir|False|False|False
+40-UCOB|Dirk Grunwald|False|False|False
+40-UCOB|Douglas Sicker|False|False|False
+40-UCOB|Elizabeth Boese|False|False|False
+40-UCOB|Elizabeth Bradley|False|False|True
+40-UCOB|Elizabeth Jessup|False|False|False
+40-UCOB|Frank Miller|False|False|False
+40-UCOB|Gabe Sibley|False|False|False
+40-UCOB|Henry Tufo|False|False|False
+40-UCOB|Ioana Fleming|False|False|False
+40-UCOB|Jed Brown|False|False|False
+40-UCOB|John Bennett|False|False|False
+40-UCOB|John Black|False|False|False
+40-UCOB|Jordan BoydGraber|False|False|False
+40-UCOB|Judy Stafford|False|False|False
+40-UCOB|Kenneth Anderson|False|False|True
+40-UCOB|Leysia Palen|False|False|False
+40-UCOB|Lijun Chen|False|False|False
+40-UCOB|Martha Palmer|False|False|False
+40-UCOB|Matthew Hammer|False|False|False
+40-UCOB|Michael Eisenberg|False|False|False
+40-UCOB|Michael Mozer|False|False|False
+40-UCOB|Nikolaus Correll|False|False|True
+40-UCOB|Qin Lv|False|False|False
+40-UCOB|Rhonda  Hoenigman |False|False|False
+40-UCOB|Richard Han|False|False|True
+40-UCOB|Sangtae Ha|False|False|False
+40-UCOB|Shaun Kane|False|False|False
+40-UCOB|Shivakant Mishra|False|False|False
+40-UCOB|Sriram Sankaranarayanan|False|False|True
+40-UCOB|Tamara Sumner|False|False|False
+40-UCOB|Tom Yeh|False|False|True
+40-UCOB|Wayne Ward|False|False|False
+40-UCOB|XiaoChuan Cai|False|False|False
+40-UTA|Aditya Bhaskara|False|False|True
+40-UTA|Alexander Lex|False|True|True
+40-UTA|Anton Burtsev|False|False|False
+40-UTA|Bob Kessler|False|False|False
+40-UTA|Chris Myers|False|False|False
+40-UTA|Christopher Johnson|False|True|True
+40-UTA|Chuck Hansen|False|False|False
+40-UTA|Craig Caldwell|False|False|True
+40-UTA|David Johnson|False|False|True
+40-UTA|Elaine Cohen|False|False|False
+40-UTA|Ellen Riloff|False|False|False
+40-UTA|Eric Eide|False|False|True
+40-UTA|Erik Brunvand|False|False|False
+40-UTA|Erin Parker|False|False|False
+40-UTA|Feifei Li|False|False|True
+40-UTA|Ganesh Gopalakrishnan|False|False|False
+40-UTA|Gregory Clark|False|False|False
+40-UTA|Hari Sundar|False|False|True
+40-UTA|Jake Abbott|False|False|True
+40-UTA|James Sutherland|False|False|True
+40-UTA|Jeanine Stefanucci|False|False|True
+40-UTA|Jeff Phillips|False|False|True
+40-UTA|Jeff Weiss|False|True|True
+40-UTA|Joe Zachary|False|False|True
+40-UTA|John Hollerbach|False|True|True
+40-UTA|John Regehr|False|False|True
+40-UTA|Kenneth Stevens|False|False|True
+40-UTA|Kobus Van der Merwe|False|False|False
+40-UTA|Ladislav Kavan|False|False|True
+40-UTA|Mark Van Langeveld|False|False|False
+40-UTA|Mary Hall|False|False|True
+40-UTA|Matthew Flatt|False|False|False
+40-UTA|Mike Kirby|False|False|True
+40-UTA|Miriah Meyer|False|False|True
+40-UTA|Neal Patwari|False|False|True
+40-UTA|Rajeev Balasubramonian|False|False|True
+40-UTA|Richard Brown|False|False|True
+40-UTA|Robert Ricci|False|False|False
+40-UTA|Roger Altizer|False|False|True
+40-UTA|Ross Whitaker|False|True|True
+40-UTA|Ryan Stutsman|False|False|True
+40-UTA|Sarah CreemRegehr|False|False|True
+40-UTA|Sneha Kasera|False|False|False
+40-UTA|Steve Corbato|False|False|True
+40-UTA|Suresh Venkatasubramanian|False|False|False
+40-UTA|Tamara Denning|False|False|True
+40-UTA|Thomas Fletcher|False|False|False
+40-UTA|Tolga Tasdizen|False|False|True
+40-UTA|Tom Henderson|False|False|False
+40-UTA|Tucker Hermans|False|False|True
+40-UTA|William Thompson|False|False|True
+40-VT|Ali R Butt|False|False|True
+40-VT|Dwight  Barnette|False|False|False
+40-VT|Godmar  Back|False|False|False
+40-VT|IngRay  Chen|False|False|True
+40-VT|Osman   Balci  |False|False|True
+40-VT|Yang  Cao|False|False|False
+40-WUSTL|Aaron Bobick|False|False|False
+40-WUSTL|Benjamin Moseley|False|False|False
+40-WUSTL|Brendan Juba|False|False|False
+40-WUSTL|Caitlin Kelleher|False|False|False
+40-WUSTL|Chenyang Lu|False|False|False
+40-WUSTL|Christopher Gill|False|False|False
+40-WUSTL|Doug Shook|False|False|False
+40-WUSTL|Gary Stormo|False|False|True
+40-WUSTL|ITing Angelina Lee|False|False|False
+40-WUSTL|James Buckley|False|False|False
+40-WUSTL|Jeremy Buhler|False|False|True
+40-WUSTL|Kunal Agrawal|False|False|True
+40-WUSTL|Marion Neumann|False|False|False
+40-WUSTL|Mark Franklin|False|True|False
+40-WUSTL|Michael Brent|False|False|False
+40-WUSTL|Patrick Crowley|False|False|False
+40-WUSTL|Raj Jain|True|True|False
+40-WUSTL|Robert Pless|False|False|False
+40-WUSTL|Roch Guérin|True|True|False
+40-WUSTL|Roger Chamberlain|False|False|False
+40-WUSTL|Roman Garnett|False|False|False
+40-WUSTL|Ron Cytron|False|False|True
+40-WUSTL|Ruth Miller|False|False|True
+40-WUSTL|S Joshua Swamidass|False|False|True
+40-WUSTL|Sanmay Das|False|False|True
+40-WUSTL|Shantanu Chakrabartty|False|False|True
+40-WUSTL|Sharlee Climer|False|False|False
+40-WUSTL|Tao Ju|False|False|True
+40-WUSTL|Ting Wang|False|False|True
+40-WUSTL|Todd Sproull|False|False|False
+40-WUSTL|Viktor Gruev|False|False|True
+40-WUSTL|Weixiong Zhang|False|False|False
+40-WUSTL|William Richard|False|False|False
+40-WUSTL|Xuan (Silvia) Zhang|False|False|False
+40-WUSTL|Yasutaka Furukawa|False|False|True
+40-WUSTL|Yixin Chen|False|False|True
+48-ASU|Acuna Ruben|False|False|False
+48-ASU|Ahn GailJoon|False|False|True
+48-ASU|Amresh Ashish|False|False|False
+48-ASU|AndersonRowland Mary|False|False|True
+48-ASU|Askin Ronald|False|False|True
+48-ASU|Atkinson Robert|False|False|False
+48-ASU|Balasooriya Janaka|False|False|False
+48-ASU|Bansal Ajay|False|False|False
+48-ASU|Bansal Srividya|False|False|False
+48-ASU|Baral Chitta|False|False|True
+48-ASU|Bazzi Rida|False|False|True
+48-ASU|Ben Amor Heni|False|False|False
+48-ASU|Burger Kevin|False|False|False
+48-ASU|Calliss Debra|False|False|False
+48-ASU|Chattin Linda|False|False|False
+48-ASU|Chen Yinong|False|False|False
+48-ASU|Colbourn Charles|False|False|False
+48-ASU|Collofello James|False|False|False
+48-ASU|Dasgupta Partha|False|False|True
+48-ASU|Davulcu Hasan|False|False|True
+48-ASU|Doupé Adam|False|False|False
+48-ASU|Fainekos Georgios|False|False|False
+48-ASU|Farin Gerald|False|False|True
+48-ASU|Femiani John|False|False|False
+48-ASU|Feng Xuerong|False|False|False
+48-ASU|Gaffar Ashraf|False|False|True
+48-ASU|Gary Kevin|False|False|False
+48-ASU|Gel Esma|False|False|False
+48-ASU|Ghazarian Arbi|False|False|False
+48-ASU|Grover Kanika|False|False|False
+48-ASU|Gupta Sandeep|False|False|False
+48-ASU|He Jingrui|False|False|False
+48-ASU|Hsiao Sharon|False|False|False
+48-ASU|Huang Dijiang|False|False|False
+48-ASU|Ju Feng|False|False|False
+48-ASU|Kambhampati Subbarao|False|False|True
+48-ASU|Kobayashi Yoshihiro|False|False|False
+48-ASU|Lee Joohyung|False|False|False
+48-ASU|Lee YannHang|False|False|False
+48-ASU|Li Baoxin|False|False|True
+48-ASU|Li Jing|False|False|False
+48-ASU|Lindquist Tim|False|False|False
+48-ASU|Liu Huan|False|False|False
+48-ASU|Maciejewski Ross|False|False|False
+48-ASU|Meuth Ryan|False|False|False
+48-ASU|Miller Phill|False|False|False
+48-ASU|Mirchandani Pitu|False|False|False
+48-ASU|Montgomery Douglas|False|False|False
+48-ASU|Nakamura Mutsumi|False|False|False
+48-ASU|Nelson Brian|False|False|True
+48-ASU|Pan Rong|False|False|False
+48-ASU|Panchanathan Sethuraman|False|True|False
+48-ASU|Pavlic Ted|False|False|False
+48-ASU|Razdan Anshuman|False|False|True
+48-ASU|Ren Fengbo|False|False|False
+48-ASU|Richa Andrea|False|False|True
+48-ASU|Runger George|False|False|False
+48-ASU|Sarjoughian Hessam|False|False|True
+48-ASU|Sarwat Mohamed|False|False|False
+48-ASU|Sefair Jorge|False|False|True
+48-ASU|Selgrad Justin|False|False|False
+48-ASU|Sen Arunabha|False|False|False
+48-ASU|Shakarian Paulo|False|False|False
+48-ASU|Shrivastava Aviral|False|False|True
+48-ASU|Shunk Dan|False|False|False
+48-ASU|Sohoni Sohum|False|False|True
+48-ASU|Syrotiuk Violet|False|False|True
+48-ASU|TadayonNavabi Farideh|False|False|False
+48-ASU|Tong Hanghang|False|False|False
+48-ASU|VanLehn Kurt|False|False|False
+48-ASU|Vrudhula Sarma|False|False|True
+48-ASU|Walker Erin|False|False|True
+48-ASU|Wang Yalin|False|False|False
+48-ASU|Whitehouse Richard|False|False|False
+48-ASU|Wonka Peter|False|False|True
+48-ASU|Wu CaroleJean|False|False|False
+48-ASU|Wu Teresa|False|False|False
+48-ASU|Xue Guoliang|False|True|True
+48-ASU|Yau SikSang (Stephen)|False|True|True
+48-ASU|Ye Nong|False|False|False
+48-ASU|Zhao Ming|False|False|True
+48-BU|Aaron Stevens|False|False|True
+48-BU|Abraham Matta|False|False|True
+48-BU|Ari Trachtenberg|False|True|True
+48-BU|Assaf Kfoury|False|False|False
+48-BU|Azer Bestavros|False|False|True
+48-BU|David Starobinski|False|True|True
+48-BU|David Sullivan|False|False|True
+48-BU|Evimaria Terzi|False|False|True
+48-BU|Gary Benson|False|False|False
+48-BU|George Kollios|False|False|True
+48-BU|Giorgos Zervas|False|False|False
+48-BU|Hongwei Xi|False|False|True
+48-BU|John Byers|False|False|True
+48-BU|Jonathan Appavoo|False|False|True
+48-BU|Leonid Levin|False|False|True
+48-BU|Leonid Reyzin|False|False|True
+48-BU|Lorenzo Orecchia|False|False|True
+48-BU|Manuel Egele|False|True|False
+48-BU|Margrit Betke|False|False|True
+48-BU|Mark Crovella|False|False|True
+48-BU|Nikos Triandopoulos|False|False|True
+48-BU|Orran Krieger|False|False|False
+48-BU|Perry Donham|False|False|True
+48-BU|Peter Gacs|False|False|True
+48-BU|Ran Canetti|False|False|True
+48-BU|Richard West|False|False|True
+48-BU|Sang (Peter) Chin|False|False|False
+48-BU|Sharon Goldberg|False|False|True
+48-BU|Shereif ElSheikh|False|False|True
+48-BU|Stan Sclaroff|False|False|True
+48-BU|Steve Homer|False|False|True
+48-BU|Susan Worst|False|False|True
+48-BU|Venkatesh Saligrama|False|False|True
+48-BU|Wayne Snyder|False|False|True
+48-NCSU|  Anthony Rivers|False|False|True
+48-NCSU|  Ken Tate|False|False|True
+48-NCSU|  Nadia DiakunThibault|False|False|True
+48-NCSU|  Xuxian Jiang|False|False|True
+48-NCSU|  Yufeng Xin|False|False|True
+48-NCSU| Aldo Dagnino|False|False|True
+48-NCSU| Andrew Rindos|False|False|True
+48-NCSU| Barbara Jasmine Adams|False|False|True
+48-NCSU| Ben Watson|False|False|True
+48-NCSU| Bradford Mott|False|False|True
+48-NCSU| Christopher Parnin|False|False|True
+48-NCSU| Collin Lynch|False|False|True
+48-NCSU| David Sturgill|False|False|True
+48-NCSU| David Thuente|False|False|True
+48-NCSU| David Wright|False|False|True
+48-NCSU| Donald Bitzer|False|True|True
+48-NCSU| Edward Gehringer|False|False|True
+48-NCSU| Emerson MurphyHill|False|False|True
+48-NCSU| Franc Brglez|False|False|True
+48-NCSU| Frank Mueller|False|False|True
+48-NCSU| Gary Howell|False|False|True
+48-NCSU| Guoliang Jin|False|False|True
+48-NCSU| Harry Perros|False|True|True
+48-NCSU| Hong Yi|False|False|True
+48-NCSU| Injong Rhee|False|False|True
+48-NCSU| Jaewoo Kang|False|False|True
+48-NCSU| Jason King|False|False|True
+48-NCSU| Jessica Staddon|False|False|True
+48-NCSU| Jessica Young Schmidt|False|False|True
+48-NCSU| Jon Doyle|False|False|True
+48-NCSU| Kemafor Anyanwu Ogan|False|True|True
+48-NCSU| Khaled Harfoush|False|False|True
+48-NCSU| Kristy Elizabeth Boyer|False|False|True
+48-NCSU| Laurie Williams|False|False|True
+48-NCSU| Lina Battestilli|False|False|True
+48-NCSU| Lucas Layman|False|False|True
+48-NCSU| Matthias Stallmann|False|False|True
+48-NCSU| Michael Kowolenko|False|False|True
+48-NCSU| Michael Rappa|False|False|True
+48-NCSU| Min Chi|False|False|True
+48-NCSU| Mladen Vouk|False|True|True
+48-NCSU| Muhammad Shahzad|False|False|True
+48-NCSU| Nagiza Samatova|False|False|True
+48-NCSU| Patrick Dreher|False|False|True
+48-NCSU| Peng Ning|False|False|True
+48-NCSU| Ranga Vatsavai|False|False|True
+48-NCSU| Robert Fornaro|False|False|True
+48-NCSU| Rudra Dutta|False|False|True
+48-NCSU| Sarah Heckman|False|False|True
+48-NCSU| Sidharth Thakur|False|False|True
+48-NCSU| Stanley Ahalt|False|False|True
+48-NCSU| Steffen Heber|False|False|True
+48-NCSU| Steven Hunter|False|False|True
+48-NCSU| Suzanne Balik|False|False|True
+48-NCSU| Tiffany Barnes|False|False|True
+48-NCSU| Ting Yu|False|False|True
+48-NCSU| William Enck|False|False|True
+48-NCSU| Woody Robbins|False|False|True
+48-NCSU| Wushow Chou|False|True|True
+48-NCSU| Xiaohui (Helen) Gu|False|False|True
+48-NCSU| Xiaosong Ma|False|False|True
+48-NCSU| Xipeng Shen|False|False|True
+48-NCSU|Dr  Alexandros Kapravelos|False|False|True
+48-NCSU|Ms  ToniAnn Marini|False|False|True

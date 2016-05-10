@@ -37,8 +37,13 @@
                     at {{curTime}}
                 </div>
                 {% for item in items %}
+                    {% if item.isPerson %}
                     <div class="panel panel-info">
+                    {% else %}
+                    <div class="panel panel-warning">
+                    {% endif %}
                         <div class="panel-heading">
+                            <div style="display:inline">
                             <strong>
                                 {{item.Name}}
                             </strong>
@@ -57,21 +62,66 @@
                                     IEEE Fellow
                                 </span>
                             {% endif %}
+                            </div>
+                            <div style="float:right; display:inline">
+                                <a href="/lucky/{{item.Name}}">Homepage</a>
+
+                            </div>
                         </div>
                         <div class="panel-body">
-                            <p>
-                                <strong>{{item.Name}}</strong>
-                            </p>
-                            <p>{{item.University}} (Rank
-                                {% if item.CSRank %}
-                                    <span class="label label-warning"> CS {{item.CSRank}} </span>
-                                {% endif %}
-                            )</p>
-                            <p>
-                                <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
-                                    Search in Bing
-                                </a>
-                            </p>
+                            {% if item.isPerson %}
+                                <p>
+                                    <strong>{{item.Name}}</strong>
+                                </p>
+                                <p>{{item.University}} (Rank
+                                    {% if item.CSRank %}
+                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
+                                    {% endif %}
+                                    {% if item.AIRank %}
+                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.PLRank %}
+                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.SystemRank %}
+                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.TheoryRank %}
+                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                    {% endif %}
+                                )</p>
+                                <p>
+                                    <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
+                                        Bing me!
+                                    </a>
+                                </p>
+                            {% else %}
+                                <p>
+                                        <strong>{{item.Name}}</strong>
+                                    </p>
+                                     Rank
+                                    {% if item.CSRank %}
+                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
+                                    {% endif %}
+                                    {% if item.AIRank %}
+                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.PLRank %}
+                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.SystemRank %}
+                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
+                                    {% endif %}
+                                    {% if item.TheoryRank %}
+                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                    {% endif %}
+                                </p>
+                                <p>
+                                    <a href="http://www.bing.com/search?q={{item.Name}}">
+                                        Bing me!
+                                    </a>
+                                </p>
+                            {% endif %}
                         </div>
                     </div>
                 {% endfor %}

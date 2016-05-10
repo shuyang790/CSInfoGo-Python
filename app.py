@@ -1,7 +1,8 @@
 #!/usr/bin/python
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect
 from flask_bootstrap import Bootstrap
 import time
+import requests
 
 import search
 
@@ -36,10 +37,17 @@ def index():
                 items=items)
     return render_template('index.html')
 
+@app.route('/lucky/<keyword>')
+def googleLucky(keyword):
+    luckyUrl = "http://www.google.com/webhp?#q=" + keyword + "&btnI=I"
+    r = requests.get(luckyUrl)
+    redirectUrl = r.url
+    print "[lucky] Redirect to " + redirectUrl
+    return redirect(redirectUrl)
+
 @app.route('/about')
 def about():
     return render_template('about.html')
 
 if __name__ == '__main__':
-    search.init()
     app.run(host='::', debug=True, port=4000)

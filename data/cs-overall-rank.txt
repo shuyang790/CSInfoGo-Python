@@ -36,12 +36,12 @@
 34|Rutgers, The State University of New Jersey-​New Brunswick
 34|University of California-​Davis
 34|University of California-​Santa Barbara
-34|University of CHicago
+34|University of Chicago
 40|Dartmouth College
 40|Stony Brook University
 40|Texas A&M University
 40|University of Arizona
-40|University Of Colorado-​Boulder
+40|University of Colorado-​Boulder
 40|University of Utah
 40|Virginia Tech
 40|Washington University in St. Louis

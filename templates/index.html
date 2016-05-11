@@ -26,11 +26,13 @@
             </center>
         </div>
         <div class="container" style="padding-top: 20px">
-            <div class="alert alert-success ">
-                <strong> Success! </strong>
-                Last Search: <strong> {{keyword}} </strong>
-                at {{curTime}}
-            </div>
+            {% if keyword %}
+                <div class="alert alert-success ">
+                    <strong> Success! </strong>
+                    Last Search: <strong> {{keyword}} </strong>
+                    at {{curTime}}
+                </div>
+            {% endif %}
             {% if items %}
                 {% for item in items %}
                     {% if item.isPerson %}

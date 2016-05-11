@@ -1,7 +1,8 @@
 #!/usr/bin/python
 from flask import Flask, render_template, request, redirect
 from flask_bootstrap import Bootstrap
-import time
+from bs4 import BeautifulSoup
+import time, sys
 import requests
 
 import search
@@ -43,6 +44,21 @@ def googleLucky(keyword):
     r = requests.get(luckyUrl)
     redirectUrl = r.url
     print "[lucky] Redirect to " + redirectUrl
+
+    searchUrl="https://www.google.com.hk/search?hl=en&q=" + keyword
+    r = requests.get(searchUrl, headers={'User-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36"})
+    soup = BeautifulSoup(r.content.decode('utf-8','ignore') )
+    print r.content
+    sys.stdout.flush()
+    tags = soup.select("h3 a")
+    if len(tags) > 0:
+        tag = str(tags[0])
+        print "tag: " + tag
+        start = tag.find("url=http") + len("url=")
+        end = start
+        while tag[end] != '"':
+            end += 1
+        firstResultUrl = tag[start:end].replace('%3A', ':').replace('%2F', '/')
     return redirect(redirectUrl)
 
 @app.route('/about')

@@ -1,3 +1,5 @@
+beautifulsoup4==4.4.1
+bs4==0.0.1
 dominate==2.2.0
 Flask==0.10.1
 Flask-Bootstrap==3.3.5.7
@@ -5,6 +7,7 @@ itsdangerous==0.24
 jinja-bootstrap==0.4.0
 Jinja2==2.8
 MarkupSafe==0.23
+requests==2.10.0
 visitor==0.1.2
 Werkzeug==0.11.9
 wheel==0.24.0

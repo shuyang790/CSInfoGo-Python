@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from flask import Flask, render_template, request, redirect
+from flask import Flask, render_template, request, redirect, send_from_directory
 from flask_bootstrap import Bootstrap
 from bs4 import BeautifulSoup
 import time, sys
@@ -64,6 +64,18 @@ def googleLucky(keyword):
 @app.route('/about')
 def about():
     return render_template('about.html')
+
+@app.route('/img/<filename>')
+def img(filename):
+    return send_from_directory('img', filename)
+
+@app.route('/css/<filename>')
+def css(filename):
+    return send_from_directory('css', filename)
+
+@app.route('/js/<filename>')
+def js(filename):
+    return send_from_directory('js', filename)
 
 if __name__ == '__main__':
     app.run(host='::', debug=True, port=4000)

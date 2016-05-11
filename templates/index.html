@@ -42,6 +42,11 @@
                     {% endif %}
                         <div class="panel-heading">
                             <div style="display:inline">
+                            {% if item.isPerson %}
+                                <img src="img/person_people_16px_1189669_easyicon.net.png"/>
+                            {% else %}
+                                <img src="img/university_16px_1169923_easyicon.net.png" />
+                            {% endif %}
                             <strong>
                                 {{item.Name}}
                             </strong>
@@ -62,8 +67,9 @@
                             {% endif %}
                             </div>
                             <div style="float:right; display:inline">
-                                <a href="/lucky/{{item.Name}}">Homepage</a>
-
+                                <a href="/lucky/{{item.Name}}">
+                                    Homepage <img src="img/home_16px_1195215_easyicon.net.png" alt="Go Visit the Homepage (Through Google Lucky)" />
+                                </a>
                             </div>
                         </div>
                         <div class="panel-body">
@@ -92,6 +98,7 @@
                                 )</p>
                                 <p>
                                     <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
+                                        <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">
                                         Bing me!
                                     </a>
                                 </p>
@@ -138,7 +145,7 @@
                                 </p>
                                 <p>
                                     <a href="http://www.bing.com/search?q={{item.Name}}">
-                                        Bing me!
+                                        <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">Bing me!
                                     </a>
                                 </p>
                             {% endif %}

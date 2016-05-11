@@ -26,7 +26,7 @@
             </center>
         </div>
         <div class="container" style="padding-top: 20px">
-            {% if keyword %}
+            {% if keyword is not none %}
                 <div class="alert alert-success ">
                     <strong> Success! </strong>
                     Last Search: <strong> {{keyword}} </strong>

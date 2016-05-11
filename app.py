@@ -35,7 +35,7 @@ def index():
                     else pageInfo['totalPage'], \
                 keyword=keyword, \
                 items=items)
-    return render_template('index.html')
+    return render_template('index.html', keyword=None)
 
 @app.route('/lucky/<keyword>')
 def googleLucky(keyword):

@@ -65,7 +65,7 @@ def scanCrawledData():
                 webpage.close()
 
             c.execute("INSERT INTO persons VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s')"\
-                % ( professor.replace("'", "''"),\
+                % ( professor.replace("'", "''").replace('-', '').replace(',', ''),\
                     univ, \
                     url, \
                     "unknown", \

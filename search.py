@@ -18,8 +18,9 @@ univAbbr2Name = {}
 def itemPerson(person, c):
     item = dict(zip(["Name", "UniversityAbbr", "URL", "ResearchInterests",\
             "ACMFellow", "IEEEFellow", "Funding"], list(person)))
-    univ = c.execute("SELECT * FROM universities WHERE Abbr='" + item["UniversityAbbr"] + "'")\
+    _univ = c.execute("SELECT * FROM universities WHERE Abbr='" + item["UniversityAbbr"] + "'")\
         .fetchall()[0]
+    univ = [x if x != 'unknown' else '' for x in _univ]
     item.update({ \
         "isPerson": "True", \
         "University": univ[0], \
@@ -56,7 +57,8 @@ def getItems(keyword, page):
     for univ in univs:
         item = dict(zip(["Name", "Abbr", "NameAbbr", "CSRank", "AIRank", \
                 "PLRank", "SystemRank", "TheoryRank", \
-                "NumACMFellow", "NumIEEEFellow", "NumFunding"], list(univ)))
+                "NumACMFellow", "NumIEEEFellow", "NumFunding"], \
+                list([x  if x != 'unknown' else '' for x in univ])))
         item.update({"isUniversity": "True"})
         results.append(item)
 
@@ -78,5 +80,4 @@ def getItems(keyword, page):
     print pageInfo
     curPage = int(page)
     items = results[(curPage - 1) * pageLen : curPage * pageLen]
-    print items
     return (pageInfo, items)

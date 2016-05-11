@@ -1,9 +1,5 @@
 {% extends "base.html" %}
 
-{% block scripts %}
-
-{% endblock %}
-
 {# ======================================= #}
 
 {% block page_content %}
@@ -29,13 +25,13 @@
             </div>
             </center>
         </div>
-        {% if items %}
-            <div class="container" style="padding-top: 20px">
-                <div class="alert alert-success">
-                    <strong> Success! </strong>
-                    Last Search: <strong> {{keyword}} </strong>
-                    at {{curTime}}
-                </div>
+        <div class="container" style="padding-top: 20px">
+            <div class="alert alert-success ">
+                <strong> Success! </strong>
+                Last Search: <strong> {{keyword}} </strong>
+                at {{curTime}}
+            </div>
+            {% if items %}
                 {% for item in items %}
                     {% if item.isPerson %}
                     <div class="panel panel-info">
@@ -73,21 +69,23 @@
                                 <p>
                                     <strong>{{item.Name}}</strong>
                                 </p>
-                                <p>{{item.University}} (Rank
+                                <p>
+                                    <a href="/home?keyword={{item.University}}">{{item.University}}</a>
+                                    (Rankings
                                     {% if item.CSRank %}
-                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
+                                        <span class="label label-danger"> CS {{item.CSRank}} </span> &nbsp;
                                     {% endif %}
                                     {% if item.AIRank %}
-                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
+                                        <span class="label label-primary"> AI {{item.AIRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.PLRank %}
-                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
+                                        <span class="label label-primary"> PL {{item.PLRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.SystemRank %}
-                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
+                                        <span class="label label-primary"> System {{item.SystemRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.TheoryRank %}
-                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                        <span class="label label-primary"> Theory {{item.TheoryRank}} </span>&nbsp;
                                     {% endif %}
                                 )</p>
                                 <p>
@@ -98,23 +96,43 @@
                             {% else %}
                                 <p>
                                         <strong>{{item.Name}}</strong>
-                                    </p>
-                                     Rank
+                                </p>
+                                <p>
+                                     USNews Rankings
+                                 </p>
+                                 <p>
+                                     <ul>
                                     {% if item.CSRank %}
-                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
+                                        <li> (overall) Computer Science
+                                            <span class="label label-danger">  {{item.CSRank}} </span>
+                                        </li>
                                     {% endif %}
                                     {% if item.AIRank %}
-                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
+                                        <li>Artificial Intelligence
+                                            <span class="label label-primary">  {{item.AIRank}} </span>
+                                        </li>
                                     {% endif %}
                                     {% if item.PLRank %}
-                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
+                                        <li>Programming Language
+                                        <span class="label label-primary">  {{item.PLRank}} </span>&nbsp;
+                                    </li>
                                     {% endif %}
                                     {% if item.SystemRank %}
-                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
+                                        <li>System
+                                        <span class="label label-primary">  {{item.SystemRank}} </span>
+                                    </li>
                                     {% endif %}
                                     {% if item.TheoryRank %}
-                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                        <li>Theory
+                                        <span class="label label-primary"> {{item.TheoryRank}} </span>
+                                    </li>
                                     {% endif %}
+                                    </ul>
+                                </p>
+                                <p>
+                                    <strong>{{item.NumACMFellow}}</strong> with ACM Fellowship,
+                                    <strong>{{item.NumIEEEFellow}}</strong> with IEEE Fellowship,
+                                    <strong>{{item.NumFunding}}</strong> with NSF Funding.
                                 </p>
                                 <p>
                                     <a href="http://www.bing.com/search?q={{item.Name}}">
@@ -137,6 +155,6 @@
                         <a href="/home?keyword={{keyword}}&page={{nextPage}}">Next</a>
                     </li>
                 </ul>
-            </div>
-        {% endif %}
+            {% endif %}
+        </div>
 {% endblock %}

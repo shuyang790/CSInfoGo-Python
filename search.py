@@ -16,7 +16,7 @@ univName2Abbr = {}
 univAbbr2Name = {}
 
 def itemPerson(person, c):
-    item = dict(zip(["Name", "UniversityAbbr", "URL", "ResearchInterests",\
+    item = dict(zip(["Name", "UniversityAbbr", "URL", "Title", "ResearchInterests",\
             "ACMFellow", "IEEEFellow", "Funding"], \
             list(person)))
     indices = [0] + [x+1 for x in range(len(item["Name"])) if not item["Name"][x].isalpha()]
@@ -60,12 +60,18 @@ def getItems(keyword, page):
     results = []
     keyword = keyword.strip()
 
+    # TODO
+    words = keyword.strip().split(' ')
+
     c = conn.cursor()
 
-    c.execute("SELECT * FROM persons WHERE name LIKE '%" + keyword + "%' COLLATE NOCASE")
-    persons = c.fetchall()
-    for person in persons:
-        results.append(itemPerson(person, c))
+    for word in words:
+        c.execute("SELECT * FROM persons WHERE name LIKE '%" + word + "%' COLLATE NOCASE")
+        persons = c.fetchall()
+        for person in persons:
+            it = itemPerson(person, c)
+            if not it in results:
+                results.append(it)
 
     c.execute("SELECT * FROM universities WHERE name LIKE '%" + keyword + "%' COLLATE NOCASE")
     univs = c.fetchall()
@@ -79,9 +85,6 @@ def getItems(keyword, page):
         persons = c.fetchall()
         for person in persons:
             results.append(itemPerson(person, c))
-
-    # TODO
-    words = keyword.strip().split(' ')
 
     # Select to render
     total = len(results)

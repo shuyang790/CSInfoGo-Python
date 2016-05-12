@@ -76,6 +76,9 @@
                             {% if item.isPerson %}
                                 <p>
                                     <strong>{{item.Name}}</strong>
+                                    {% if item.Title %}
+                                        {{item.Title}}
+                                    {% endif %}
                                 </p>
                                 <p>
                                     <a href="/home?keyword={{item.University}}">{{item.University}}</a>
@@ -96,6 +99,11 @@
                                         <span class="label label-primary"> Theory {{item.TheoryRank}} </span>&nbsp;
                                     {% endif %}
                                 )</p>
+                                {% if item.ResearchInterests %}
+                                    <p>
+                                        Research Interests: {{item.ResearchInterests}}
+                                    </p>
+                                {% endif %}
                                 <p>
                                     <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
                                         <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">
@@ -112,7 +120,7 @@
                                  <p>
                                      <ul>
                                     {% if item.CSRank %}
-                                        <li> (overall) Computer Science
+                                        <li> Computer Science
                                             <span class="label label-danger">  {{item.CSRank}} </span>
                                         </li>
                                     {% endif %}

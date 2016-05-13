@@ -40,7 +40,10 @@ areas = [
 	"Wireless and Sensor Systems", \
 	"Compiler", \
 	"Programming Language", \
-	"Artificial Intelligence"
+	"Artificial Intelligence", \
+	"Distributed Systems", \
+	"Networking", \
+	"vision",
 ]
 
 titles = [
@@ -74,10 +77,46 @@ def findInterests(content):
 	ret = []
 	for token in tokens:
 		for area in areas:
-			for m in re.finditer(token, text):
-				if text[m:m+100].find(area.lower()):
+			for m in re.finditer(token.lower(), text):
+				if text[m.start():m.start()+100].find(area.lower()) != -1 and \
+						not area in ret:
 					ret.append(area)
 					break
+	if ret == []:
+		for token in tokens:
+			for m in re.finditer(token.lower(), content):
+				start = m.start() + len(token)
+				while content[start].isalpha() or content[start] == ':':
+					start += 1
+				end = start
+				hrc = 0
+				inside = 0
+				last = 0
+				segment = ""
+				while end < len(content):
+					if content[end] == '<' and content[end+1] != '/' and inside == 0:
+						hrc += 1
+						inside = 1
+						last = 1
+					elif content[end] == '<' and inside == 0:
+						hrc -= 1
+						inside = 1
+						last = -1
+						if hrc < 0:
+							break
+					elif content[end] == '>' and inside == 1:
+						inside = 0
+						if last == -1:
+							segment = segment + ", "
+					elif inside == 0:
+						segment = segment + content[end]
+					end += 1
+				segment = segment.replace("'", "''")
+				if segment.strip().replace(", ", "") != '' and not segment in ret:
+					ret.append(segment)
+
+	# print "Text: @@@" + text
+	# print "area: ###" + str(area)
 	return ret
 
 def scanCrawledData():
@@ -119,6 +158,7 @@ def scanCrawledData():
 					if indexContent.find(i.lower()) != -1:
 						title = i
 						break
+				interests = findInterests(indexContent)
 
 			for info in os.listdir(professorDir):
 				infopath = os.path.join(professorDir,info);
@@ -135,7 +175,7 @@ def scanCrawledData():
 						if text.find(i.lower()) != -1:
 							title = i
 							break
-				# if infopath[-5:] == '.html':
+				# if infopath[-5:] == '.html' and interests == []:
 				# 	interests = interests + findInterests(text)
 				webpage.close()
 
@@ -177,7 +217,6 @@ def readUnivNames():
 	univName2Abbr.update({"University of Colorado-​Boulder":"40-UCOB"})
 	univName2Abbr.update({"University of Utah":"40-UTA"})
 	univName2Abbr.update({"University at Buffalo-​SUNY":"63-UBS"})
-	#univName2Abbr.update({"":""})
 
 	for name, abbr in univName2Abbr.iteritems():
 		univAbbr2Name.update({abbr: name})

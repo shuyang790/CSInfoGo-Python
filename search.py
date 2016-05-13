@@ -34,6 +34,7 @@ def itemPerson(person, c):
         "PLRank": univ[5], \
         "SystemRank": univ[6], \
         "TheoryRank": univ[7], \
+        "Identity": "Person" + item["UniversityAbbr"] + item["Name"].replace(' ', '_'), \
          })
     return item
 

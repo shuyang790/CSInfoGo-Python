@@ -46,6 +46,24 @@ def itemUniv(univ, c):
     item.update({"isUniversity": "True"})
     return item
 
+def calcScorePerson(item, keyword):
+    words = keyword.split(' ')
+    nameCover = float(len([1 for x in words if x in item['Name']])) / len(words)
+    univCover = 1 if item['UniversityAbbr'] in words else 0
+    validCover = float(len([1 for x in words if not x in item['Name'] \
+                        and not x == item['UniversityAbbr']])) / len(words)
+    importance = 1 if item['Title'].lower() == 'professor' else \
+                    0.5 if item['Title'].lower() == 'associate professor' else 0
+    return (nameCover + univCover + validCover) * 10 + importance
+
+def calcScoreUniv(item, keyword):
+    words = keyword.lower().replace('university', '').split(' ')
+    nameCover = float(len([1 for x in words if x in item['Name']])) / len(words)
+    validCover = float(len([1 for x in words if not x in item['Name'] \
+                        and not x == item['NameAbbr']])) / len(words)
+    ranking = float(80 - int(item['CSRank'])) / 80
+    return ((nameCover + validCover) * 10 + ranking) * 10
+
 def getItems(keyword, page):
 
     if not os.path.isfile("./data/csinfo.db"):
@@ -59,10 +77,10 @@ def getItems(keyword, page):
     conn = sqlite3.connect("./data/csinfo.db")
 
     results = []
-    keyword = keyword.strip()
+    keyword = keyword.lower().strip()
 
-    # TODO
-    words = keyword.strip().split(' ')
+
+    words = keyword.split(' ')
 
     c = conn.cursor()
 
@@ -73,19 +91,36 @@ def getItems(keyword, page):
             it = itemPerson(person, c)
             if not it in results:
                 results.append(it)
-
-    c.execute("SELECT * FROM universities WHERE name LIKE '%" + keyword + "%' COLLATE NOCASE")
-    univs = c.fetchall()
-    c.execute("SELECT * FROM universities WHERE nameabbr LIKE '" + keyword + "' COLLATE NOCASE")
-    univs = list(set(univs + c.fetchall()))
-    for univ in univs:
-        results.append(itemUniv(univ, c))
+        if word == 'university':
+            continue
+        c.execute("SELECT * FROM universities WHERE name LIKE '%" + word + "%' COLLATE NOCASE")
+        univs = c.fetchall()
+        c.execute("SELECT * FROM universities WHERE nameabbr LIKE '" + word + "' COLLATE NOCASE")
+        univs = list(set(univs + c.fetchall()))
+        for univ in univs:
+            results.append(itemUniv(univ, c))
+            c.execute("SELECT * FROM persons WHERE univabbr='" + univ[1] + "'")
+            persons = c.fetchall()
+            for person in persons:
+                results.append(itemPerson(person, c))
 
     for univ in univs:
         c.execute("SELECT * FROM persons WHERE univabbr='" + univ[1] + "'")
         persons = c.fetchall()
         for person in persons:
             results.append(itemPerson(person, c))
+    conn.close()
+
+    for item in results:
+        if 'isPerson' in item:
+            item.update({'Score': calcScorePerson(item, keyword)})
+        if 'isUniversity' in item:
+            item.update({'Score': calcScoreUniv(item, keyword)})
+
+    results = sorted(results, cmp=\
+            lambda x,y: -1 if y['Score'] < x['Score'] else 1)
+
+    print results[:20]
 
     # Select to render
     total = len(results)

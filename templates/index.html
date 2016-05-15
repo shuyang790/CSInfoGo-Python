@@ -33,6 +33,11 @@
                     at {{curTime}}
                 </div>
             {% endif %}
+            {% if dangerAlert %}
+                <div class="alert alert-danger ">
+                    {{dangerAlert}}
+                </div>
+            {% endif %}
             {% if items %}
                 {% for item in items %}
                     {% if item.isPerson %}
@@ -67,7 +72,11 @@
                             {% endif %}
                             </div>
                             <div style="float:right; display:inline">
+                                {% if item.URL %}
+                                <a href="{{item.URL}}">
+                                {% else %}
                                 <a href="/lucky/{{item.Name}}">
+                                {% endif %}
                                     Homepage <img src="img/home_16px_1195215_easyicon.net.png" alt="Go Visit the Homepage (Through Google Lucky)" />
                                 </a>
                             </div>
@@ -84,26 +93,26 @@
                                     <a href="/home?keyword={{item.University}}">{{item.University}}</a>
                                     (Rankings
                                     {% if item.CSRank %}
-                                        <span class="label label-danger"> CS {{item.CSRank}} </span> &nbsp;
+                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
                                     {% endif %}
                                     {% if item.AIRank %}
-                                        <span class="label label-primary"> AI {{item.AIRank}} </span>&nbsp;
+                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.PLRank %}
-                                        <span class="label label-primary"> PL {{item.PLRank}} </span>&nbsp;
+                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.SystemRank %}
-                                        <span class="label label-primary"> System {{item.SystemRank}} </span>&nbsp;
+                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
                                     {% endif %}
                                     {% if item.TheoryRank %}
-                                        <span class="label label-primary"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
                                     {% endif %}
                                 )</p>
                                 {% if item.ResearchInterests %}
                                     <p>
                                         <!-- Button trigger modal -->
                                         <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal{{item.Identity}}">
-                                            More Information (Experimental)
+                                            More (Experimental)
                                         </button>
 
                                         <!-- Modal -->
@@ -159,7 +168,7 @@
                                     {% endif %}
                                     {% if item.PLRank %}
                                         <li>Programming Language
-                                        <span class="label label-primary">  {{item.PLRank}} </span>&nbsp;
+                                        <span class="label label-primary">  {{item.PLRank}} </span>
                                     </li>
                                     {% endif %}
                                     {% if item.SystemRank %}
@@ -190,15 +199,35 @@
                     </div>
                 {% endfor %}
                 <ul class="pager">
+                    {% if curPage == "1" %}
+                    <li class="previous disabled">
+                        <a>Previous</a>
+                    </li>
+                    {% else %}
                     <li class="previous">
                         <a href="/home?keyword={{keyword}}&page={{prevPage}}">Previous</a>
                     </li>
-                    <strong>Page</strong>
-                        {{curPage}}
-                            /
-                        {{totalPage}}
+                    {% endif %}
+                    {% if curPage == totalPage %}
+                    <li class="next disabled">
+                        <a>Next</a>
+                    </li>
+                    {% else %}
                     <li class="next">
                         <a href="/home?keyword={{keyword}}&page={{nextPage}}">Next</a>
+                    </li>
+                    {% endif %}
+                    <li>
+                    <form class="form-inline" action="/home" method="get">
+                      <div class="form-group">
+                        <div class="input-group">
+                          <div class="input-group-addon"><strong>Page</strong> {{curPage}} / {{totalPage}}</div>
+                          <input type="hidden" name="keyword" value="{{keyword}}">
+                          <input type="number" name="page" class="form-control" placeholder="Go to Page ...">
+                        </div>
+                      </div>
+                      <button type="submit" class="btn btn-default">Jump</button>
+                    </form>
                     </li>
                 </ul>
             {% endif %}

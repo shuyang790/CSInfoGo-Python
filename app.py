@@ -40,8 +40,14 @@ def index():
     if type(keyword) != type(None):
         print "keyword: " + str(keyword)
 
+        if int(page) < 1:
+            return render_template('index.html', \
+                        dangerAlert="Error: Invalid Page Number", \
+                        keyword=None)
+
         pageInfo, items = search.getItems(keyword, page)
         return render_template('index.html', \
+                dangerAlert="", \
                 curTime=str(time.asctime()), \
                 totalPage=pageInfo["totalPage"], \
                 curPage=pageInfo["curPage"], \

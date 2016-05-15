@@ -19,6 +19,8 @@ def itemPerson(person, c):
     item = dict(zip(["Name", "UniversityAbbr", "UniversityName", "URL", "Title", "ResearchInterests",\
             "ACMFellow", "IEEEFellow", "Funding"], \
             list(person)))
+    if item['URL'] == 'unknown':
+        item['URL'] = ''
     indices = [0] + [x+1 for x in range(len(item["Name"])) if not item["Name"][x].isalpha()]
     item["Name"] = ''.join([item["Name"][i].lower() if not i in indices \
                             else item["Name"][i].upper() \

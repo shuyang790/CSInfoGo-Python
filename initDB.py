@@ -179,9 +179,10 @@ def scanCrawledData():
 				# 	interests = interests + findInterests(text)
 				webpage.close()
 
-			c.execute("INSERT INTO persons VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"\
+			c.execute("INSERT INTO persons VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')"\
 				% ( professor.replace("'", "''").replace('-', '').replace(',', ''),\
 					univ, \
+					univAbbr2Name[univ], \
 					url, \
 					title, \
 					', '.join(interests), \
@@ -268,7 +269,7 @@ def main():
 				(name, abbr, nameabbr, csrank, airank, plrank, systemrank, theoryrank, numacmfellow, numieeefellow, numfunding)''')
 
 	c.execute('''CREATE TABLE persons
-				(name, univabbr, url, title, researchinterests, acmfellow, ieeefellow, funding)''')
+				(name, univabbr, univname, url, title, researchinterests, acmfellow, ieeefellow, funding)''')
 
 	conn.commit()
 	conn.close()

@@ -16,7 +16,7 @@ univName2Abbr = {}
 univAbbr2Name = {}
 
 def itemPerson(person, c):
-    item = dict(zip(["Name", "UniversityAbbr", "URL", "Title", "ResearchInterests",\
+    item = dict(zip(["Name", "UniversityAbbr", "UniversityName", "URL", "Title", "ResearchInterests",\
             "ACMFellow", "IEEEFellow", "Funding"], \
             list(person)))
     indices = [0] + [x+1 for x in range(len(item["Name"])) if not item["Name"][x].isalpha()]
@@ -48,21 +48,29 @@ def itemUniv(univ, c):
 
 def calcScorePerson(item, keyword):
     words = keyword.split(' ')
-    nameCover = float(len([1 for x in words if x in item['Name']])) / len(words)
-    univCover = 1 if item['UniversityAbbr'] in words else 0
-    validCover = float(len([1 for x in words if not x in item['Name'] \
-                        and not x == item['UniversityAbbr']])) / len(words)
+    nameCover = float(len([1 for x in words if x in item['Name'].lower()])) \
+                    / len(words)
+    univCover = float(len([1 for x in \
+                                item['UniversityName'].lower().split(' ') \
+                                + [item['UniversityAbbr']] if \
+                            x in keyword])) \
+                        / len(words)
+    1 if item['UniversityAbbr'].split('-')[-1].lower() in words else 0
+    validCover = 1 - float(len([1 for x in words if not x in item['Name'].lower() \
+                        and not x == \
+                                item['UniversityAbbr'].split('-')[-1].lower()] \
+                        )) / len(words)
     importance = 1 if item['Title'].lower() == 'professor' else \
                     0.5 if item['Title'].lower() == 'associate professor' else 0
-    return (nameCover + univCover + validCover) * 10 + importance
+    return ((nameCover + univCover) * 2.5 + validCover) * 10 + importance
 
 def calcScoreUniv(item, keyword):
     words = keyword.lower().replace('university', '').split(' ')
-    nameCover = float(len([1 for x in words if x in item['Name']])) / len(words)
-    validCover = float(len([1 for x in words if not x in item['Name'] \
-                        and not x == item['NameAbbr']])) / len(words)
+    nameCover = float(len([1 for x in words if x in item['Name'].lower()])) / len(words)
+    validCover = 1 - float(len([1 for x in words if not x in item['Name'].lower() \
+                        and not x == item['NameAbbr'].lower()])) / len(words)
     ranking = float(80 - int(item['CSRank'])) / 80
-    return ((nameCover + validCover) * 10 + ranking) * 10
+    return ((nameCover * 5 + validCover) * 10 + ranking) * 10
 
 def getItems(keyword, page):
 

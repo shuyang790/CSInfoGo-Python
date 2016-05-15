@@ -185,7 +185,7 @@ def scanCrawledData():
 					univAbbr2Name[univ], \
 					url, \
 					title, \
-					', '.join(interests), \
+					', '.join(interests).replace("'", "''"), \
 					"Yes" if isAcmfellow >= 1 else "No",\
 					"Yes" if isIeeefellow >= 1 else "No",\
 					"Yes" if isGranted >= 1 else "No",\

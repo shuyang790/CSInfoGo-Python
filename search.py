@@ -68,11 +68,13 @@ def calcScorePerson(item, keyword):
 
 def calcScoreUniv(item, keyword):
     words = keyword.lower().replace('university', '').split(' ')
-    nameCover = float(len([1 for x in words if x in item['Name'].lower()])) / len(words)
+    nameCover = float(len([1 for x in words if x in item['Name'].lower() \
+                        and not x in ['institute', 'of', 'university']])) \
+                    / len(words)
     validCover = 1 - float(len([1 for x in words if not x in item['Name'].lower() \
                         and not x == item['NameAbbr'].lower()])) / len(words)
     ranking = float(80 - int(item['CSRank'])) / 80
-    return ((nameCover * 5 + validCover) * 10 + ranking) * 10
+    return ((nameCover * 5 + validCover) * 10 + ranking) * 8
 
 def getItems(keyword, page):
 
@@ -88,18 +90,40 @@ def getItems(keyword, page):
 
     results = []
     keyword = keyword.lower().strip()
-
-
     words = keyword.split(' ')
 
     c = conn.cursor()
+    conn.text_factory = str
 
+    exactResults = []
+
+    # check whole name matching
+    c.execute("SELECT * FROM persons WHERE name LIKE '" + keyword + "' COLLATE NOCASE")
+    persons = c.fetchall()
+    for person in persons:
+        exactResults.append(itemPerson(person, c))
+    c.execute("SELECT * FROM universities WHERE name LIKE '" + keyword + "' COLLATE NOCASE")
+    univs = c.fetchall()
+    c.execute("SELECT * FROM universities WHERE nameabbr LIKE '" + keyword + "' COLLATE NOCASE")
+    univs = list(set(univs + c.fetchall()))
+    for univ in univs:
+        it = itemUniv(univ, c)
+        if not it in exactResults:
+            exactResults.append(it)
+        c.execute("SELECT * FROM persons WHERE univabbr='" + univ[1] + "'")
+        persons = c.fetchall()
+        for person in persons:
+            it = itemPerson(person, c)
+            if not it in exactResults:
+                exactResults.append(it)
+
+    # check every word
     for word in words:
         c.execute("SELECT * FROM persons WHERE name LIKE '%" + word + "%' COLLATE NOCASE")
         persons = c.fetchall()
         for person in persons:
             it = itemPerson(person, c)
-            if not it in results:
+            if not it in results and not it in exactResults:
                 results.append(it)
         if word == 'university':
             continue
@@ -108,17 +132,25 @@ def getItems(keyword, page):
         c.execute("SELECT * FROM universities WHERE nameabbr LIKE '" + word + "' COLLATE NOCASE")
         univs = list(set(univs + c.fetchall()))
         for univ in univs:
-            results.append(itemUniv(univ, c))
+            it = itemUniv(univ, c)
+            if it in results or it in exactResults:
+                continue
+            results.append(it)
             c.execute("SELECT * FROM persons WHERE univabbr='" + univ[1] + "'")
             persons = c.fetchall()
             for person in persons:
-                results.append(itemPerson(person, c))
+                it = itemPerson(person, c)
+                if not it in results and not it in exactResults:
+                    results.append(it)
 
     for univ in univs:
         c.execute("SELECT * FROM persons WHERE univabbr='" + univ[1] + "'")
         persons = c.fetchall()
         for person in persons:
-            results.append(itemPerson(person, c))
+            it = itemPerson(person, c)
+            if not it in results:
+                results.append(it)
+
     conn.close()
 
     for item in results:
@@ -130,6 +162,7 @@ def getItems(keyword, page):
     results = sorted(results, cmp=\
             lambda x,y: -1 if y['Score'] < x['Score'] else 1)
 
+    results = exactResults + results
     print results[:20]
 
     # Select to render

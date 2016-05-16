@@ -7,7 +7,7 @@
             <center>
                 <h1>CSInfoGo:
                     Hi, CSers!</h1><h4>
-                Input a faculty name or a university name / abbreviatoin, and magic happens!</h4>
+                Input a faculty name / university name / university abbreviatoin / combination, and magic happens!</h4>
             </center>
         </div>
         <div class="container">
@@ -20,7 +20,52 @@
                         <input type="text" class="form-control input-lg" name="keyword">
                     {% endif %}
                     <br />
-                    <button type="submit" class="btn btn-primary btn-lg">Go</button>
+                    <button type="submit" class="btn btn-primary btn-lg">Go Search</button>
+<button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">
+  Samples
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h3 class="modal-title" id="myModalLabel">CSInfoGo: Search Examples</h3>
+      </div>
+      <div class="modal-body">
+          <span align="left">
+              <h4>Search University: Abbreviation, Name, or Part Name</h4>
+              <div class="btn-group" role="group">
+                  <a href="/home?keyword=CMU"><button type="button" class="btn btn-default">CMU</button></a>
+                  <a href="/home?keyword=Stanford"><button type="button" class="btn btn-default">Stanford</button></a>
+                  <a href="/home?keyword=University%20of%20California-​Berkeley"><button type="button" class="btn btn-default">University of California-​Berkeley</button></a>
+              </div>
+
+              <h4>Search Faculty Name / Part Name</h4>
+              <div class="btn-group" role="group">
+                  <a href="/home?keyword=bill%20dally"><button type="button" class="btn btn-default">bill dally</button></a>
+                  <a href="/home?keyword=david"><button type="button" class="btn btn-default">david</button></a>
+                  <a href="/home?keyword=victor"><button type="button" class="btn btn-default">victor</button></a>
+              </div>
+
+              <h4>Search Faculty with University</h4>
+              <div class="btn-group" role="group">
+                  <a href="/home?keyword=david%20cmu"><button type="button" class="btn btn-default">david cmu</button></a>
+                  <a href="/home?keyword=feifei stanford"><button type="button" class="btn btn-default">feifei stanford</button></a>
+                  <a href="/home?keyword=ucla Darwiche"><button type="button" class="btn btn-default">ucla Darwiche</button></a>
+              </div>
+
+          </span>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
                 </form>
             </div>
             </center>

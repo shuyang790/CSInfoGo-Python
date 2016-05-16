@@ -2,23 +2,22 @@
 
 Go for CS Information!
 
-- University rank!
-- University rank within specific direction (e.g. AI, System)!
+- University rankings!
+    - With fellowship / funding statistics!
+    - University rankings within specific direction (e.g. AI, System)!
+    - Homepage Link!
 - Professor, Associate Professor Search!
     - Personal homepage
-    - Research areas
-    - Funding situation
+    - Funding condition
     - ACM / IEEE fellowship
+    - Research areas (experimental)
 
 ## Next Step
 
-1. Text Matching and Result Sorting:
-    - Switching first name and last name,
-    - Name and university,
-    - Spelling mistake tolerance.
-2. Homepage links generated within backend python code,
-    and return lucky url directly.
-3. Personal profile refinement:
-    - Add `Title`, `Research Interests` to personal profiles;
+1. Personal profile refinement:
+    - Refine `Research Interests` extraction;
     - Use additional information to gather `Fellowships` for universities like CMU;
     - Better rendering effect.
+2. Text Matching:
+    - Research interests taken into consider;
+    - Spelling mistake tolerance.

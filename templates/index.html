@@ -75,7 +75,11 @@
                                 {% if item.URL %}
                                 <a href="{{item.URL}}">
                                 {% else %}
-                                <a href="/lucky/{{item.Name}}">
+                                    {% if item.isPerson %}
+                                    <a href="/lucky/{{item.Name}}%20{{item.UniversityName}}">
+                                    {% else %}
+                                    <a href="/lucky/{{item.Name}}%20Computer%20Science">
+                                    {% endif %}
                                 {% endif %}
                                     Homepage <img src="img/home_16px_1195215_easyicon.net.png" alt="Go Visit the Homepage (Through Google Lucky)" />
                                 </a>
@@ -155,33 +159,78 @@
                                      USNews Rankings
                                  </p>
                                  <p>
-                                     <ul>
+                                     <!-- present rankings using 'list-group' -->
+                                     <!-- <div class="container" style="width: auto;float: left;" align="left">
+                                         <ul class="list-group">
+                                             {% if item.CSRank %}
+                                              <li class="list-group-item">
+                                                <span class="label label-danger label-pill pull-xs-right">{{item.CSRank}}</span>
+                                                Computer Science
+                                              </li>
+                                            {% endif %}
+                                           {% if item.AIRank %}
+                                            <li class="list-group-item">
+                                              <span class="label label-primary label-pill pull-xs-right">{{item.AIRank}}</span>
+                                              Artificial Intelligence
+                                            </li>
+                                          {% endif %}
+                                          {% if item.PLRank %}
+                                           <li class="list-group-item">
+                                             <span class="label label-primary label-pill pull-xs-right">{{item.PLRank}}</span>
+                                             Programming Language
+                                           </li>
+                                         {% endif %}
+                                         {% if item.SystemRank %}
+                                          <li class="list-group-item">
+                                            <span class="label label-primary label-pill pull-xs-right">{{item.SystemRank}}</span>
+                                            System
+                                          </li>
+                                        {% endif %}
+                                         {% if item.TheoryRank %}
+                                          <li class="list-group-item">
+                                            <span class="label label-primary label-pill pull-xs-right">{{item.TheoryRank}}</span>
+                                            Theory
+                                          </li>
+                                        {% endif %}
+                                        </ul>
+                                    </div> -->
+                                    <!-- end: rankings -->
+
+                                    <!-- present rankings using unordered list  -->
+                                    <ul>
                                     {% if item.CSRank %}
-                                        <li> Computer Science
+                                        <li>
                                             <span class="label label-danger">  {{item.CSRank}} </span>
+                                            &nbsp;Computer Science
                                         </li>
                                     {% endif %}
                                     {% if item.AIRank %}
-                                        <li>Artificial Intelligence
+                                        <li style="padding-top:3px">
                                             <span class="label label-primary">  {{item.AIRank}} </span>
+                                            &nbsp;Artificial Intelligence
                                         </li>
                                     {% endif %}
                                     {% if item.PLRank %}
-                                        <li>Programming Language
-                                        <span class="label label-primary">  {{item.PLRank}} </span>
-                                    </li>
+                                        <li style="padding-top:3px">
+                                            <span class="label label-primary">  {{item.PLRank}} </span>
+                                            &nbsp;Programming Language
+                                        </li>
                                     {% endif %}
                                     {% if item.SystemRank %}
-                                        <li>System
-                                        <span class="label label-primary">  {{item.SystemRank}} </span>
-                                    </li>
+                                        <li style="padding-top:3px">
+                                            <span class="label label-primary">  {{item.SystemRank}} </span>
+                                            &nbsp;System
+                                        </li>
                                     {% endif %}
                                     {% if item.TheoryRank %}
-                                        <li>Theory
-                                        <span class="label label-primary"> {{item.TheoryRank}} </span>
-                                    </li>
+                                        <li style="padding-top:3px">
+                                            <span class="label label-primary"> {{item.TheoryRank}} </span>
+                                            &nbsp;Theory
+                                        </li>
                                     {% endif %}
                                     </ul>
+                                    <!-- end: rankings -->
+
                                 </p>
                                 <p>
                                     At LEAST

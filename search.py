@@ -85,13 +85,19 @@ def getItems(keyword, page):
         print "Database constructed!"
         sys.stdout.flush()
 
-    global conn
-    conn = sqlite3.connect("./data/csinfo.db")
-
     results = []
-    keyword = keyword.lower().strip()
+    keyword = keyword.lower().replace("'", "''").strip()
     words = keyword.split(' ')
 
+    if keyword == '':
+        pageInfo = {
+            "totalPage": "1", \
+            "curPage": "1" \
+        }
+        return (pageInfo, [])
+
+    global conn
+    conn = sqlite3.connect("./data/csinfo.db")
     c = conn.cursor()
     conn.text_factory = str
 

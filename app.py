@@ -31,6 +31,7 @@ user_agents = [
 def index():
     keyword = request.args.get('keyword')
     page = request.args.get('page')
+    cat = request.args.get('cat')
 
     if type(page) != type(None):
         print "page: " + str(page)
@@ -45,20 +46,15 @@ def index():
                         dangerAlert="Error: Invalid Page Number", \
                         keyword=None)
 
-        pageInfo, items = search.getItems(keyword, page)
+        items = search.getItems(keyword, page, int(cat))
         return render_template('index.html', \
                 dangerAlert="", \
                 curTime=str(time.asctime()), \
-                totalPage=pageInfo["totalPage"], \
-                curPage=pageInfo["curPage"], \
-                prevPage=str(int(pageInfo["curPage"]) - 1) if \
-                    pageInfo["curPage"] != "1" else "1", \
-                nextPage=str(int(pageInfo["curPage"]) + 1) if \
-                    pageInfo["curPage"] != pageInfo["totalPage"] \
-                    else pageInfo['totalPage'], \
+                curPage=str(page), \
                 keyword=keyword, \
+                cat=cat, \
                 items=items)
-    return render_template('index.html', keyword=None)
+    return render_template('index.html', keyword=None, items=None)
 
 @app.route('/lucky/<keyword>')
 def googleLucky(keyword):

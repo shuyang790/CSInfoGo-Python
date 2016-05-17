@@ -184,7 +184,6 @@ def getItems(keyword, page, cat):
             lambda x,y: -1 if y['Score'] < x['Score'] else 1)
 
     results = exactResults + results
-    print results[:20]
 
     univResults = [x for x in results if "isUniversity" in x]
     personResults = [x for x in results if "isPerson" in x]

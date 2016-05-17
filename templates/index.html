@@ -15,315 +15,318 @@
             <div class="container" style="padding-top: 18px">
                 <form role="form" method="get" action="/home">
                     {% if keyword %}
-                        <input type="text" class="form-control input-lg" name="keyword", value="{{keyword}}">
+                        <input type="text" class="form-control input-lg" name="keyword", value="{{keyword}}" style="background: url(img/Google_Search_32px_1194616_easyicon.net.png) no-repeat scroll 7px 7px;padding-left:40px;">
                     {% else %}
                         <input type="text" class="form-control input-lg" name="keyword">
                     {% endif %}
                     <br />
+                    <input type="hidden" name="cat" value="0">
                     <button type="submit" class="btn btn-primary btn-lg">Go Search</button>
-<button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">
-  Samples
-</button>
+                    <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">
+                      Samples
+                    </button>
 
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-        <h3 class="modal-title" id="myModalLabel">CSInfoGo: Search Examples</h3>
-      </div>
-      <div class="modal-body">
-          <span align="left">
-              <h4>Search University: Abbreviation, Name, or Part Name</h4>
-              <div class="btn-group" role="group">
-                  <a href="/home?keyword=CMU"><button type="button" class="btn btn-default">CMU</button></a>
-                  <a href="/home?keyword=Stanford"><button type="button" class="btn btn-default">Stanford</button></a>
-                  <a href="/home?keyword=University%20of%20California-​Berkeley"><button type="button" class="btn btn-default">University of California-​Berkeley</button></a>
-              </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                      <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                            <h3 class="modal-title" id="myModalLabel">CSInfoGo: Search Examples</h3>
+                          </div>
+                          <div class="modal-body">
+                              <span align="left">
+                                  <h4>Search University: Abbreviation, Name, or Part Name</h4>
+                                  <div class="btn-group" role="group">
+                                      <a href="/home?keyword=CMU"><button type="button" class="btn btn-default">CMU</button></a>
+                                      <a href="/home?keyword=Stanford"><button type="button" class="btn btn-default">Stanford</button></a>
+                                      <a href="/home?keyword=University%20of%20California-​Berkeley"><button type="button" class="btn btn-default">University of California-​Berkeley</button></a>
+                                  </div>
 
-              <h4>Search Faculty Name / Part Name</h4>
-              <div class="btn-group" role="group">
-                  <a href="/home?keyword=bill%20dally"><button type="button" class="btn btn-default">bill dally</button></a>
-                  <a href="/home?keyword=david"><button type="button" class="btn btn-default">david</button></a>
-                  <a href="/home?keyword=victor"><button type="button" class="btn btn-default">victor</button></a>
-              </div>
+                                  <h4>Search Faculty Name / Part Name</h4>
+                                  <div class="btn-group" role="group">
+                                      <a href="/home?keyword=bill%20dally"><button type="button" class="btn btn-default">bill dally</button></a>
+                                      <a href="/home?keyword=david"><button type="button" class="btn btn-default">david</button></a>
+                                      <a href="/home?keyword=victor"><button type="button" class="btn btn-default">victor</button></a>
+                                  </div>
 
-              <h4>Search Faculty with University</h4>
-              <div class="btn-group" role="group">
-                  <a href="/home?keyword=david%20cmu"><button type="button" class="btn btn-default">david cmu</button></a>
-                  <a href="/home?keyword=feifei stanford"><button type="button" class="btn btn-default">feifei stanford</button></a>
-                  <a href="/home?keyword=ucla Darwiche"><button type="button" class="btn btn-default">ucla Darwiche</button></a>
-              </div>
+                                  <h4>Search Faculty with University</h4>
+                                  <div class="btn-group" role="group">
+                                      <a href="/home?keyword=david%20cmu"><button type="button" class="btn btn-default">david cmu</button></a>
+                                      <a href="/home?keyword=feifei stanford"><button type="button" class="btn btn-default">feifei stanford</button></a>
+                                      <a href="/home?keyword=ucla Darwiche"><button type="button" class="btn btn-default">ucla Darwiche</button></a>
+                                  </div>
 
-          </span>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+                              </span>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                 </form>
             </div>
             </center>
         </div>
         <div class="container" style="padding-top: 20px">
             {% if keyword %}
-                <div class="alert alert-success ">
+                <div class="alert alert-success alert-dismissible fade in">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                     <strong> Success! </strong>
                     Last Search: <strong> {{keyword}} </strong>
                     at {{curTime}}
                 </div>
             {% endif %}
             {% if dangerAlert %}
-                <div class="alert alert-danger ">
+                <div class="alert alert-danger alert-dismissible fade in">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
                     {{dangerAlert}}
                 </div>
             {% endif %}
             {% if items %}
-                {% for item in items %}
-                    {% if item.isPerson %}
-                    <div class="panel panel-info">
-                    {% else %}
-                    <div class="panel panel-warning">
-                    {% endif %}
-                        <div class="panel-heading">
-                            <div style="display:inline">
-                            {% if item.isPerson %}
-                                <img src="img/person_people_16px_1189669_easyicon.net.png"/>
-                            {% else %}
-                                <img src="img/university_16px_1169923_easyicon.net.png" />
-                            {% endif %}
-                            <strong>
-                                {{item.Name}}
-                            </strong>
-                            {% if item.Funding == "Yes" %}
-                                <span class="label label-success">
-                                    Funding
-                                </span>
-                            {% endif %}
-                            {% if item.ACMFellow == "Yes" %}
-                                <span class="label label-primary">
-                                    ACM Fellow
-                                </span>
-                            {% endif %}
-                            {% if item.IEEEFellow == "Yes" %}
-                                <span class="label label-primary">
-                                    IEEE Fellow
-                                </span>
-                            {% endif %}
-                            </div>
-                            <div style="float:right; display:inline">
-                                {% if item.URL %}
-                                <a href="{{item.URL}}">
-                                {% else %}
-                                    {% if item.isPerson %}
-                                    <a href="/lucky/{{item.Name}}%20{{item.UniversityName}}">
-                                    {% else %}
-                                    <a href="/lucky/{{item.Name}}%20Computer%20Science">
-                                    {% endif %}
-                                {% endif %}
-                                    Homepage <img src="img/home_16px_1195215_easyicon.net.png" alt="Go Visit the Homepage (Through Google Lucky)" />
-                                </a>
-                            </div>
-                        </div>
-                        <div class="panel-body">
-                            {% if item.isPerson %}
-                                <p>
-                                    <strong>{{item.Name}}</strong>
-                                    {% if item.Title %}
-                                        {{item.Title}}
-                                    {% endif %}
-                                </p>
-                                <p>
-                                    <a href="/home?keyword={{item.University}}">{{item.University}}</a>
-                                    (Rankings
-                                    {% if item.CSRank %}
-                                        <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
-                                    {% endif %}
-                                    {% if item.AIRank %}
-                                        <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
-                                    {% endif %}
-                                    {% if item.PLRank %}
-                                        <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
-                                    {% endif %}
-                                    {% if item.SystemRank %}
-                                        <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
-                                    {% endif %}
-                                    {% if item.TheoryRank %}
-                                        <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
-                                    {% endif %}
-                                )</p>
-                                {% if item.ResearchInterests %}
-                                    <p>
-                                        <!-- Button trigger modal -->
-                                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal{{item.Identity}}">
-                                            More (Experimental)
-                                        </button>
+                <ul class="nav nav-pills" role="tablist">
+                  {% if cat == "0" %}
+                  <li class="nav-item active">
+                  {% else %}
+                  <li class="nav-item">
+                  {% endif %}
+                    <a class="nav-link" href="/home?keyword={{keyword}}&page=1&cat=0" role="tab">Both</a>
+                  </li>
+                {% if cat == "1" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="/home?keyword={{keyword}}&page=1&cat=1" role="tab">University Only</a>
+                  </li>
+                {% if cat == "2" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                    <a class="nav-link" href="/home?keyword={{keyword}}&page=1&cat=2" role="tab">Faculty Only</a>
+                  </li>
+                </ul>
 
-                                        <!-- Modal -->
-                                        <div class="modal fade" id="myModal{{item.Identity}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                                          <div class="modal-dialog" role="document">
-                                            <div class="modal-content">
-                                              <div class="modal-header">
-                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                  <span aria-hidden="true">&times;</span>
-                                                </button>
-                                                <h4 class="modal-title" id="myModalLabel">{{item.Name}}</h4>
-                                              </div>
-                                              <div class="modal-body">
-                                                  <p>
-                                                      <strong>{{item.Title}} </strong>at <strong> {{item.University}}</strong>
-                                                  </p>
-                                                  <p>
-                                                    <strong>Research Interests</strong> <br/>{{item.ResearchInterests}}
-                                                  </p>
-                                              </div>
-                                              <div class="modal-footer">
-                                                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                    </p>
-                                {% endif %}
-                                <p>
-                                    <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
-                                        <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">
-                                        Bing me!
-                                    </a>
-                                </p>
-                            {% else %}
-                                <p>
-                                        <strong>{{item.Name}}</strong>
-                                </p>
-                                <p>
-                                     USNews Rankings
-                                 </p>
-                                 <p>
-                                     <!-- present rankings using 'list-group' -->
-                                     <!-- <div class="container" style="width: auto;float: left;" align="left">
-                                         <ul class="list-group">
-                                             {% if item.CSRank %}
-                                              <li class="list-group-item">
-                                                <span class="label label-danger label-pill pull-xs-right">{{item.CSRank}}</span>
-                                                Computer Science
-                                              </li>
-                                            {% endif %}
-                                           {% if item.AIRank %}
-                                            <li class="list-group-item">
-                                              <span class="label label-primary label-pill pull-xs-right">{{item.AIRank}}</span>
-                                              Artificial Intelligence
-                                            </li>
+                <!-- ========================= tab content ========================= -->
+<!--
+
+
+                      BOTH UNIVERSITY AND FACULTY
+
+
+                       -->
+                      {% for item in items["items"] %}
+                          {% if item.isPerson %}
+                          <div class="panel panel-info">
+                          {% else %}
+                          <div class="panel panel-warning">
+                          {% endif %}
+                              <div class="panel-heading">
+                                  <div style="display:inline">
+                                  {% if item.isPerson %}
+                                      <img src="img/person_people_16px_1189669_easyicon.net.png"/>
+                                  {% else %}
+                                      <img src="img/university_16px_1169923_easyicon.net.png" />
+                                  {% endif %}
+                                  <strong>
+                                      {{item.Name}}
+                                  </strong>
+                                  {% if item.Funding == "Yes" %}
+                                      <span class="label label-success">
+                                          Funding
+                                      </span>
+                                  {% endif %}
+                                  {% if item.ACMFellow == "Yes" %}
+                                      <span class="label label-primary">
+                                          ACM Fellow
+                                      </span>
+                                  {% endif %}
+                                  {% if item.IEEEFellow == "Yes" %}
+                                      <span class="label label-primary">
+                                          IEEE Fellow
+                                      </span>
+                                  {% endif %}
+                                  </div>
+                                  <div style="float:right; display:inline">
+                                      {% if item.URL %}
+                                      <a href="{{item.URL}}">
+                                      {% else %}
+                                          {% if item.isPerson %}
+                                          <a href="/lucky/{{item.Name}}%20{{item.UniversityName}}">
+                                          {% else %}
+                                          <a href="/lucky/{{item.Name}}%20Computer%20Science">
+                                          {% endif %}
+                                      {% endif %}
+                                          Homepage <img src="img/home_16px_1195215_easyicon.net.png" alt="Go Visit the Homepage (Through Google Lucky)" />
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="panel-body">
+                                  {% if item.isPerson %}
+                                      <p>
+                                          <strong>{{item.Name}}</strong>
+                                          {% if item.Title %}
+                                              {{item.Title}}
+                                          {% endif %}
+                                      </p>
+                                      <p>
+                                          <a href="/home?keyword={{item.University}}">{{item.University}}</a>
+                                          (Rankings
+                                          {% if item.CSRank %}
+                                              <span class="label label-warning"> CS {{item.CSRank}} </span> &nbsp;
+                                          {% endif %}
+                                          {% if item.AIRank %}
+                                              <span class="label label-info"> AI {{item.AIRank}} </span>&nbsp;
                                           {% endif %}
                                           {% if item.PLRank %}
-                                           <li class="list-group-item">
-                                             <span class="label label-primary label-pill pull-xs-right">{{item.PLRank}}</span>
-                                             Programming Language
-                                           </li>
-                                         {% endif %}
-                                         {% if item.SystemRank %}
-                                          <li class="list-group-item">
-                                            <span class="label label-primary label-pill pull-xs-right">{{item.SystemRank}}</span>
-                                            System
-                                          </li>
-                                        {% endif %}
-                                         {% if item.TheoryRank %}
-                                          <li class="list-group-item">
-                                            <span class="label label-primary label-pill pull-xs-right">{{item.TheoryRank}}</span>
-                                            Theory
-                                          </li>
-                                        {% endif %}
-                                        </ul>
-                                    </div> -->
-                                    <!-- end: rankings -->
+                                              <span class="label label-info"> PL {{item.PLRank}} </span>&nbsp;
+                                          {% endif %}
+                                          {% if item.SystemRank %}
+                                              <span class="label label-info"> System {{item.SystemRank}} </span>&nbsp;
+                                          {% endif %}
+                                          {% if item.TheoryRank %}
+                                              <span class="label label-info"> Theory {{item.TheoryRank}} </span>&nbsp;
+                                          {% endif %}
+                                      )</p>
+                                      {% if item.ResearchInterests %}
+                                          <p>
+                                              <!-- Button trigger modal -->
+                                              <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal{{item.Identity}}">
+                                                  More (Experimental)
+                                              </button>
 
-                                    <!-- present rankings using unordered list  -->
-                                    <ul>
-                                    {% if item.CSRank %}
-                                        <li>
-                                            <span class="label label-danger">  {{item.CSRank}} </span>
-                                            &nbsp;Computer Science
-                                        </li>
-                                    {% endif %}
-                                    {% if item.AIRank %}
-                                        <li style="padding-top:3px">
-                                            <span class="label label-primary">  {{item.AIRank}} </span>
-                                            &nbsp;Artificial Intelligence
-                                        </li>
-                                    {% endif %}
-                                    {% if item.PLRank %}
-                                        <li style="padding-top:3px">
-                                            <span class="label label-primary">  {{item.PLRank}} </span>
-                                            &nbsp;Programming Language
-                                        </li>
-                                    {% endif %}
-                                    {% if item.SystemRank %}
-                                        <li style="padding-top:3px">
-                                            <span class="label label-primary">  {{item.SystemRank}} </span>
-                                            &nbsp;System
-                                        </li>
-                                    {% endif %}
-                                    {% if item.TheoryRank %}
-                                        <li style="padding-top:3px">
-                                            <span class="label label-primary"> {{item.TheoryRank}} </span>
-                                            &nbsp;Theory
-                                        </li>
-                                    {% endif %}
-                                    </ul>
-                                    <!-- end: rankings -->
+                                              <!-- Modal -->
+                                              <div class="modal fade" id="myModal{{item.Identity}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                <div class="modal-dialog" role="document">
+                                                  <div class="modal-content">
+                                                    <div class="modal-header">
+                                                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                      </button>
+                                                      <h4 class="modal-title" id="myModalLabel">{{item.Name}}</h4>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <p>
+                                                            <strong>{{item.Title}} </strong>at <strong> {{item.University}}</strong>
+                                                        </p>
+                                                        <p>
+                                                          <strong>Research Interests</strong> <br/>{{item.ResearchInterests}}
+                                                        </p>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                      <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                          </p>
+                                      {% endif %}
+                                      <p>
+                                          <a href="http://www.bing.com/search?q={{item.Name}}%20{{item.University}}">
+                                              <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">
+                                              Bing me!
+                                          </a>
+                                      </p>
+                                  {% else %}
+                                      <p>
+                                              <strong>{{item.Name}}</strong>
+                                      </p>
+                                      <p>
+                                           USNews Rankings
+                                       </p>
+                                       <p>
+                                          <!-- present rankings using unordered list  -->
+                                          <ul>
+                                          {% if item.CSRank %}
+                                              <li>
+                                                  <span class="label label-danger">  {{item.CSRank}} </span>
+                                                  &nbsp;Computer Science
+                                              </li>
+                                          {% endif %}
+                                          {% if item.AIRank %}
+                                              <li style="padding-top:3px">
+                                                  <span class="label label-primary">  {{item.AIRank}} </span>
+                                                  &nbsp;Artificial Intelligence
+                                              </li>
+                                          {% endif %}
+                                          {% if item.PLRank %}
+                                              <li style="padding-top:3px">
+                                                  <span class="label label-primary">  {{item.PLRank}} </span>
+                                                  &nbsp;Programming Language
+                                              </li>
+                                          {% endif %}
+                                          {% if item.SystemRank %}
+                                              <li style="padding-top:3px">
+                                                  <span class="label label-primary">  {{item.SystemRank}} </span>
+                                                  &nbsp;System
+                                              </li>
+                                          {% endif %}
+                                          {% if item.TheoryRank %}
+                                              <li style="padding-top:3px">
+                                                  <span class="label label-primary"> {{item.TheoryRank}} </span>
+                                                  &nbsp;Theory
+                                              </li>
+                                          {% endif %}
+                                          </ul>
+                                          <!-- end: rankings -->
 
-                                </p>
-                                <p>
-                                    At LEAST
-                                    <strong>{{item.NumACMFellow}}</strong> with ACM Fellowship,
-                                    <strong>{{item.NumIEEEFellow}}</strong> with IEEE Fellowship,
-                                    <strong>{{item.NumFunding}}</strong> with NSF Funding.
-                                </p>
-                                <p>
-                                    <a href="http://www.bing.com/search?q={{item.Name}}">
-                                        <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">Bing me!
-                                    </a>
-                                </p>
-                            {% endif %}
-                        </div>
-                    </div>
-                {% endfor %}
-                <ul class="pager">
-                    {% if curPage == "1" %}
-                    <li class="previous disabled">
-                        <a>Previous</a>
-                    </li>
-                    {% else %}
-                    <li class="previous">
-                        <a href="/home?keyword={{keyword}}&page={{prevPage}}">Previous</a>
-                    </li>
-                    {% endif %}
-                    {% if curPage == totalPage %}
-                    <li class="next disabled">
-                        <a>Next</a>
-                    </li>
-                    {% else %}
-                    <li class="next">
-                        <a href="/home?keyword={{keyword}}&page={{nextPage}}">Next</a>
-                    </li>
-                    {% endif %}
-                    <li>
-                    <form class="form-inline" action="/home" method="get">
-                      <div class="form-group">
-                        <div class="input-group">
-                          <div class="input-group-addon"><strong>Page</strong> {{curPage}} / {{totalPage}}</div>
-                          <input type="hidden" name="keyword" value="{{keyword}}">
-                          <input type="number" name="page" class="form-control" placeholder="Go to Page ...">
-                        </div>
-                      </div>
-                      <button type="submit" class="btn btn-default">Jump</button>
-                    </form>
-                    </li>
-                </ul>
+                                      </p>
+                                      <p>
+                                          At LEAST
+                                          <strong>{{item.NumACMFellow}}</strong> with ACM Fellowship,
+                                          <strong>{{item.NumIEEEFellow}}</strong> with IEEE Fellowship,
+                                          <strong>{{item.NumFunding}}</strong> with NSF Funding.
+                                      </p>
+                                      <p>
+                                          <a href="http://www.bing.com/search?q={{item.Name}}">
+                                              <img src="img/search_16px_1187523_easyicon.net.png" style="width: auto; height: auto">Bing me!
+                                          </a>
+                                      </p>
+                                  {% endif %}
+                              </div>
+                          </div>
+                      {% endfor %}
+                      <ul class="pager">
+                          {% if curPage == "1" %}
+                          <li class="previous disabled">
+                              <a>Previous</a>
+                          </li>
+                          {% else %}
+                          <li class="previous">
+                              <a href="/home?keyword={{keyword}}&page={{items['pageInfo'].prevPage}}&cat={{cat}}">Previous</a>
+                          </li>
+                          {% endif %}
+                          {% if curPage == totalPage %}
+                          <li class="next disabled">
+                              <a>Next</a>
+                          </li>
+                          {% else %}
+                          <li class="next">
+                              <a href="/home?keyword={{keyword}}&page={{items['pageInfo'].nextPage}}&cat={{cat}}">Next</a>
+                          </li>
+                          {% endif %}
+                          <li>
+                          <form class="form-inline" action="/home" method="get">
+                            <div class="form-group">
+                              <div class="input-group">
+                                <div class="input-group-addon"><strong>Page</strong> {{curPage}} / {{items['pageInfo'].totalPage}}</div>
+                                <input type="hidden" name="keyword" value="{{keyword}}">
+                                <input type="number" name="page" class="form-control" placeholder="Go to Page ...">
+                              </div>
+                            </div>
+                            <button type="submit" class="btn btn-default">Jump</button>
+                          </form>
+                          </li>
+                      </ul>
+                </div>
             {% endif %}
         </div>
 {% endblock %}

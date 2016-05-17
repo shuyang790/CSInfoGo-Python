@@ -76,7 +76,22 @@ def calcScoreUniv(item, keyword):
     ranking = float(80 - int(item['CSRank'])) / 80
     return ((nameCover * 5 + validCover) * 10 + ranking) * 8
 
-def getItems(keyword, page):
+def fitPageInfo(results, page):
+    total = len(results)
+    pageInfo = {
+        "totalPage": str((total + pageLen - 1) / pageLen), \
+        "curPage": page, \
+        "prevPage": str(int(page) - 1), \
+        "nextPage": str(int(page) + 1) \
+    }
+    curPage = int(page)
+    if ( curPage - 1 ) * pageLen >= len(results):
+        items = []
+    else:
+        items = results[(curPage - 1) * pageLen : curPage * pageLen]
+    return {"pageInfo": pageInfo, "items": items}
+
+def getItems(keyword, page, cat):
 
     if not os.path.isfile("./data/csinfo.db"):
         print "Cannot find database file, re-constructing ..."
@@ -171,13 +186,15 @@ def getItems(keyword, page):
     results = exactResults + results
     print results[:20]
 
+    univResults = [x for x in results if "isUniversity" in x]
+    personResults = [x for x in results if "isPerson" in x]
+
     # Select to render
-    total = len(results)
-    pageInfo = {
-        "totalPage": str((total + pageLen - 1) / pageLen), \
-        "curPage": page \
-    }
-    print pageInfo
-    curPage = int(page)
-    items = results[(curPage - 1) * pageLen : curPage * pageLen]
-    return (pageInfo, items)
+    if cat == 0:
+        return fitPageInfo(results, page)
+    elif cat == 1:
+        return fitPageInfo(univResults, page)
+    elif cat == 2:
+        return fitPageInfo(personResults, page)
+    else:
+        return []

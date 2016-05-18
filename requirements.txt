@@ -3,9 +3,11 @@ bs4==0.0.1
 dominate==2.2.0
 Flask==0.10.1
 Flask-Bootstrap==3.3.5.7
+gunicorn==19.5.0
 itsdangerous==0.24
 git+https://github.com/auzigog/jinja-bootstrap.git
 Jinja2==2.8
+lxml==3.6.0
 MarkupSafe==0.23
 requests==2.10.0
 visitor==0.1.2

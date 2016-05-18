@@ -12,6 +12,8 @@ Go for CS Information!
     - ACM / IEEE fellowship
     - Research areas (experimental)
 
+**Go** at <http://bsnsk.me:4000>
+
 ## Next Step
 
 1. Personal profile refinement:

@@ -76,6 +76,8 @@ def googleLucky(keyword):
         print "tag: " + tag
         if tag.find("url=http") != -1:
             start = tag.find("url=http") + len("url=")
+        elif tag.find("url?q=http") != -1:
+            start = tag.find("url?q=http") + len("url?q=")
         else:
             start = tag.find('href="') + len('href="')
         end = start
